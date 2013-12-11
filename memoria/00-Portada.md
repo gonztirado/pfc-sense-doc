@@ -1,11 +1,11 @@
-            ESCUELA TÉCNICA SUPERIOR DE INGENIERÍA INFORMÁTICA
-            ==================================================
+ESCUELA TÉCNICA SUPERIOR DE INGENIERÍA INFORMÁTICA            
+==================================================
 
-               INGENIERÍA TÉCNICA EN INFORMÁTICA DE SISTEMAS
-               =============================================
+INGENIERÍA TÉCNICA EN INFORMÁTICA DE SISTEMAS
+=============================================
 
-   Monitorización de temperatura a través de termógrafos inalámbricos
-   ==================================================================
+Monitorización de temperatura a través de termógrafos inalámbricos
+==================================================================
 
 
 Realizado por
