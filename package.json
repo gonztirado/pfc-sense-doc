@@ -1,0 +1,9 @@
+{
+    "name": "pfc-sense-doc"
+    "version": "0.1.2",
+    "description": "",    
+    "author": "Me <me@gmail.com>",
+    "dependencies": {
+        "gitbook-plugin-autocover": "1.2.0"
+    }
+}

@@ -1,8 +1,8 @@
 ESCUELA TÉCNICA SUPERIOR DE INGENIERÍA INFORMÁTICA
-==================================================
+--------------------------------------------------
 
 INGENIERÍA TÉCNICA EN INFORMÁTICA DE SISTEMAS
-=============================================
+---------------------------------------------
 
 Monitorización de temperatura a través de termógrafos inalámbricos
 ==================================================================
@@ -23,4 +23,4 @@ Departamento
 Lenguajes y Ciencias de la Computación
 
 
-Málaga, Diciembre de 2013
+###### Málaga, Septiembre de 2013 ######
