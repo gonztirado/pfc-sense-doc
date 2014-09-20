@@ -4,10 +4,10 @@ PFC Sense
 Monitorización de temperatura a través de termógrafos inalámbricos
 ------------------------------------------------------------------
 
-### ESCUELA TÉCNICA SUPERIOR DE INGENIERÍA INFORMÁTICA ###
+### ESCUELA TÉCNICA SUPERIOR DE INGENIERÍA INFORMÁTICA
 
 
-### INGENIERÍA TÉCNICA EN INFORMÁTICA DE SISTEMAS ### 
+### INGENIERÍA TÉCNICA EN INFORMÁTICA DE SISTEMAS
 
 
 #### Realizado por ####
@@ -39,7 +39,7 @@ Lenguajes y Ciencias de la Computación
 	- Gráfica e histórico de temperaturas para cada sensor
 	- Configuración de intervalos de captura de datos
 	- Alertas programables cuando se alcancen umbrales críticos
-	- Exportación de datos en diferentes formatos (Excel, CVS, JSON, XML, etc)	
+	- Exportación de datos en diferentes formatos (Excel, CVS, JSON, XML, etc)
 	- Envío de datos a servidor en la nube
 - Mejoras opcionales:
 	- Captura de posición GPS para adjuntar en la toma de temperaturas
@@ -58,18 +58,18 @@ Lenguajes y Ciencias de la Computación
 		- Exportación a diferentes formatos (Excel, CVS, JSON, XML, etc)
 - Mejoras opcionales
 	- Visualización de rutas con las tomas de temperaturas geoposicionadas en [cartodb.com](http://cartodb.com/)
-	- Dashboard web con monitorización de datos en tiempo real usando [duckboard.com](https://ducksboard.com)
+	- Dashboard web con monitorización de datos en tiempo real usando [ducksboard.com](https://ducksboard.com)
 
 ### Memoria ###
 - Introducción
-- Objetivos del proyecto
+- Objetivo
 - Historia del proyecto
 	- Prototipo de sensor bluetooth
 	- Prototipo de app BlackBerry java
 	- Uso de sensor Zigbee (Blubug)
 	- Integración con transmobile
 - Tecnologías utilizadas
-	- BlackBerry 10
+	- BlackBerry 10 / Android
 	- Bluetooth 4.0 Low Energy
 	- GPS
 	- iBeacon
@@ -83,7 +83,7 @@ Lenguajes y Ciencias de la Computación
 		- iPhone
 		- Windows Phone
 	- Protocolos de transmisión inalámbricos
-		- Zigbee	
+		- Zigbee
 - Metodologías ágiles
 	- Extreme programming (xP)
 	- Scrum / Kanban
