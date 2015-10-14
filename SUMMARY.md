@@ -11,5 +11,4 @@
    * [2013 - Giro inesperado](historia/2013.md)
    * [2014 - Un nuevo comienzo](historia/2014.md)
 * [Bibliografía](bibliografia/README.md)
-* test
 
