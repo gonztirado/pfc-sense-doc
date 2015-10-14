@@ -1,9 +1,9 @@
 # Summary
 
 * [Portada](README.md)
-* [Agradecimientos](agradecimientos/README.md)
-* [Introducción](introduccion/README.md)
-   * [Objectivo](objetivo/README.md)
+* [Agradecimientos](agradecimientos/agradecimientos.md)
+* [Introducción](introduccion/descripcion_general.md)
+   * [Objectivo](introduccion/objetivos.md)
 * [Historia](historia/README.md)
    * [2010 - Punto de partida](historia/2010.md)
    * [2011 - Segundo intento](historia/2011.md)
