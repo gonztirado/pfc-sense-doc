@@ -1,6 +1,5 @@
 # Introducción
 
-
 ## Descripción general
 
 Vivimos en un mundo cada vez más conectado, la mayor parte de la población dispone actualmente de teléfonos inteligentes, tabletas, ordenadores... todos ellos conectados a internet. En un futuro próximo se unirán más dispositivos, lo que han los expertos han denominado el **Internet de las Cosas**. Próximamente convivirán entre nosotros multitud de aparatos conectados que compartirán información entre si. Una primera oleada de estos dispositivos son los llamados *wearables*, o aparatos que nos ponemos como si una prenda más de vestir se tratara. Pero hay más dispositivos por llegar, de todo tipo, que estarán conectados de forma autónoma, se comunicarán entre ellos y que suministrarán información a internet por si mismos.
