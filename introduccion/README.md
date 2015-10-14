@@ -10,6 +10,8 @@ Para solventar este problema, algunos ingenieros han creado modelos de termógra
 
 El problema de este tipo de soluciones es, a día de hoy, la extracción y monitorización de la temperatura de los termógrafos, y es que, aunque se pueda recoger de forma inalámbrica, no existe en el mercado una solución para monitorizar esta temperatura en tiempo real, sino que se observa a posteriori. En estas situaciones sólo se puede cerciorar que se ha roto la cadena de frío. Si esto sucede con productos muy sensibles a la temperatura sólo sirve para constatar que se ha echado a perder el producto en cuestión. Lo deseado sería actuar ante dicho evento, previniendo la pérdida del producto.
 
+// TODO mejorar legibilidad, añadir listas, negritas, etc para que no resulte pesada la lectura
+
 
 ## Bibliografía
 
