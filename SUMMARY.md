@@ -3,7 +3,7 @@
 * [Portada](README.md)
 * [Agradecimientos](agradecimientos/agradecimientos.md)
 * [Introducción](introduccion/descripcion_general.md)
-   * [Objectivo](introduccion/objetivos.md)
+   * [Objectivo](introduccion/objetivo.md)
 * [Historia](historia/historia.md)
    * [2010 - Punto de partida](historia/2010.md)
    * [2011 - Segundo intento](historia/2011.md)
