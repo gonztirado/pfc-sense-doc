@@ -6,6 +6,3 @@ El objetivo del proyecto consiste en desarrollar una solución de monitorizació
 - Integrable con cualquier sistema de gestión.
 - Adaptarse para diferentes casos de uso.
 - No suponer un alto coste.
-
-
-**// TODO mejorar objetivos**
