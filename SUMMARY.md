@@ -4,6 +4,7 @@
 * [Agradecimientos](agradecimientos/agradecimientos.md)
 * [Introducción](introduccion/descripcion_general.md)
    * [Objectivo](introduccion/objetivo.md)
+   * Estructura de la memoria
 * [Historia](historia/historia.md)
    * [2010 - Punto de partida](historia/2010.md)
    * [2011 - Segundo intento](historia/2011.md)
