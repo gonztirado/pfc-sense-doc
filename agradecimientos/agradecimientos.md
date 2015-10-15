@@ -12,4 +12,4 @@
 
 ** A mis jefes**, por facilitarme el tiempo y los medios para que pudiera llevar a cabo la investigación de este proyecto.
 
-A todos os dedico este proyecto, porque sin vosotros no lo hubiera conseguido.
+A todos os doy las gracias de corazón, porque sin vosotros no lo hubiera conseguido.
