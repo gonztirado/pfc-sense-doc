@@ -12,5 +12,5 @@
    * [2014 - Un nuevo comienzo](historia/2014.md)
 * [Agradecimientos](agradecimientos/agradecimientos.md)
 * [Bibliografía](bibliografia/bibliografia.md)
-* Tareas pendientes
+* [Tareas pendientes](tareas/tareas_pendientes.md)
 
