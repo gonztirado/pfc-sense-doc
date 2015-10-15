@@ -2,6 +2,9 @@
 
 **// TODO ver formato adecuado de bibliografía**
 
+
+## Introducción
+
 http://en.wikipedia.org/wiki/Wearable_computer
 
 http://es.wikipedia.org/wiki/Internet_de_las_cosas
@@ -20,3 +23,9 @@ http://www.transporteprofesional.es/actualidad/72-union-europea/2512-se-establec
 http://tacograferos.blogspot.com.es/2011/03/termografo.html, 2011.
 
 (Evidencia, 2012) ¿Que es un registrador de temperatura?, http://www.evidencia.biz/espanol/what-is/index.htm , 2012.
+
+
+## Historia 2010
+
+- [Cadena de frío](http://es.wikipedia.org/wiki/Cadena_de_fr%C3%ADo)
+- [Chip BlueRadios Mega BlueStamp](http://www.blueradios.com/BR-ATM_Commands_Rev_3.6.2.1.0.0_1.1.0.pdf)
