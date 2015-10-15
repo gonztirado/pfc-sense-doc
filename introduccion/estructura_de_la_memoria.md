@@ -2,8 +2,11 @@
 
 A continuación haremos una introducción de los capítulos de los que va a constar esta memoria:
 
+* **Capítulo 1.	Introuccion **:
+Breve descripción de en qué consiste el proyecto, las causas de llevarlo a cabo y los objetivos del mismo
+
 * **Capítulo 2.	Historia del proyecto **:
-Realizamos un estudio de las tecnologías y herramientas existentes, comparándolas para estudiar la posibilidad de usarlas en el desarrollo de nuestro proyecto
+Análisis de la historia y evolución del proyecto a través de los años, las tecnologías y las investigaciones llevadas a cabo.
 
 * **Capítulo 3.	Tecnologías y herramientas**:
 Realizamos un estudio de las tecnologías y herramientas existentes, comparándolas para estudiar la posibilidad de usarlas en el desarrollo de nuestro proyecto
