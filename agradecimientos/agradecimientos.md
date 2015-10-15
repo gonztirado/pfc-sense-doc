@@ -8,6 +8,6 @@
 
 **A mis padres**, por su amor incondicional, por proporcionarme la educación que tengo, por apoyarme siempre en todo lo que me he propuesto estudiar e impulsarme para que siempre siguiera hacia adelante.
 
-**A mi abuela**, especialmente a ella, por enseñarme que para hacer una carrera o apreder un oficio se necesita tener paciencia, constancia y tenerle cariño a aquello que se quiere aprender.
+**A mi abuela**, especialmente a ella, por enseñarme que para hacer una carrera o apreder un oficio se necesita tener buena fé, constancia y tenerle cariño a aquello que se quiere aprender.
 
 A todos vosotros os dedico este proyecto, porque sin vuestra ayuda no lo hubiera conseguido.
