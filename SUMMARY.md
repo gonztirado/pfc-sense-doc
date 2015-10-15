@@ -1,6 +1,7 @@
 # Summary
 
 * [Portada](README.md)
+* Dedicatoria
 * [Introducción](introduccion/descripcion_general.md)
    * [Objectivo](introduccion/objetivo.md)
    * [Estructura de la memoria](introduccion/estructura_de_la_memoria.md)
@@ -13,5 +14,4 @@
 * [Agradecimientos](agradecimientos/agradecimientos.md)
 * [Bibliografía](bibliografia/bibliografia.md)
 * [Tareas pendientes](tareas/tareas_pendientes.md)
-* Dedicatoria
 
