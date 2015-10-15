@@ -1,6 +1,6 @@
 # Estructura de la memoria
 
-Ya hemos visto una pequeña introducción del proyecto. A continuación haremos una breve descripción de los siguientes capítulos de los que va a constar esta memoria:
+Ya hemos visto una pequeña introducción a este proyecto. A continuación haremos una breve descripción de los siguientes capítulos de los que va a constar esta memoria:
 
 * **Capítulo 2.	Historia del proyecto **:
 Análisis de la historia y evolución del proyecto a través de los años, las tecnologías y las investigaciones llevadas a cabo.
