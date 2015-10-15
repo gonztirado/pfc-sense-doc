@@ -1,9 +1,6 @@
 # Estructura de la memoria
 
-A continuación haremos una introducción de los capítulos de los que va a constar esta memoria:
-
-* **Capítulo 1.	Introducción **:
-Breve descripción de en qué consiste el proyecto, las causas de llevarlo a cabo y los objetivos del mismo
+Ya hemos visto una pequeña introducción del proyecto. A continuación haremos una breve descripción de los siguientes capítulos de los que va a constar esta memoria:
 
 * **Capítulo 2.	Historia del proyecto **:
 Análisis de la historia y evolución del proyecto a través de los años, las tecnologías y las investigaciones llevadas a cabo.
