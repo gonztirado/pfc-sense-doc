@@ -23,7 +23,7 @@
 	- Servicio web para súbida de datos de temperatura
 	- Visualización de datos
 		- Tablas
-		- Gráficas de temperatura
+		- Gráficas de temperatura: http://www.highcharts.com/
 		- Informes
 		- Exportación a diferentes formatos (Excel, CVS, JSON, XML, etc)
 - Mejoras opcionales
