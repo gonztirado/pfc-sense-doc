@@ -2,7 +2,7 @@
 
 A continuación haremos una introducción de los capítulos de los que va a constar esta memoria:
 
-* **Capítulo 1.	Introuccion **:
+* **Capítulo 1.	Introduccion **:
 Breve descripción de en qué consiste el proyecto, las causas de llevarlo a cabo y los objetivos del mismo
 
 * **Capítulo 2.	Historia del proyecto **:
