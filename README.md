@@ -22,7 +22,7 @@ Dr. Antonio J. Fernández Leiva
 Lenguajes y Ciencias de la Computación
 
 
-###### Málaga, Noviembre de 2015 ######
+###### Málaga, noviembre de 2015 ######
 
 
 
