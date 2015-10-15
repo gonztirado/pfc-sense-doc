@@ -1,3 +1,21 @@
 # Estructura de la memoria
 
-// TODO
+A continuación haremos una introducción de los capítulos de los que va a constar esta memoria:
+
+* **Capítulo 2.	Tecnologías y herramientas**:
+Realizamos un estudio de las tecnologías y herramientas existentes, comparándolas para estudiar la posibilidad de usarlas en el desarrollo de nuestro proyecto
+
+* **Capítulo 3.	Especificación y análisis**:
+Realizamos un estudio de la metodología de desarrollo a aplicar, concretamos la toma de requisitos, funcionales y no funcionales, detallando los casos de usos detectados. También analizamos la interfaz de usuario y la base de datos.
+
+* **Capítulo 4.	Diseño e implementación**:
+En este capítulo se detallará el diseño por capas, los módulos principales que componen el sistema y los patrones de diseño usados, incluyendo diagramas UML para facilitar su visualización, y explicando el modelo relacional de la base de datos. Otra parte importante será explicar la implementación de la aplicación web y los problemas más importantes detectados al realizarla.
+
+* **Capítulo 5.	Pruebas**:
+Detallamos las herramientas utilizadas para realizar las distintas pruebas ejecutadas en el proyecto y mostramos un ejemplo explicando las partes más destacadas.
+
+* **Capítulo 6.	Conclusiones y mejoras futuras**:
+En este último capítulo explicaremos las conclusiones y los resultados a los que hemos llegado tras desarrollar la aplicación web. También detallaremos futuros desarrollos que mejorarían la aplicación y su uso.
+
+
+**// TODO Revisar los capítulos y reescrbçibir la descripción de los mismos**
