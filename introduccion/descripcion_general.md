@@ -13,11 +13,4 @@ En reconocimiento a la creciente demanda de una administración óptima de la **
 - Además, en todos estos tipos de dispositivos, al estar cableados, implica de una instalación allí donde se requiere su uso, con el coste de mantenimiento que ello conlleva.
 
 
-**// TODO mejorar legibilidad, añadir listas, negritas, etc para que no resulte pesada la lectura**
-
-
-
-
-## Bibliografía
-
 
