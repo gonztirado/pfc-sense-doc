@@ -1,5 +1,7 @@
 # Agradecimientos
 
+** A mis jefes**, por facilitarme el tiempo y los medios para que pudiera llevar a cabo la investigación de este proyecto.
+
 **A mis compañeros de trabajo**, por permitidme aprender de vosotros cada día, por apoyar las iniciativas que he propuesto y por llevarme la contraria cuando no tenía razón.
 
 **A mis amigos**, por ser como sois, por aceptarme tal y como soy yo, por animarme cuando estaba mal para que no me rindiera y por distraerme cuando era necesario.
@@ -10,4 +12,4 @@
 
 **A mi abuela**, especialmente a ella, por enseñarme que para hacer una carrera o apreder un oficio se necesita tener buena fé, constancia y tenerle cariño a aquello que se quiere aprender.
 
-A todos vosotros os dedico este proyecto, porque sin vuestra ayuda no lo hubiera conseguido.
+A todos os dedico este proyecto, porque sin vosotros no lo hubiera conseguido.
