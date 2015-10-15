@@ -1,7 +1,6 @@
 # Summary
 
 * [Portada](README.md)
-
 * [Introducción](introduccion/descripcion_general.md)
    * [Objectivo](introduccion/objetivo.md)
    * [Estructura de la memoria](introduccion/estructura_de_la_memoria.md)
@@ -13,5 +12,5 @@
    * [2014 - Un nuevo comienzo](historia/2014.md)
 * [Agradecimientos](agradecimientos/agradecimientos.md)
 * [Bibliografía](bibliografia/bibliografia.md)
-
+* Tareas pendientes
 
