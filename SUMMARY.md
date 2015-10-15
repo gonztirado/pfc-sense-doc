@@ -1,7 +1,7 @@
 # Summary
 
 * [Portada](README.md)
-* Dedicatoria
+* [Dedicatoria](dedicatoria.md)
 * [Introducción](introduccion/descripcion_general.md)
    * [Objectivo](introduccion/objetivo.md)
    * [Estructura de la memoria](introduccion/estructura_de_la_memoria.md)
