@@ -1,6 +1,6 @@
 # Bibliografía
 
-// TODO ver formato adecuado de bibliografía
+**// TODO ver formato adecuado de bibliografía**
 
 http://en.wikipedia.org/wiki/Wearable_computer
 
