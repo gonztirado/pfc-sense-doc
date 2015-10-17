@@ -43,4 +43,9 @@ http://tacograferos.blogspot.com.es/2011/03/termografo.html, 2011.
 ## Historia 2013
 - [Blackberry 10 - wikipedia](https://es.wikipedia.org/wiki/BlackBerry_10)
 - [Blackberry 10- pagina oficial](http://global.blackberry.com/es/software/smartphones/blackberry-10-os.html)
+- 
+
+
+## Historia 2014
+- [Cuota de mercado smartphones](https://en.wikipedia.org/wiki/Mobile_operating_system#cite_note-IDC_Mobile_Operating_System_Market_Share_2015_Q1-61)
 
