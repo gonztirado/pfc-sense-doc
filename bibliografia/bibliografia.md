@@ -48,5 +48,6 @@ http://tacograferos.blogspot.com.es/2011/03/termografo.html, 2011.
 
 ## Historia 2014
 - [Cuota de mercado smartphones](https://en.wikipedia.org/wiki/Mobile_operating_system#cite_note-IDC_Mobile_Operating_System_Market_Share_2015_Q1-61)
-- [Bluetooth LE](https://en.wikipedia.org/wiki/Bluetooth_low_energy)
+- [Bluetooth LE - wikipedia](https://en.wikipedia.org/wiki/Bluetooth_low_energy)
+- [Bluetooth LE - oficial](http://www.bluetooth.com/Pages/low-energy-tech-info.aspx)
 
