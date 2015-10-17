@@ -37,3 +37,10 @@ http://tacograferos.blogspot.com.es/2011/03/termografo.html, 2011.
 - [ZigBee sensors](http://www.zigbeesensors.co.uk)
 - [Grabba](http://www.grabba.com/)
 - [Grado de protección IP67](http://es.wikipedia.org/wiki/Grado_de_protecci%C3%B3n_IP)
+- 
+
+
+## Historia 2013
+- [Blackberry 10 - wikipedia](https://es.wikipedia.org/wiki/BlackBerry_10)
+- [Blackberry 10- pagina oficial](http://global.blackberry.com/es/software/smartphones/blackberry-10-os.html)
+
