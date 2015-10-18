@@ -13,8 +13,8 @@
    * [2014 - Un nuevo comienzo](historia/2014.md)
 * [Tecnologías y herramientas](tecnologias/tecnologias_y_herramientas.md)
 * [Especificación y análisis](especificacion/especificacion_y_analisis.md)
+* [Diseño e implementación](diseno/diseno_e_implementacion.md)
 * [Agradecimientos](agradecimientos/agradecimientos.md)
 * [Bibliografía](bibliografia/bibliografia.md)
 * [Tareas pendientes](tareas/tareas_pendientes.md)
-* [Diseño e implementación](diseno/diseno_e_implementacion.md)
 
