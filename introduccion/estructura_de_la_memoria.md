@@ -2,7 +2,7 @@
 
 Después de esta pequeña introducción al proyecto haremos una breve descripción de los siguientes capítulos de los que va a constar esta memoria:
 
-* **Capítulo 2.	Historia del proyecto **:
+* **Capítulo 2.	Historia **:
 Análisis de la historia y evolución del proyecto a través de los años, las tecnologías y las investigaciones llevadas a cabo.
 
 * **Capítulo 3.	Tecnologías y herramientas**:
