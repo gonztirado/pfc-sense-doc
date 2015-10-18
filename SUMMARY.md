@@ -14,5 +14,5 @@
 * [Agradecimientos](agradecimientos/agradecimientos.md)
 * [Bibliografía](bibliografia/bibliografia.md)
 * [Tareas pendientes](tareas/tareas_pendientes.md)
-* Tecnologías y herramientas
+* [Tecnologías y herramientas](tecnologias/tecnologias_y_herramientas.md)
 
