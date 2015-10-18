@@ -15,5 +15,5 @@
 * [Agradecimientos](agradecimientos/agradecimientos.md)
 * [Bibliografía](bibliografia/bibliografia.md)
 * [Tareas pendientes](tareas/tareas_pendientes.md)
-* Especificación y análisis
+* [Especificación y análisis](especificacion/especificacion_y_analisis.md)
 
