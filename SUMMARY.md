@@ -12,8 +12,8 @@
    * [2013 - Giro inesperado](historia/2013.md)
    * [2014 - Un nuevo comienzo](historia/2014.md)
 * [Tecnologías y herramientas](tecnologias/tecnologias_y_herramientas.md)
+* [Especificación y análisis](especificacion/especificacion_y_analisis.md)
 * [Agradecimientos](agradecimientos/agradecimientos.md)
 * [Bibliografía](bibliografia/bibliografia.md)
 * [Tareas pendientes](tareas/tareas_pendientes.md)
-* [Especificación y análisis](especificacion/especificacion_y_analisis.md)
 
