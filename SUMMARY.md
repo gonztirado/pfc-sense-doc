@@ -15,8 +15,8 @@
 * [Especificación y análisis](especificacion/especificacion_y_analisis.md)
 * [Diseño e implementación](diseno/diseno_e_implementacion.md)
 * [Pruebas](pruebas/pruebas.md)
+* [Conclusiones y mejoras futuras](conclusiones/conclusiones_y_mejoras_futuras.md)
 * [Agradecimientos](agradecimientos/agradecimientos.md)
 * [Bibliografía](bibliografia/bibliografia.md)
 * [Tareas pendientes](tareas/tareas_pendientes.md)
-* [Conclusiones y mejoras futuras](conclusiones/conclusiones_y_mejoras_futuras.md)
 
