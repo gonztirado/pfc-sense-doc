@@ -1,23 +1,22 @@
 ## Tareas a realizar ##
 
 ### Aplicación móvil ###
-- App [BlackBerry 10](https://developer.blackberry.com/native/)
-- Sensores Bluetooth LE. [SensorTag Texas Instruments CC2541](http://www.ti.com/tool/cc2541dk-sensor)
+- App [Android](http://developer.android.com/develop/index.html)
+- Sensores Bluetooth LE. [SensorTag Texas Instruments](http://www.ti.com/ww/en/wireless_connectivity/sensortag2015/index.html)
 - Funcionalidad deseada
 	- Monitorización de uno o varios sensores
 	- Temperatura actual de cada sensor
 	- Gráfica e histórico de temperaturas para cada sensor
 	- Configuración de intervalos de captura de datos
-	- Alertas programables cuando se alcancen umbrales críticos
 	- Exportación de datos en diferentes formatos (Excel, CVS, JSON, XML, etc)
 	- Envío de datos a servidor en la nube
 - Mejoras opcionales:
+    - Alertas programables cuando se alcancen umbrales críticos
 	- Captura de posición GPS para adjuntar en la toma de temperaturas
 	- Búsqueda de sensor perdido aprovechando la capacidad de usar como iBeacon
-	- App [Android](http://developer.android.com/index.html)
 
 ### Servicios y backoffice en servidor ###
-- Servidor [backbeam.io](http://backbeam.io/)
+- Servidor [parse.com](http://parse.com/)
 - Funcionalidad deseada
 	- Backoffice para gestionar terminales y sensores
 	- Servicio web para súbida de datos de temperatura
