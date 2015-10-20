@@ -24,6 +24,8 @@ http://tacograferos.blogspot.com.es/2011/03/termografo.html, 2011.
 
 (Evidencia, 2012) ¿Que es un registrador de temperatura?, http://www.evidencia.biz/espanol/what-is/index.htm , 2012.
 
+APLICACIÓN WEB PARA RESOLVER SISTEMAS DE ECUACIONES LINEALES (ALBERTO RAMÍREZ HENARES)
+
 
 ## Historia 2010
 
