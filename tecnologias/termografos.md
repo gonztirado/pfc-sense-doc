@@ -32,5 +32,4 @@ El primer paso consiste en determinar que tecnología inalámbrica vamos a utili
 | ---------------- | ------------------------- | ------------- | ---------- | -------------------- |
 | **Wifi**         |  Objetive C, Swift        | Si (OS 5+)    | 18.30%     | Alta                 |
 | **Zigbee**       |  Java                     | Si (OS 4.3+)  | 78.00%     | Baja                 |
-| **Bluetooth LE** |  C#, Visual Basic.NET     | Si (OS 8.1+)  | 2.70%      | Media                | |
-###### *Tabla 1: Comparativa de protocolos de comunicación inalámbrica*
+| **Bluetooth LE** |  C#, Visual Basic.NET     | Si (OS 8.1+)  | 2.70%      | Media                | ###### *Tabla 1: Comparativa de protocolos de comunicación inalámbrica*
