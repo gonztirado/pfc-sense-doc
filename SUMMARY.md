@@ -15,6 +15,7 @@
    * [Plataformas móviles](tecnologias/plataformas_moviles.md)
    * [Termógrafos](tecnologias/termografos.md)
    * [Plataformas web](tecnologias/plataformas_web.md)
+   * Otras herramientas
 * [Especificación y análisis](especificacion/especificacion_y_analisis.md)
 * [Diseño e implementación](diseno/diseno_e_implementacion.md)
 * [Pruebas](pruebas/pruebas.md)
