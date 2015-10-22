@@ -60,7 +60,7 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 | **Android**       |  Java                     | libre         | Si (OS 4.3+)  | 78.00% | Baja                 |
 | **Windows Phone** |  C#, Visual Basic.NET     | propietario   | Si (OS 8.1+)  | 2.70%  | Media                |
 | **BlackBerry 10** |  C/C++, Qt/Cascades       | prop./libre   | Si (OS 10.0+) | 0.30%  | Baja                 |
-| **Híbrido HTML5** |  HTML5, CSS3 y javascript | libre         | con plugins   | 100%   | Media                |
+| **Híbrido HTML5** |  HTML5, CSS3 y Javascript | libre         | con plugins   | 100%   | Media                |
 ###### *Tabla 1: Comparativa de plataformas móviles*
 
 
