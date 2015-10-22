@@ -14,6 +14,7 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 - Sólo disponible en disponible en dispositivos de Apple: iPhone, iPad y iPod Touch
 - Soporte de Bluetooth Low Energy para dispositivos iPhone 4S en adelante
 - Cuota de mercado en 2015 del 18.3%
+- Curva de aprendizaje personal alta, ya que desconozco por completo el desarrollo en esta plataforma y además es necesario un Mac.
 
 
 ## Android
@@ -36,10 +37,10 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 
 ## BlackBerry 10
 - Sistema Operativo creado por BlackBerry que fue lanzado en Enero de 2013.
-- Programación en C# y Visual Basic.NET.
+- Programación en C++ con Qt/Cascades.
 - El código fuente es propietario.
-- Disponible en terminales de multitud de marcas como Microsoft/Nokia, Acer, ASUS, Dell, HP, Lenovo, Toshiba etc.
-- Soporte de Bluetooth Low Energy a partir de Windows Phone 8.1
+- Sólo disponible en terminales fabricados por BlackBerry.
+- Soporte de Bluetooth Low Energy a partir de 
 - Cuota de mercado en 2015 del 0.3%
 
 
