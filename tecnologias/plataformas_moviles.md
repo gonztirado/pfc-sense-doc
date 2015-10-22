@@ -8,7 +8,7 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 
 
 ## iOS
-- Sistema Operativo con creado por Apple que fue lanzado en Junio de 2007 con el primer iPhone.
+- Sistema Operativo creado por Apple que fue lanzado en Junio de 2007 con el primer iPhone.
 - Programación en Objetive C y Swift
 - Código fuente propietario
 - Sólo disponible en disponible en dispositivos de Apple: iPhone, iPad y iPod Touch
@@ -26,8 +26,8 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
  
 
 ## Windows Phone
-- Sistema Operativo con kernel de Linux creado por Google que fue lanzado en Noviembre de 2010.
-- Programación en Java.
+- Sistema Operativo creado por Microsoft que fue lanzado en Noviembre de 2010.
+- Programación en C# y Visual Basic.NET.
 - El código fuente es libre.
 - Disponible en terminales de multitud de marcas como Samsung, Sony, HTC, LG, Motorola, etc.
 - Soporte de Bluetooth Low Energy a partir de la API 4.3 de Android
