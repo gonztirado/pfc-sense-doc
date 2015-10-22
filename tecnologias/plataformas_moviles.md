@@ -47,8 +47,8 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 - Curva de aprendizaje personal baja. Estoy muy familiarizado con la plataforma y he realizado ya multiples aplicaciones, de hecho mi terminal personal actualmente es una BlackBerry Z10.
 
 
-## Desarrollo Híbrido HTML5 
-- Sistema Operativo creado por BlackBerry que fue lanzado en Enero de 2013.
+## Desarrollo Hibrido HTML5 
+- Existen varios sistemas operativos con desarrollos en HTML 5 como Firefox OS, Sailfish OS
 - Programación en C++ con Qt/Cascades.
 - El código fuente es propietario.
 - Sólo disponible en terminales fabricados por BlackBerry.
