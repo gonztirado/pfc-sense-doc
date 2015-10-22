@@ -37,7 +37,7 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 - Programación nativa en C++ con Qt/Cascades, pero es compatible con aplicaciones Android realizadas en Java.
 - El código fuente del sistema operativo es propietario pero de Qt es libre.
 - Sólo disponible en terminales fabricados por BlackBerry.
-- Soporte de Bluetooth Low Energy a partir de 
+- Soporte de Bluetooth Low Energy a partir de 10.0
 - Cuota de mercado en 2015 del 0.3%
 - Curva de aprendizaje personal baja. Estoy muy familiarizado con la plataforma y he realizado ya multiples aplicaciones, de hecho mi terminal personal actualmente es una BlackBerry Z10.
 
