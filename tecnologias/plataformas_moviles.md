@@ -56,13 +56,13 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 - Cuota de mercado en sistemas operativos en 2015 inferior de 0.1% pero portable a todas las plataformas.
 - Curva de aprendizaje personal media. Estoy familiarizado con el desarrollo web pero no he realizado una aplicación móvil completa con un framework html5.
 
-| Plataforma        | Lenguaje de programación  | Código fuente | Bluetooh LE | BlackBerry | Windows Phone |
-| ----------------- | ------------------------- | ------------- | ------- | ---------- | ------------- |
-| **iOS**           |  Objetive C, Swift        | propietario   |   Si () |      0.30% |         2.70% |
-| **Android**       |  Java                     | libre         |   Si |      0.50% |         2.50% |
-| **Windows Phone** |  C#, Visual Basic.NET     | propietario   |   Si |      2.91% |         3.24% |
-| **BlackBerry 10** |  C/C++, Qt/Cascades       | prop./libre   |   Si |      6.37% |         2.17% |
-| **Híbrido HTML5** |  HTML5, CSS3 y javascript | libre         |  25.98% |     13.58% |         2.56% |
+| Plataforma        | Lenguaje de programación  | Código fuente | Bluetooh LE   | BlackBerry | Windows Phone |
+| ----------------- | ------------------------- | ------------- | ------------- | ---------- | ------------- |
+| **iOS**           |  Objetive C, Swift        | propietario   | Si (OS 5+)    |      0.30% |         2.70% |
+| **Android**       |  Java                     | libre         | Si (OS 4.3+)  |      0.50% |         2.50% |
+| **Windows Phone** |  C#, Visual Basic.NET     | propietario   | Si (OS 8.1+)  |      2.91% |         3.24% |
+| **BlackBerry 10** |  C/C++, Qt/Cascades       | prop./libre   | Si (OS 10.0+) |      6.37% |         2.17% |
+| **Híbrido HTML5** |  HTML5, CSS3 y javascript | libre         | con plugins   |     13.58% |         2.56% |
 ###### *Tabla 1: Comparativa de plataformas móviles*
 
 
