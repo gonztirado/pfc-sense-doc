@@ -2,9 +2,7 @@
 
 En el mercado existen muchísimos fabricantes e incontables modelos de smarthphone disponibles para el consumidor, pero no tanta diversidad de plataformas móviles para el desarrollo. Vamos a a realizar una introducción sobre las diferentes alternativas existentes, ver sus características exponer sus ventajas y desventajas.
 
-| Año   | Android |   iOS  | Symbian | BlackBerry | Windows Phone |
-| ----- | ------- | ------ | ------- | ---------- | ------------- |
-| 2015  |  78.00% | 18.30% |   0.00% |      0.30% |         2.70% |
+
 
 
 ## iOS
@@ -56,18 +54,17 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 - Cuota de mercado en sistemas operativos en 2015 inferior de 0.1% pero portable a todas las plataformas.
 - Curva de aprendizaje personal media. Estoy familiarizado con el desarrollo web pero no he realizado una aplicación móvil completa con un framework html5.
 
-| Plataforma        | Lenguaje de programación  | Código fuente | Bluetooh LE   | Cuota 
-# 
-
- Windows Phone |
-| ----------------- | ------------------------- | ------------- | ------------- | ------- | ------------- |
-| **iOS**           |  Objetive C, Swift        | propietario   | Si (OS 5+)    |      0.30% |         2.70% |
-| **Android**       |  Java                     | libre         | Si (OS 4.3+)  |      0.50% |         2.50% |
-| **Windows Phone** |  C#, Visual Basic.NET     | propietario   | Si (OS 8.1+)  |      2.91% |         3.24% |
-| **BlackBerry 10** |  C/C++, Qt/Cascades       | prop./libre   | Si (OS 10.0+) |      6.37% |         2.17% |
-| **Híbrido HTML5** |  HTML5, CSS3 y javascript | libre         | con plugins   |     13.58% |         2.56% |
+| Plataforma        | Lenguaje de programación  | Código fuente | Bluetooh LE   | Cuota  | Curva de aprendizaje |
+| ----------------- | ------------------------- | ------------- | ------------- | ------ | -------------------- |
+| **iOS**           |  Objetive C, Swift        | propietario   | Si (OS 5+)    | 18.30% | Alta                 |
+| **Android**       |  Java                     | libre         | Si (OS 4.3+)  | 78.00% | Baja                 |
+| **Windows Phone** |  C#, Visual Basic.NET     | propietario   | Si (OS 8.1+)  | 2.70%  | Media                |
+| **BlackBerry 10** |  C/C++, Qt/Cascades       | prop./libre   | Si (OS 10.0+) | 0.30%  | Baja                 |
+| **Híbrido HTML5** |  HTML5, CSS3 y javascript | libre         | con plugins   | 100%   | Media                |
 ###### *Tabla 1: Comparativa de plataformas móviles*
 
 
-
+| Año   | Android |   iOS  | Symbian | BlackBerry | Windows Phone |
+| ----- | ------- | ------ | ------- | ---------- | ------------- |
+| 2015  |  78.00% | 18.30% |   0.00% |      0.30% |         2.70% |
 
