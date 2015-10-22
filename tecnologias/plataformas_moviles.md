@@ -3,6 +3,8 @@
 En el mercado existen muchísimos fabricantes e incontables modelos de smarthphone disponibles para el consumidor, pero no tanta diversidad de plataformas móviles para el desarrollo. Vamos a a realizar una introducción sobre las diferentes alternativas existentes, ver sus características exponer sus ventajas y desventajas.
 
 
+
+
 ## iOS
 - Sistema Operativo con creado por Apple que fue lanzado en Junio de 2007 con el primer iPhone.
 - Programación en Objetive C y Swift
