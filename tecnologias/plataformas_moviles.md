@@ -63,7 +63,7 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 | 2013  |  74.98% | 17.30% |   0.56% |      2.91% |         3.24% |
 | 2012  |  59.03% | 23.05% |   6.83% |      6.37% |         2.17% |
 | 2011  |  36.12% | 18.31% |  25.98% |     13.58% |         2.56% |
-
+###### *Tabla 1: Comparativa de plataformas móviles*
 
 
 
