@@ -56,6 +56,7 @@ APLICACIÓN WEB PARA RESOLVER SISTEMAS DE ECUACIONES LINEALES (ALBERTO RAMÍREZ 
 
 
 ## Plataformas móviles
+- [iOS - wikipedia](https://es.wikipedia.org/wiki/IOS)
 - [Android - wikipedia](https://es.wikipedia.org/wiki/Android)
 
 
