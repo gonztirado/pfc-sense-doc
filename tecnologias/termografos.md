@@ -23,4 +23,4 @@ El primer paso consiste en determinar que tecnología inalámbrica vamos a utili
 ### Bluetooth Low Energy
  - Disponible en todos los terminales móviles.
  - Mantener el canal de comunicación wifi con un sensor consume bastante energía.
- - Además, si se mantiene el canal abierto con un canal no podríamos conectarnos a nuestra red local para conectarnos a internet
+ 
