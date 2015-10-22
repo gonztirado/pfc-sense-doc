@@ -58,11 +58,11 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 
 | Plataforma        | Lenguaje de programación |   iOS  | Symbian | BlackBerry | Windows Phone |
 | ----------------- | ------- | ------ | ------- | ---------- | ------------- |
-| **iOS**           |  78.00% | 18.30% |   0.00% |      0.30% |         2.70% |
-| **Android**       |  81.20% | 15.20% |   0.00% |      0.50% |         2.50% |
-| **Windows Phone** |  74.98% | 17.30% |   0.56% |      2.91% |         3.24% |
-| **BlackBerry 10** |  59.03% | 23.05% |   6.83% |      6.37% |         2.17% |
-| **Híbrido HTML5** |  36.12% | 18.31% |  25.98% |     13.58% |         2.56% |
+| **iOS**           |  Objetive C, Swift | 18.30% |   0.00% |      0.30% |         2.70% |
+| **Android**       |  Java | 15.20% |   0.00% |      0.50% |         2.50% |
+| **Windows Phone** |  C#, Visual Basic.NET | 17.30% |   0.56% |      2.91% |         3.24% |
+| **BlackBerry 10** |  C/C++, Qt/Cascades | 23.05% |   6.83% |      6.37% |         2.17% |
+| **Híbrido HTML5** |  html5, css3 y javascrip | 18.31% |  25.98% |     13.58% |         2.56% |
 ###### *Tabla 1: Comparativa de plataformas móviles*
 
 
