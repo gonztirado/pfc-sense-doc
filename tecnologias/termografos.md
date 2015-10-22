@@ -22,5 +22,9 @@ El primer paso consiste en determinar que tecnología inalámbrica vamos a utili
 
 ### Bluetooth Low Energy
  - Disponible en todos los terminales móviles.
- - Mantener el canal de comunicación wifi con un sensor consume bastante energía.
+ - Consumo de energía en modo inactivo ultra bajo
+ - Capacidad de durabilidad en las baterías de tipo botón durante años 
+ - Menor coste de implementación
+ - Interoperabilidad entre múltiples proveedores
+ - Rango de alcance mejorado
  
