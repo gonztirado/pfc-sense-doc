@@ -4,7 +4,7 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 
 
 ## Android
-- Sistema Operativo con kernel de Linux creado por Google que fue lanzado en Septiembre de 208
+- Sistema Operativo con kernel de Linux creado por Google que fue lanzado en Septiembre de 2008
 - Programación en Java
 
 
