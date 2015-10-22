@@ -12,6 +12,7 @@
    * [2013 - Giro inesperado](historia/2013.md)
    * [2014 - Un nuevo comienzo](historia/2014.md)
 * [Tecnologías y herramientas](tecnologias/tecnologias_y_herramientas.md)
+   * Plataforma móvil
 * [Especificación y análisis](especificacion/especificacion_y_analisis.md)
 * [Diseño e implementación](diseno/diseno_e_implementacion.md)
 * [Pruebas](pruebas/pruebas.md)
