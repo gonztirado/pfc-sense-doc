@@ -7,6 +7,7 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 - Sistema Operativo con creado por Apple que fue lanzado en Junio de 2007 con el primer iPhone.
 - Programación en Objetive C y Swift
 - Sólo disponible en disponible en dispositivos de Apple: iPhone, iPad y iPod Touch
+- Cuota de mercado de 
 
 
 ## Android
@@ -14,7 +15,7 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 - Programación en Java.
 - El código fuente es libre.
 - Gran respaldo de la comunidad de desarrolladores.
-- Cuota de mercado que ronda el 80% de ventas de nuevos dispositivos.
+- Cuota de mercado en 2015 que ronda el 80% de ventas de nuevos dispositivos.
  
 
 ## Windows Phone
