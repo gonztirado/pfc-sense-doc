@@ -32,4 +32,5 @@ El primer paso consiste en determinar que tecnología inalámbrica vamos a utili
 | ---------------- | ------------ | ----------- | ---------- | -------------------- |
 | **Wifi**         | No           | Si          | 18.30%     | Alta                 |
 | **Zigbee**       | Si           | Si*         | 78.00%     | Baja                 |
-| **Bluetooth LE** | Si           | Si          | 2.70%      | Media                | ###### *Tabla 1: Comparativa de protocolos de comunicación inalámbrica*
+| **Bluetooth LE** | Si           | Si          | 2.70%      | Media                | 
+###### *Tabla 1: Comparativa de protocolos de comunicación inalámbrica*
