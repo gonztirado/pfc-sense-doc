@@ -11,7 +11,7 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 - Sistema Operativo con creado por Apple que fue lanzado en Junio de 2007 con el primer iPhone.
 - Programación en Objetive C y Swift
 - Sólo disponible en disponible en dispositivos de Apple: iPhone, iPad y iPod Touch
-- Soporte de Bluetooth Low Energy desde 2011
+- Soporte de Bluetooth Low Energy para dispositivos iPhone 4S en adelante
 - Cuota de mercado en 2015 del 18.3%
 
 
