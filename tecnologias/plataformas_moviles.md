@@ -64,7 +64,3 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 ###### *Tabla 1: Comparativa de plataformas móviles*
 
 
-| Año   | Android |   iOS  | Symbian | BlackBerry | Windows Phone |
-| ----- | ------- | ------ | ------- | ---------- | ------------- |
-| 2015  |  78.00% | 18.30% |   0.00% |      0.30% |         2.70% |
-
