@@ -40,7 +40,7 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 ## BlackBerry 10
 - Sistema Operativo creado por BlackBerry que fue lanzado en Enero de 2013.
 - Programación en C++ con Qt/Cascades.
-- El código fuente es propietario.
+- El código fuente del sistema operativo es propietario pero de Qt es libre.
 - Sólo disponible en terminales fabricados por BlackBerry.
 - Soporte de Bluetooth Low Energy a partir de 
 - Cuota de mercado en 2015 del 0.3%
@@ -56,13 +56,13 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 - Cuota de mercado en sistemas operativos en 2015 inferior de 0.1% pero portable a todas las plataformas.
 - Curva de aprendizaje personal media. Estoy familiarizado con el desarrollo web pero no he realizado una aplicación móvil completa con un framework html5.
 
-| Plataforma        | Lenguaje de programación |   iOS  | Symbian | BlackBerry | Windows Phone |
-| ----------------- | ------- | ------ | ------- | ---------- | ------------- |
-| **iOS**           |  Objetive C, Swift | 18.30% |   0.00% |      0.30% |         2.70% |
-| **Android**       |  Java | 15.20% |   0.00% |      0.50% |         2.50% |
-| **Windows Phone** |  C#, Visual Basic.NET | 17.30% |   0.56% |      2.91% |         3.24% |
-| **BlackBerry 10** |  C/C++, Qt/Cascades | 23.05% |   6.83% |      6.37% |         2.17% |
-| **Híbrido HTML5** |  html5, css3 y javascrip | 18.31% |  25.98% |     13.58% |         2.56% |
+| Plataforma        | Lenguaje de programación  | Código fuente | Symbian | BlackBerry | Windows Phone |
+| ----------------- | ------------------------- | ------ | ------- | ---------- | ------------- |
+| **iOS**           |  Objetive C, Swift        | propietario |   0.00% |      0.30% |         2.70% |
+| **Android**       |  Java                     | libre |   0.00% |      0.50% |         2.50% |
+| **Windows Phone** |  C#, Visual Basic.NET     | propietario |   0.56% |      2.91% |         3.24% |
+| **BlackBerry 10** |  C/C++, Qt/Cascades       | propietario |   6.83% |      6.37% |         2.17% |
+| **Híbrido HTML5** |  HTML5, CSS3 y javascript | 18.31% |  25.98% |     13.58% |         2.56% |
 ###### *Tabla 1: Comparativa de plataformas móviles*
 
 
