@@ -52,4 +52,11 @@ APLICACIÓN WEB PARA RESOLVER SISTEMAS DE ECUACIONES LINEALES (ALBERTO RAMÍREZ 
 - [Cuota de mercado smartphones](https://en.wikipedia.org/wiki/Mobile_operating_system#cite_note-IDC_Mobile_Operating_System_Market_Share_2015_Q1-61)
 - [Bluetooth LE - wikipedia](https://en.wikipedia.org/wiki/Bluetooth_low_energy)
 - [Bluetooth LE - oficial](http://www.bluetooth.com/Pages/low-energy-tech-info.aspx)
+ 
+
+
+## Plataformas móviles
+- [Android - wikipedia](https://es.wikipedia.org/wiki/Android)
+
+
 
