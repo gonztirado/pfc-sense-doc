@@ -12,7 +12,7 @@
    * [2013 - Giro inesperado](historia/2013.md)
    * [2014 - Un nuevo comienzo](historia/2014.md)
 * [Tecnologías y herramientas](tecnologias/tecnologias_y_herramientas.md)
-   * [Plataformas móviles](tecnologias/plataformas_moviles_md.md)
+   * [Plataformas móviles](tecnologias/plataformas_moviles_md)
    * [Termógrafos](Termógrafos/termografos.md)
    * [Plataformas web](tecnologias/plataformas_web.md)
 * [Especificación y análisis](especificacion/especificacion_y_analisis.md)
