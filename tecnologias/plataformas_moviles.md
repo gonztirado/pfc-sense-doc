@@ -20,6 +20,7 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 - Programación en Java.
 - El código fuente es libre.
 - Gran respaldo de la comunidad de desarrolladores.
+- Soporte de Bluetooth Low Energy a partir de la API 4.3 de Android
 - Cuota de mercado en 2015 del 78%
  
 
