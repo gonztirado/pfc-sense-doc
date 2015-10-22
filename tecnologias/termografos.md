@@ -19,8 +19,6 @@ El primer paso consiste en determinar que tecnología inalámbrica vamos a utili
  - Se pueden construir sensores con muy poca electrónica.
  - Bajo coste de los mismos
  - Tiene la desventaja de que existen muy pocos smartphones que incluyan este protocolo. Existen soluciones para dotar a cualquier telefóno de comunicación Zigbee, como bases acopladas o tarjetas SD con zigbee pero incrementan el coste de la solución
- - Mantener el canal de comunicación wifi con un sensor consume bastante energía.
- - Además, si se mantiene el canal abierto con un canal no podríamos conectarnos a nuestra red local para conectarnos a internet
 
 ### Bluetooth Low Energy
  - Disponible en todos los terminales móviles.
