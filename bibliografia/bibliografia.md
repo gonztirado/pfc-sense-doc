@@ -45,7 +45,6 @@ APLICACIÓN WEB PARA RESOLVER SISTEMAS DE ECUACIONES LINEALES (ALBERTO RAMÍREZ 
 ## Historia 2013
 - [Blackberry 10 - wikipedia](https://es.wikipedia.org/wiki/BlackBerry_10)
 - [Blackberry 10- pagina oficial](http://global.blackberry.com/es/software/smartphones/blackberry-10-os.html)
-- 
 
 
 ## Historia 2014
