@@ -4,7 +4,9 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 
 
 ## iOS
-- Primera plataforma que lanzó un smartphone c
+- Sistema Operativo con creado por Apple que fue lanzado en Junio de 2007 con el primer iPhone.
+- Programación en Objetive C y Swift
+- Sólo disponible en disponible en dispositivos de Apple: iPhone, iPad y iPod Touch
 
 
 ## Android
