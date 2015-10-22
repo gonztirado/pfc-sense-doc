@@ -53,13 +53,13 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
  
 
 
-| Plataforma        | Lenguaje nativo           | Código fuente | Bluetooh LE   | Cuota  | Curva de aprendizaje |
-| ----------------- | ------------------------- | ------------- | ------------- | ------ | -------------------- |
-| **iOS**           |  Objetive C, Swift        | propietario   | Si (OS 5+)    | 18.30% | Alta                 |
-| **Android**       |  Java                     | libre         | Si (OS 4.3+)  | 78.00% | Baja                 |
-| **Windows Phone** |  C#, Visual Basic.NET     | propietario   | Si (OS 8.1+)  | 2.70%  | Media                |
-| **BlackBerry 10** |  C/C++, Qt/Cascades       | prop./libre   | Si (OS 10.0+) | 0.30%  | Baja                 |
-| **Híbrido HTML5** |  HTML5, CSS3 y Javascript | libre         | con plugins   | 100%   | Media                |
+| Plataforma        | Lenguaje nativo           | Bluetooh LE   | Cuota 2015 | Curva de aprendizaje |
+| ----------------- | ------------------------- | ------------- | ---------- | -------------------- |
+| **iOS**           |  Objetive C, Swift        | Si (OS 5+)    | 18.30%     | Alta                 |
+| **Android**       |  Java                     | Si (OS 4.3+)  | 78.00%     | Baja                 |
+| **Windows Phone** |  C#, Visual Basic.NET     | Si (OS 8.1+)  | 2.70%      | Media                |
+| **BlackBerry 10** |  C/C++, Qt/Cascades       | Si (OS 10.0+) | 0.30%      | Baja                 |
+| **Híbrido HTML5** |  HTML5, CSS3 y Javascript | con plugins   | 100%       | Media                |
 ###### *Tabla 1: Comparativa de plataformas móviles*
 
 
