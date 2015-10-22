@@ -52,7 +52,7 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 - Programación en html5, css3 y javascript
 - El código fuente es libre.
 - Disponibls para todas las plataformas anteriores.
-- Soporte de Bluetooth Low Energy a partir de 
+- Soporte de Bluetooth Low Energy no nativo y dependiente de extensiones de terceros. 
 - Cuota de mercado en 2015 del 0.3%
 - Curva de aprendizaje personal baja. Estoy muy familiarizado con la plataforma y he realizado ya multiples aplicaciones, de hecho mi terminal personal es una BlackBerry Z10.
 
