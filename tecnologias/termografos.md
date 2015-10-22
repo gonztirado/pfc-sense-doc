@@ -28,9 +28,9 @@ El primer paso consiste en determinar que tecnología inalámbrica vamos a utili
  - Interoperabilidad entre múltiples proveedores
  - Rango de alcance mejorado
  
-| Protocolo        | Bajo consumo | Bajo coste  | Cuota 2015 | Curva de aprendizaje |
-| ---------------- | ------------ | ----------- | ---------- | -------------------- |
-| **Wifi**         | No           | Si          | 18.30%     | Alta                 |
-| **Zigbee**       | Si           | Si*         | 78.00%     | Baja                 |
-| **Bluetooth LE** | Si           | Si          | 2.70%      | Media                | 
+| Protocolo        | Bajo consumo | Bajo coste  | Topologia malla | Disponible en terminales |
+| ---------------- | ------------ | ----------- | --------------- | ------------------------ |
+| **Wifi**         | No           | Si          | No              | Si                       |
+| **Zigbee**       | Si           | Si*         | Si              | No                       |
+| **Bluetooth LE** | Si           | Si          | No              | Si                       | 
 ###### *Tabla 1: Comparativa de protocolos de comunicación inalámbrica*
