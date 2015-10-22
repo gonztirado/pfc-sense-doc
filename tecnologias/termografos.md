@@ -14,7 +14,8 @@ El primer paso consiste en determinar que tecnología inalámbrica vamos a utili
  - Los sensores con conectividad Wifi está más enfocados para que envíen directamente ellos la temperatura a un servicio web propio sin contar con un smartphone. Tiene el inconveniente de que no podríamos consultar la temperatura del sensor si perdemos cobertura de datos móviles.
 
 ### Zigbee
- - Se trata de un protocolo de 
+ - Se trata de un protocolo de bajo consumo.
+ - Utiliza una topología en red de malla para que los sensores se comuniquen entre sí.
  - Disponible en todos los terminales móviles.
  - Mantener el canal de comunicación wifi con un sensor consume bastante energía.
  - Además, si se mantiene el canal abierto con un canal no podríamos conectarnos a nuestra red local para conectarnos a internet
