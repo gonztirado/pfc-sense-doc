@@ -49,9 +49,9 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 
 ## Desarrollo Hibrido HTML5 
 - Existen varios sistemas operativos con desarrollos en HTML 5 como Firefox OS, Sailfish OS. Pero también se puede desarrollar en las plataformas anteriores con frameworks híbridos como IONIC, Mobile Angular UI, Intel XDK, Appcelerator Titanium, Sencha Touch, Kendo UI, PhoneGap y Apache Cordova
-- Programación en C++ con Qt/Cascades.
-- El código fuente es propietario.
-- Sólo disponible en terminales fabricados por BlackBerry.
+- Programación en html5, css3 y javascript
+- El código fuente es libre.
+- Disponibls para todas las plataformas anteriores.
 - Soporte de Bluetooth Low Energy a partir de 
 - Cuota de mercado en 2015 del 0.3%
 - Curva de aprendizaje personal baja. Estoy muy familiarizado con la plataforma y he realizado ya multiples aplicaciones, de hecho mi terminal personal es una BlackBerry Z10.
