@@ -20,7 +20,7 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 - Sistema Operativo con kernel de Linux creado por Google que fue lanzado en Septiembre de 2008.
 - Programación en Java.
 - El código fuente es libre.
-- Disponible en terminales de multitud de marcas como Samsung, Sony, HTC, LG, Motorola, etc.
+- Disponible en terminales de multitud de marcas como Samsung, Sony, HTC, LG, Motorola, ASUS, etc.
 - Soporte de Bluetooth Low Energy a partir de la API 4.3 de Android
 - Cuota de mercado en 2015 del 78%
  
@@ -29,9 +29,9 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 - Sistema Operativo creado por Microsoft que fue lanzado en Noviembre de 2010.
 - Programación en C# y Visual Basic.NET.
 - El código fuente es propietario.
-- Disponible en terminales de multitud de marcas como Samsung, Sony, HTC, LG, Motorola, etc.
+- Disponible en terminales de multitud de marcas como Microsoft/Nokia, Acer, ASUS, Dell, HP, Lenovo, Toshiba etc.
 - Soporte de Bluetooth Low Energy a partir de Windows Phone 8.1
-- Cuota de mercado en 2015 del 78%
+- Cuota de mercado en 2015 del 2.7%
 
 
 ## BlackBerry 10
