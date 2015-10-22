@@ -44,11 +44,17 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 - Sólo disponible en terminales fabricados por BlackBerry.
 - Soporte de Bluetooth Low Energy a partir de 
 - Cuota de mercado en 2015 del 0.3%
-- Curva de aprendizaje personal baja. Estoy muy familiarizado con la plataforma y he realizado ya multiples aplicaciones, de hecho mi terminal personal es una BlackBerry Z10.
+- Curva de aprendizaje personal baja. Estoy muy familiarizado con la plataforma y he realizado ya multiples aplicaciones, de hecho mi terminal personal actualmente es una BlackBerry Z10.
 
 
 ## Desarrollo web HTML5 
-
+- Sistema Operativo creado por BlackBerry que fue lanzado en Enero de 2013.
+- Programación en C++ con Qt/Cascades.
+- El código fuente es propietario.
+- Sólo disponible en terminales fabricados por BlackBerry.
+- Soporte de Bluetooth Low Energy a partir de 
+- Cuota de mercado en 2015 del 0.3%
+- Curva de aprendizaje personal baja. Estoy muy familiarizado con la plataforma y he realizado ya multiples aplicaciones, de hecho mi terminal personal es una BlackBerry Z10.
 
 
 
