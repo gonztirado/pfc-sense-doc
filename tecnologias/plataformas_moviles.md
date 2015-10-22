@@ -12,7 +12,7 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 - Programación en Objetive C y Swift
 - Código fuente propietario
 - Sólo disponible en disponible en dispositivos de Apple: iPhone, iPad y iPod Touch
-- Soporte de Bluetooth Low Energy para dispositivos iPhone 4S en adelante
+- Soporte de Bluetooth Low Energy para dispositivos iOS 5 en adelante
 - Cuota de mercado en 2015 del 18.3%
 - Curva de aprendizaje personal alta, ya que desconozco por completo el desarrollo en esta plataforma y además es necesario un Mac.
 
@@ -56,12 +56,12 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 - Cuota de mercado en sistemas operativos en 2015 inferior de 0.1% pero portable a todas las plataformas.
 - Curva de aprendizaje personal media. Estoy familiarizado con el desarrollo web pero no he realizado una aplicación móvil completa con un framework html5.
 
-| Plataforma        | Lenguaje de programación  | Código fuente | Symbian | BlackBerry | Windows Phone |
+| Plataforma        | Lenguaje de programación  | Código fuente | Bluetooh LE | BlackBerry | Windows Phone |
 | ----------------- | ------------------------- | ------------- | ------- | ---------- | ------------- |
-| **iOS**           |  Objetive C, Swift        | propietario   |   0.00% |      0.30% |         2.70% |
-| **Android**       |  Java                     | libre         |   0.00% |      0.50% |         2.50% |
-| **Windows Phone** |  C#, Visual Basic.NET     | propietario   |   0.56% |      2.91% |         3.24% |
-| **BlackBerry 10** |  C/C++, Qt/Cascades       | prop./libre   |   6.83% |      6.37% |         2.17% |
+| **iOS**           |  Objetive C, Swift        | propietario   |   Si () |      0.30% |         2.70% |
+| **Android**       |  Java                     | libre         |   Si |      0.50% |         2.50% |
+| **Windows Phone** |  C#, Visual Basic.NET     | propietario   |   Si |      2.91% |         3.24% |
+| **BlackBerry 10** |  C/C++, Qt/Cascades       | prop./libre   |   Si |      6.37% |         2.17% |
 | **Híbrido HTML5** |  HTML5, CSS3 y javascript | libre         |  25.98% |     13.58% |         2.56% |
 ###### *Tabla 1: Comparativa de plataformas móviles*
 
