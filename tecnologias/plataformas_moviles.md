@@ -63,3 +63,5 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 ###### *Tabla 1: Comparativa de plataformas móviles*
 
 
+
+
