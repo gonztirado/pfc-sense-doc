@@ -47,7 +47,7 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 
 ## Desarrollo Hibrido HTML5 
 - Existen varios sistemas operativos con desarrollos en HTML 5 como Firefox OS, Sailfish OS. Pero también se puede desarrollar en las plataformas anteriores con frameworks híbridos como IONIC, Mobile Angular UI, Intel XDK, Appcelerator Titanium, Sencha Touch, Kendo UI, PhoneGap y Apache Cordova
-- Programación en html5, css3 y javascript
+- Programación en HTML5, CSS3 y Javascript
 - El código fuente es libre.
 - Disponible para todas las plataformas anteriores.
 - Soporte de Bluetooth Low Energy no nativo y dependiente de extensiones de terceros. 
