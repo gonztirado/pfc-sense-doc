@@ -28,7 +28,7 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 ## Windows Phone
 - Sistema Operativo creado por Microsoft que fue lanzado en Noviembre de 2010.
 - Programación en C# y Visual Basic.NET.
-- El código fuente es libre.
+- El código fuente es propietario.
 - Disponible en terminales de multitud de marcas como Samsung, Sony, HTC, LG, Motorola, etc.
 - Soporte de Bluetooth Low Energy a partir de la API 4.3 de Android
 - Cuota de mercado en 2015 del 78%
