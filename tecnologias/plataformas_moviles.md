@@ -6,6 +6,6 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 ## Android
 - Sistema Operativo con kernel de Linux creado por Google que fue lanzado en Septiembre de 2008
 - Programación en Java
-- Cuota de mercado
+- Cuota de mercado que ronda el 80% de ventas de nuevos dispositivos.
 
 
