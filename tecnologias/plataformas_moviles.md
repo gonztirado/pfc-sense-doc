@@ -56,8 +56,11 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 - Cuota de mercado en sistemas operativos en 2015 inferior de 0.1% pero portable a todas las plataformas.
 - Curva de aprendizaje personal media. Estoy familiarizado con el desarrollo web pero no he realizado una aplicación móvil completa con un framework html5.
 
-| Plataforma        | Lenguaje de programación  | Código fuente | Bluetooh LE   | BlackBerry | Windows Phone |
-| ----------------- | ------------------------- | ------------- | ------------- | ---------- | ------------- |
+| Plataforma        | Lenguaje de programación  | Código fuente | Bluetooh LE   | Cuota 
+# 
+
+ Windows Phone |
+| ----------------- | ------------------------- | ------------- | ------------- | ------- | ------------- |
 | **iOS**           |  Objetive C, Swift        | propietario   | Si (OS 5+)    |      0.30% |         2.70% |
 | **Android**       |  Java                     | libre         | Si (OS 4.3+)  |      0.50% |         2.50% |
 | **Windows Phone** |  C#, Visual Basic.NET     | propietario   | Si (OS 8.1+)  |      2.91% |         3.24% |
