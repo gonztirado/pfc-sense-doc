@@ -34,6 +34,7 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 - Disponible en terminales de multitud de marcas como Microsoft/Nokia, Acer, ASUS, Dell, HP, Lenovo, Toshiba etc.
 - Soporte de Bluetooth Low Energy a partir de Windows Phone 8.1
 - Cuota de mercado en 2015 del 2.7%
+- Curva de aprendizaje personal media, no he desarrollado ninguna aplicación para Windows Phone con anterioridad pero si he utilizado Visual Studio.
 
 
 ## BlackBerry 10
@@ -43,6 +44,7 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 - Sólo disponible en terminales fabricados por BlackBerry.
 - Soporte de Bluetooth Low Energy a partir de 
 - Cuota de mercado en 2015 del 0.3%
+- Curva de aprendizaje personal baja. Estoy muy familiarizado con la plataforma y he realizado ya multiples aplicaciones, de hecho mi terminal personal es una BlackBerry Z10.
 
 
 ## Desarrollo web HTML5 
