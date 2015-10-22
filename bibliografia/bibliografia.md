@@ -62,4 +62,10 @@ APLICACIÓN WEB PARA RESOLVER SISTEMAS DE ECUACIONES LINEALES (ALBERTO RAMÍREZ 
 - [Windows Phone - Bluetooth LE](http://blogs.msdn.com/b/thunbrynt/archive/2014/05/05/windows-phone-8-1-for-developers-introducing-bluetooth-le.aspx)
 - [HTML5 in mobile devices - wikipedia](https://en.wikipedia.org/wiki/HTML5_in_mobile_devices)
 - [Hybrid Mobile App Frameworks](http://www.sitepoint.com/top-7-hybrid-mobile-app-frameworks/)
+ 
+
+## Termógrafos
+- [Zigbee - wikipedia](https://es.wikipedia.org/wiki/ZigBee)
+
+
 
