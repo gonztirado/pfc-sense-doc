@@ -48,7 +48,7 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 
 
 ## Desarrollo Hibrido HTML5 
-- Existen varios sistemas operativos con desarrollos en HTML 5 como Firefox OS, Sailfish OS. Pero también se puede desarrollar en las plataformas anteriores con frameworks híbridos como 
+- Existen varios sistemas operativos con desarrollos en HTML 5 como Firefox OS, Sailfish OS. Pero también se puede desarrollar en las plataformas anteriores con frameworks híbridos como IONIC, Mobile Angular UI, Intel XDK, Appcelerator Titanium, Sencha Touch, Kendo UI, PhoneGap y Apache Cordova
 - Programación en C++ con Qt/Cascades.
 - El código fuente es propietario.
 - Sólo disponible en terminales fabricados por BlackBerry.
