@@ -31,5 +31,5 @@ El primer paso consiste en determinar que tecnología inalámbrica vamos a utili
 | Protocolo        | Bajo consumo | Bajo coste  | Cuota 2015 | Curva de aprendizaje |
 | ---------------- | ------------ | ----------- | ---------- | -------------------- |
 | **Wifi**         | No           | Si          | 18.30%     | Alta                 |
-| **Zigbee**       | Si           | No  | 78.00%     | Baja                 |
-| **Bluetooth LE** | Si           | Si (OS 8.1+)  | 2.70%      | Media                | ###### *Tabla 1: Comparativa de protocolos de comunicación inalámbrica*
+| **Zigbee**       | Si           | Si*         | 78.00%     | Baja                 |
+| **Bluetooth LE** | Si           | Si          | 2.70%      | Media                | ###### *Tabla 1: Comparativa de protocolos de comunicación inalámbrica*
