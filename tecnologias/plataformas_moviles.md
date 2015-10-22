@@ -56,13 +56,13 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 - Cuota de mercado en sistemas operativos en 2015 inferior de 0.1% pero portable a todas las plataformas.
 - Curva de aprendizaje personal media. Estoy familiarizado con el desarrollo web pero no he realizado una aplicación móvil completa con un framework html5.
 
-| Plataforma    | Android |   iOS  | Symbian | BlackBerry | Windows Phone |
-| ------------- | ------- | ------ | ------- | ---------- | ------------- |
-| iOS           |  78.00% | 18.30% |   0.00% |      0.30% |         2.70% |
-| Android       |  81.20% | 15.20% |   0.00% |      0.50% |         2.50% |
-| Windows Phone |  74.98% | 17.30% |   0.56% |      2.91% |         3.24% |
-| BlackBerry 10 |  59.03% | 23.05% |   6.83% |      6.37% |         2.17% |
-| Híbrido HTML5 |  36.12% | 18.31% |  25.98% |     13.58% |         2.56% |
+| Plataforma        | Android |   iOS  | Symbian | BlackBerry | Windows Phone |
+| ----------------- | ------- | ------ | ------- | ---------- | ------------- |
+| **iOS**           |  78.00% | 18.30% |   0.00% |      0.30% |         2.70% |
+| **Android**       |  81.20% | 15.20% |   0.00% |      0.50% |         2.50% |
+| **Windows Phone** |  74.98% | 17.30% |   0.56% |      2.91% |         3.24% |
+| **BlackBerry 10** |  59.03% | 23.05% |   6.83% |      6.37% |         2.17% |
+| **Híbrido HTML5** |  36.12% | 18.31% |  25.98% |     13.58% |         2.56% |
 ###### *Tabla 1: Comparativa de plataformas móviles*
 
 
