@@ -59,6 +59,7 @@ APLICACIÓN WEB PARA RESOLVER SISTEMAS DE ECUACIONES LINEALES (ALBERTO RAMÍREZ 
 - [iOS - wikipedia](https://es.wikipedia.org/wiki/IOS)
 - [Android - wikipedia](https://es.wikipedia.org/wiki/Android)
 - [Android - Bluetooth](http://developer.android.com/intl/es/guide/topics/connectivity/bluetooth-le.html)
+- [Windows Phone - wikipedia](https://es.wikipedia.org/wiki/Windows_Phone)
 
 
 
