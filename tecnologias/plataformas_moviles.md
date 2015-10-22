@@ -54,7 +54,7 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 - Cuota de mercado en sistemas operativos en 2015 inferior de 0.1% pero portable a todas las plataformas.
 - Curva de aprendizaje personal media. Estoy familiarizado con el desarrollo web pero no he realizado una aplicación móvil completa con un framework html5.
 
-| Plataforma        | Lenguaje de programación  | Código fuente | Bluetooh LE   | Cuota  | Curva de aprendizaje |
+| Plataforma        | Lenguaje nativo           | Código fuente | Bluetooh LE   | Cuota  | Curva de aprendizaje |
 | ----------------- | ------------------------- | ------------- | ------------- | ------ | -------------------- |
 | **iOS**           |  Objetive C, Swift        | propietario   | Si (OS 5+)    | 18.30% | Alta                 |
 | **Android**       |  Java                     | libre         | Si (OS 4.3+)  | 78.00% | Baja                 |
