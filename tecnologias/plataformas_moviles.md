@@ -26,7 +26,12 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
  
 
 ## Windows Phone
-
+- Sistema Operativo con kernel de Linux creado por Google que fue lanzado en Septiembre de 2008.
+- Programación en Java.
+- El código fuente es libre.
+- Disponible en terminales de multitud de marcas como Samsung, Sony, HTC, LG, Motorola, etc.
+- Soporte de Bluetooth Low Energy a partir de la API 4.3 de Android
+- Cuota de mercado en 2015 del 78%
 
 
 ## BlackBerry 10
