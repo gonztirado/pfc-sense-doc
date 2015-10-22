@@ -63,7 +63,7 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 ###### *Tabla 1: Comparativa de plataformas móviles*
 
 
-Una vez analizados las diferentes plataformas disponibles llegamos a la conclusión de que puede resultar conveniente realizar la aplicación en Android ya que, aunque no es la plataforma en la que estoy más familiarizado, el aprendizaje de la misma no me va a resultar muy dificultoso ya que me manejo bien con Java. Por otra parte, también tiene soporte para conectarse con dispositivos Bluetooth Low Energy y es la plataforma lider en cuanto a ventas de terminales. Además, como BlackBerry 10 tiene soporte para aplicaciones Android, también debería funcionar la aplicación en esta plataforma.
+Una vez analizados las diferentes plataformas disponibles llegamos a la conclusión de que vamos a **desarrollar la aplicación en Android** ya que, aunque no es la plataforma en la que estoy más familiarizado, el aprendizaje de la misma no me va a resultar muy dificultoso ya que me manejo bien con Java. Por otra parte, también tiene soporte para conectarse con dispositivos Bluetooth Low Energy y es la plataforma lider en cuanto a ventas de terminales. Además, como BlackBerry 10 tiene soporte para aplicaciones Android, también debería funcionar la aplicación en esta plataforma.
 
 
 
