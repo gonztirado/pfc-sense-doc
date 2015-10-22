@@ -11,7 +11,6 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 - Cuota de mercado en 2015 del 18.3%
 - Curva de aprendizaje personal alta, ya que desconozco por completo el desarrollo en esta plataforma y además es necesario un Mac.
 
-
 ## Android
 - Sistema Operativo con kernel de Linux creado por Google que fue lanzado en Septiembre de 2008.
 - Programación en Java.
@@ -20,7 +19,6 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 - Soporte de Bluetooth Low Energy a partir de la API 4.3 de Android
 - Cuota de mercado en 2015 del 78%
 - Curva de aprendizaje personal baja ya que he desarrollado con anterioridad en Java y he realizado varias aplicaciones sencillas ya en esta plataforma
- 
 
 ## Windows Phone
 - Sistema Operativo creado por Microsoft que fue lanzado en Noviembre de 2010.
