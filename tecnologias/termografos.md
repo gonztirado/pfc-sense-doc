@@ -18,7 +18,7 @@ El primer paso consiste en determinar que tecnología inalámbrica vamos a utili
  - Utiliza una topología en red de malla para que los sensores se comuniquen entre sí.
  - Se pueden construir sensores con muy poca electrónica.
  - Bajo coste de los mismos
- - Tiene la desventaja de que existen muy pocos smartphones que incluyan este protocolo. Existen soluciones para dotar a cualquier telefóno de comunicación Zigbee, como bases acopladas o tarjetas SD con zigbee pero incrementan el coste de la solución
+ - Tiene la desventaja de que existen muy pocos smartphones que incluyan este protocolo. Existen soluciones para dotar a cualquier telefóno de comunicación Zigbee, como bases acopladas o tarjetas SD con zigbee pero incrementan bastante el coste de la solución
 
 ### Bluetooth Low Energy
  - Disponible en todos los terminales móviles.
