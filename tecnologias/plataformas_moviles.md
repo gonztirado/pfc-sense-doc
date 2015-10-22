@@ -35,12 +35,12 @@ En el mercado existen muchísimos fabricantes e incontables modelos de smarthpho
 
 
 ## BlackBerry 10
-- Sistema Operativo creado por Microsoft que fue lanzado en Noviembre de 2010.
+- Sistema Operativo creado por BlackBerry que fue lanzado en Enero de 2013.
 - Programación en C# y Visual Basic.NET.
 - El código fuente es propietario.
 - Disponible en terminales de multitud de marcas como Microsoft/Nokia, Acer, ASUS, Dell, HP, Lenovo, Toshiba etc.
 - Soporte de Bluetooth Low Energy a partir de Windows Phone 8.1
-- Cuota de mercado en 2015 del 2.7%
+- Cuota de mercado en 2015 del 0.3%
 
 
 ## Desarrollo web HTML5 
