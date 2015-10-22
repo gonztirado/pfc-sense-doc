@@ -17,7 +17,7 @@ El primer paso consiste en determinar que tecnología inalámbrica vamos a utili
  - Se trata de un protocolo de bajo consumo.
  - Utiliza una topología en red de malla para que los sensores se comuniquen entre sí.
  - Se pueden construir sensores con muy poca electrónica.
- - Bajo coste de los mismos
+ - Bajo coste de los mismos 
  - Tiene la desventaja de que existen muy pocos smartphones que incluyan este protocolo. Existen soluciones para dotar a cualquier telefóno de comunicación Zigbee, como bases acopladas o tarjetas SD con zigbee pero incrementan bastante el coste de la solución
 
 ### Bluetooth Low Energy
@@ -28,8 +28,8 @@ El primer paso consiste en determinar que tecnología inalámbrica vamos a utili
  - Interoperabilidad entre múltiples proveedores
  - Rango de alcance mejorado
  
-| Protocolo        | Lenguaje nativo           | Bluetooh LE   | Cuota 2015 | Curva de aprendizaje |
-| ---------------- | ------------------------- | ------------- | ---------- | -------------------- |
-| **Wifi**         |  Objetive C, Swift        | Si (OS 5+)    | 18.30%     | Alta                 |
-| **Zigbee**       |  Java                     | Si (OS 4.3+)  | 78.00%     | Baja                 |
-| **Bluetooth LE** |  C#, Visual Basic.NET     | Si (OS 8.1+)  | 2.70%      | Media                | ###### *Tabla 1: Comparativa de protocolos de comunicación inalámbrica*
+| Protocolo        | Bajo consumo | Bajo coste  | Cuota 2015 | Curva de aprendizaje |
+| ---------------- | ------------ | ----------- | ---------- | -------------------- |
+| **Wifi**         | No           | Si          | 18.30%     | Alta                 |
+| **Zigbee**       | Si           | No  | 78.00%     | Baja                 |
+| **Bluetooth LE** | Si           | Si (OS 8.1+)  | 2.70%      | Media                | ###### *Tabla 1: Comparativa de protocolos de comunicación inalámbrica*
