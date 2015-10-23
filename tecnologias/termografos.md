@@ -48,6 +48,14 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
  
 
 ### BlueMaestro Tempo Disc
+
+
+### Wimoto
+
+
+### Parrot Flower Power
+
+### Pebble Bee
  
  
 | Protocolo        | Bajo consumo | Bajo coste  | Topologia en malla | Disponible en terminales |
