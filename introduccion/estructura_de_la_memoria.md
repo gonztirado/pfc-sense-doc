@@ -21,4 +21,4 @@ Detallamos las herramientas utilizadas para realizar las distintas pruebas ejecu
 En este último capítulo explicaremos las conclusiones y los resultados a los que hemos llegado tras desarrollar la aplicación web. También detallaremos futuros desarrollos que mejorarían la aplicación y su uso.
 
 
-**// TODO Revisar los capítulos y reescriçibir la descripción de los mismos una vez terminada**
+**// TODO Revisar los capítulos y reescribir la descripción de los mismos una vez terminada**
