@@ -7,7 +7,7 @@ Existen una inmensidad de tecnologías y maneras para desarrollar una aplicació
 El servicio elegido para la parte de almacen de datos será **Parse** y para mostrar la monitorización en tiempo real será **Ducksboard**. A continuación se explicará brevemente las caracteristicas de ambas plataformas.
 
 ## Parse.com
-- Se trata de un backend as a service.
+- Se trata de un *backend as a service*.
 - Tiene capa de acceso y persistencia en base de datos.
 - Almacenamiento de ficheros.
 - Gestión de usuarios y permisos de accesos.
@@ -20,7 +20,7 @@ El servicio elegido para la parte de almacen de datos será **Parse** y para mos
 - Gran comunidad de usuarios usandola.
 
 ## Ducksboard.com
-- Se trata de un dashboard as a service.
+- Se trata de un *dashboard as a service*.
 - Da la posibilidad de mostrar gráficas de servicios de terceros.
 - Permite crear gráficas personalizadas con datos propios.
 - Api REST para push de datos a las diferentes gráficas.
