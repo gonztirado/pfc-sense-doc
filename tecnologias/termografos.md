@@ -41,7 +41,7 @@ Analizadas las diferentes tecnologías inalámbricas disponibles llegamos a la c
 
 Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los sensores, nos dispusimos a realizar una busqueda de los diferentes fabricantes. Para determinar cual es el la mejor elección tendremos en cuenta los servicios que implementa, el coste de los mismos y si tienen SDK y ejemplos para recuperar la información desde dispositivos Android.
 
-### Wifi (802.11 a/b/g/n)
+### Texas Instruments SensorTag
  - Disponible en todos los terminales móviles.
  - Mantener el canal de comunicación wifi con un sensor consume bastante energía.
  - Además, si se mantiene el canal abierto con un canal no podríamos conectarnos a nuestra red local para conectarnos a internet
