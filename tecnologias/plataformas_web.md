@@ -9,5 +9,6 @@ Una vez elegida la plataforma móvil y el termógrafo apropiado nos quedaría po
 - Almacenamiento de ficheros.
 - Gestión de usuarios y permisos de accesos.
 - Servicio de mensajería push.
-- Acceso a los datos a través de api REST
+- Acceso a los datos a través de api REST.
+- SDK
 
