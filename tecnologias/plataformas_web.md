@@ -14,16 +14,13 @@ Existen una inmensidad de tecnologías y maneras para desarrollar una aplicació
 - Hosting de aplicaciones web
 - Capa de análisis de la aplicación.
 - Gestión y reportes de error.
-- SDK para Android y iPhone
+- SDK para Android y iPhone.
+- Gran comunidad de usuarios usandola.
 
 ## Ducksboard.com
-- Se trata de otro backend as a service.
-- Tiene capa de acceso y persistencia en base de datos.
-- Almacenamiento de ficheros.
-- Gestión de usuarios y permisos de accesos.
-- Servicio de mensajería push.
-- Acceso a los datos a través de api REST.
-- Hosting de aplicaciones web
-- Capa de análisis de la aplicación.
-- Gestión y reportes de error.
-- SDK para Android y iPhone
+- Se trata de un dashboard as a service.
+- Da la posibilidad de mostrar gráficas de servicios de terceros.
+- Permite crear gráficas personalizadas con datos propios.
+- Api REST para push de datos a las diferentes gráficas.
+- Gráficas animadas y visualmente atractivas.
+- Modo TV para mostrar las gráficas en pantalla completa.
