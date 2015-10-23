@@ -28,7 +28,7 @@ El primer paso consiste en determinar que tecnología inalámbrica vamos a utili
  - Interoperabilidad entre múltiples proveedores
  - Rango de alcance mejorado
  
-| Protocolo        | Bajo consumo | Bajo coste  | Topologia en malla | Disponible en terminales |
+| Protocolo        | Bajo consumo | Bajo coste  | Topología en malla | Disponible en terminales |
 | ---------------- | ------------ | ----------- | ------------------ | ------------------------ |
 | **Wifi**         | No           | Si          | No                 | Si                       |
 | **Zigbee**       | Si           | Si*         | Si                 | No                       |
