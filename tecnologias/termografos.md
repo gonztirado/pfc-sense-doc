@@ -47,6 +47,7 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
  - Sensor multiprotocolo que soporta Bluetooth/6LowPan/Zigbee
  - Tiene incluidos sensores de temperatura, temperatura por infrarojos, barómetro, altímetro, luz ambiental, humedad, magnetómetro, giroscopio.
  - Además dispone de micrófono, vibración, modo iBeacon y chip de memoria para almacenamiento de datos
+ - Dispone de código de ejemplo de aplicaciones Android y iPhone.
  - Precio: 30€
  
  ![Figura 1](./imagenes/texas_instruments_sensortag.jpg)
@@ -78,6 +79,7 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
  - Tamaño muy pequeño, 1.3x2.5x2.5 cm
  - Diseñado para que la batería dure de 1 a 3 años, usa una pila de tamaño botón.
  - Tiene incluidos sensores de temperatura, humedad y luminosidad ambiental.
+ - Dispone de código de ejemplo de aplicación para Android
  - Precio: 45€
 
 ![Figura 4](./imagenes/wimoto.jpg)
@@ -106,9 +108,9 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
 | Dispositivo      | Temp. | Temp. IR | Barómetro | Luz | Humedad | Protección IP | SDK/Ejemplos | Coste |
 | ---------------- | ----- | -------- | --------- | --- | ------- | ------------- | ------------ | ----- |
 | **SensorTag**    | Si    | Si       | Si        | Si  | Si      | --            | Si           | 30€   |
-| **Tempo**        | Si    | Si*      | Si        | No  | No      | IP52          | No           | 59€   |
+| **Tempo**        | Si    | No       | Si        | No  | Si      | IP52          | No           | 59€   |
 | **Tempo Disc**   | Si    | No       | Si        | No  | Si      | IP67          | No           | 50€   |
-| **Wimoto**       | Si    | Si       | Si        | Si  | Si      | Si            | Si           | 45€   |
+| **Wimoto**       | Si    | No       | No        | Si  | Si      | --            | Si           | 45€   |
 | **Flower Power** | Si    | Si       | No        | Si  | Si      | Si            | Si           | 49€   |
 | **nBlue**        | Si    | Si       | No        | Si  | Si      | Si            | Si           | 39€   |
 | **Node Clima**   | Si    | Si       | No        | Si  | Si      | Si            | Si           | 199€  |
