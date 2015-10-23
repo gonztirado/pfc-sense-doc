@@ -16,4 +16,18 @@ Una vez elegida la plataforma móvil y el termógrafo apropiado nos quedaría po
 - Es un entorno de plataforma como servicio desarrollado por IBM.
 - Soporta varios lenguajes de programación y servicios.
 - Se pueden agregar servicios de bbdd
+- Configurable mediante plugins
+- Se trata de un contenedor de aplicaciones escalable.
+ 
+## Parse.com
+- Se trata de otro backend as a service.
+- Tiene capa de acceso y persistencia en base de datos.
+- Almacenamiento de ficheros.
+- Gestión de usuarios y permisos de accesos.
+- Servicio de mensajería push.
+- Acceso a los datos a través de api REST.
+- Hosting de aplicaciones web
+- Capa de análisis de la aplicación.
+- Gestión y reportes de error.
+- SDK para Android y iPhone
 
