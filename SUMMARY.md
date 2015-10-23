@@ -20,7 +20,7 @@
    * [Metodología de desarrollo](especificacion/metodologia_de_desarrollo.md)
    * [Requisitos](especificacion/requisitos.md)
    * [Casos de uso](especificacion/casos_de_uso.md)
-   * Análisis del modelo de datos
+   * [Análisis del modelo de datos](especificacion/analisis_del_modelo_de_datos.md)
    * Análisis de la interfaz de usuario
 * [Diseño e implementación](diseno/diseno_e_implementacion.md)
 * [Pruebas](pruebas/pruebas.md)
