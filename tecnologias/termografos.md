@@ -61,8 +61,7 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
 
 ### BlueMaestro Tempo Disc
  - Pequeño tamaño, un poco más grande que una pila de botón
- - Diseñado para que la batería dure años
- - Sensor multiprotocolo que soporta Bluetooth/6LowPan/Zigbee
+ - Diseñado para que la batería 1 año
  - Tiene incluidos sensores de temperatura, temperatura por infrarojos, barórmetro, altímetro, luz ambiental, humedad, magnetómetro, giroscopio.
  - Además dispone de micrófono, vibración, modo iBeacon y chip de memoria para almacenamiento de datos
  - Precio: 50€
