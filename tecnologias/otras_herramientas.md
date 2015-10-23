@@ -24,7 +24,7 @@ Bitbucket es un servicio de alojamiento web para los proyectos que utilizan el s
 
 
 ## Sourcetree
-Se trata de un cliente de escritorio para la gestión de repositorios Git. Hace que el control de versiones del código sea más cómodo y no tener que gestionar el repositorio con lineas de comando. Además permite realizar Gitflow de manera más cómoda.
+Se trata de un cliente de escritorio para la gestión de repositorios Git. Hace que el control de versiones del código sea más cómodo y evitar tener que hacer uso de las lineas de comando. Además permite realizar Gitflow de manera más cómoda.
 
 
 ## JIRA
