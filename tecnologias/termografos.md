@@ -75,6 +75,11 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
 ###### *Figura 3: BlueMaestro Tempo Disc*
 
 ### Wimoto
+ - Tamaño muy pequeño, 1.3x2.5x2.5 cm
+ - Diseñado para que la batería 1 año, usa una pila de tamaño botón.
+ - Tiene incluidos sensores de temperatura, barómetro y humedad.
+ - Grado de protección IP67 (protección contra polvo e inmersión en agua a 1 metro durante 30 minutos)
+ - Precio: 50€
 - Precio: 45€
 
 ![Figura 4](./imagenes/wimoto.jpg)
