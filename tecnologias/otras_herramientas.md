@@ -28,8 +28,7 @@ Se trata de un cliente de escritorio para la gestión de repositorios Git. Hace 
 
 
 ## JIRA
-
-JIRA es una aplicación basada en web para el seguimiento de errores, de incidentes y para la gestión operativa de proyectos. Jira también se utiliza en áreas no técnicas para la administración de tareas. La herramienta fue desarrollada por la empresa australiana Atlassian. Inicialmente Jira se utilizó para el desarrollo de software, sirviendo de apoyo para la gestión de requisitos, seguimiento del estatus y más tarde para el seguimiento de errores. Jira puede ser utilizado para la gestión de procesos y para la mejora de procesos, gracias a sus funciones para la organización de flujos de trabajo.
+JIRA es una aplicación basada en web para el seguimiento de errores, de incidentes y para la gestión operativa de proyectos. Se usará para llevar una correcta gestión y organización de tareas. Además incluye soporte para la gestión agil de proyectos, permitiendo utilizar pizarras virtuales de Scrum y Kanban.
 
 
 ## Gitbook
