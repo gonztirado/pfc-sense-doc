@@ -42,6 +42,9 @@ Analizadas las diferentes tecnologías inalámbricas disponibles llegamos a la c
 Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los sensores, nos dispusimos a realizar una busqueda de los diferentes fabricantes. Para determinar cual es el la mejor elección tendremos en cuenta los servicios que implementa, el coste de los mismos y si tienen SDK y ejemplos para recuperar la información desde dispositivos Android.
 
 ### Texas Instruments SensorTag
+ - Sensor multiprotocolo que soporta Bluetooth/6LowPan/Zigbee
+ - Tiene incluidos sensores de temperatura, temperatura por infrarojos, barórmetro, altímetro, luz ambiental, humedad, magnetómetro, giroscopio.
+ - Además dispone de micrófono, vibración y chip de memoria para almacenamiento de datos
  - Precio: 30€
  
  ![Figura 1](./imagenes/texas_instruments_sensortag.jpg)
