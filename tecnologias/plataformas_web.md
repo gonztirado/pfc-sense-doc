@@ -10,5 +10,5 @@ Una vez elegida la plataforma móvil y el termógrafo apropiado nos quedaría po
 - Gestión de usuarios y permisos de accesos.
 - Servicio de mensajería push.
 - Acceso a los datos a través de api REST.
-- SDK
+- SDK para Android y iPhone
 
