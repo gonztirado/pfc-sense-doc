@@ -50,7 +50,7 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
 ### BlueMaestro Tempo Disc
 
 
-### Wimoto Climate
+### Wimoto
 
 
 ### Parrot Flower Power
