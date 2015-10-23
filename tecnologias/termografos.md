@@ -56,7 +56,7 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
 ### BlueMaestro Tempo
 - tamaño mediano, 9x9x3 cm
 - Diseño elegante para que pasar desapercibido en el hogar.
-- Diseñado para que la batería 1 año, usa dos pilas de tamaño AA.
+- Diseñado para que la batería dure 1 año, usa dos pilas de tamaño AA.
 - Tiene incluidos sensores de temperatura, barómetro y humedad.
 - Grado de protección IP52 (protección contra polvo y goteo de agua).
 - Precio: 59€
@@ -67,7 +67,7 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
 
 ### BlueMaestro Tempo Disc
  - Tamaño muy pequeño, 3.3cm de diámetro y 0.37cm de alto.
- - Diseñado para que la batería 1 año, usa una pila de tamaño botón.
+ - Diseñado para que la batería dure 1 año, usa una pila de tamaño botón.
  - Tiene incluidos sensores de temperatura, barómetro y humedad.
  - Grado de protección IP67 (protección contra polvo e inmersión en agua a 1 metro durante 30 minutos)
  - Precio: 50€
