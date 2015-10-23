@@ -17,7 +17,7 @@ El servicio elegido para la parte de almacen de datos será **Parse** y para mos
 - Capa de análisis de la aplicación.
 - Gestión y reportes de error.
 - SDK para para smartphones Android, iPhone y Windows Phone.
-- Gran comunidad de usuarios usandola.
+- Gran comunidad de usuarios.
 
 ## Ducksboard.com
 - Se trata de un *dashboard as a service*.
