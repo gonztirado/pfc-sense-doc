@@ -44,20 +44,29 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
 ### Texas Instruments SensorTag
  
  
- ![Figura 1](./imagenes/informe_temperatura_web.jpg)
+ ![Figura 1](./imagenes/texas_instruments_sensortag.jpg)
 ###### *Figura 1: Texas Instruments SensorTag*
 
 ### BlueMaestro Tempo
  
 
+![Figura 2](./imagenes/bluemaestro_tempo.jpg)
+###### *Figura 2: BlueMaestro Tempo*
+
 ### BlueMaestro Tempo Disc
 
+![Figura 3](./imagenes/bluemaestro_tempo_disc.jpg)
+###### *Figura 3: BlueMaestro Tempo Disc*
 
 ### Wimoto
 
+![Figura 3](./imagenes/wimoto.jpg)
+###### *Figura 3: Wimoto*
 
 ### Parrot Flower Power
 
+![Figura 3](./imagenes/parrot_flower_power.jpg)
+###### *Figura 3: Flower Power*
 
 ### Blue Radios nBlue
 
