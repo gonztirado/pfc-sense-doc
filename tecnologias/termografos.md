@@ -101,14 +101,14 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
  
  
 | Dispositivo      | Temp. | Temp. IR | Barómetro | Luz | Humedad | Proteccion IP | SDK/Ejemplos | Coste |
-| ---------------- | ----- | -------- | --------- | --- | ------- | ---- | ------------ | ----- |
-| **SensorTag**    | Si    | Si       | Si        | Si  | Si      | No   | Si           | 30€   |
-| **Tempo**        | Si    | Si*      | Si        | No  | No      | IP52 | No           | 59€   |
-| **Tempo Disc**   | Si    | No       | Si        | No  | Si      | IP67 | No           | 50€   |
-| **Wimoto**       | Si    | Si       | Si        | Si  | Si      | Si   | Si           | 45€   |
-| **Flower Power** | Si    | Si       | No        | Si  | Si      | Si   | Si           | 49€   |
-| **nBlue**        | Si    | Si       | No        | Si  | Si      | Si   | Si           | 39€   |
-| **Node Clima**   | Si    | Si       | No        | Si  | Si      | Si   | Si           | 199€  |
+| ---------------- | ----- | -------- | --------- | --- | ------- | ------------- | ------------ | ----- |
+| **SensorTag**    | Si    | Si       | Si        | Si  | Si      | No            | Si           | 30€   |
+| **Tempo**        | Si    | Si*      | Si        | No  | No      | IP52          | No           | 59€   |
+| **Tempo Disc**   | Si    | No       | Si        | No  | Si      | IP67          | No           | 50€   |
+| **Wimoto**       | Si    | Si       | Si        | Si  | Si      | Si            | Si           | 45€   |
+| **Flower Power** | Si    | Si       | No        | Si  | Si      | Si            | Si           | 49€   |
+| **nBlue**        | Si    | Si       | No        | Si  | Si      | Si            | Si           | 39€   |
+| **Node Clima**   | Si    | Si       | No        | Si  | Si      | Si            | Si           | 199€  |
 ###### *Tabla 2: Comparativa de sensores de temperatura*       
 
 Analizadas las diferentes tecnologías inalámbricas disponibles llegamos a la conclusión de que vamos a utilizar **Bluetooth Low Energy** ya que cumple las características que buscamos: bajo consumo, bajo coste y ya disponible en la mayoría de terminales del mercado sacados al mercado en el último año. Aunque no dispone de forma nativa de topología en malla para la comunicación entre sí de diferentes sensores, existen soluciones de fabricantes que ya lo proporcionan. De todas formas esta característica inicialmente no nos va a ser necesaria para el desarrollo de la solución.
