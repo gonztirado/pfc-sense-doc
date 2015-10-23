@@ -100,11 +100,11 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
 
  
  
-| Dispositivo      | Temp. | Temp. IR | Barómetro | Luz | Humedad | IP67 | SDK/Ejemplos | Coste |
+| Dispositivo      | Temp. | Temp. IR | Barómetro | Luz | Humedad | Proteccion IP | SDK/Ejemplos | Coste |
 | ---------------- | ----- | -------- | --------- | --- | ------- | ---- | ------------ | ----- |
 | **SensorTag**    | Si    | Si       | Si        | Si  | Si      | No   | Si           | 30€   |
-| **Tempo**        | Si    | Si*      | Si        | No  | No      | No   | No           | 59€   |
-| **Tempo Disc**   | Si    | No       | Si        | No  | Si      | Si   | No           | 50€   |
+| **Tempo**        | Si    | Si*      | Si        | No  | No      | IP52 | No           | 59€   |
+| **Tempo Disc**   | Si    | No       | Si        | No  | Si      | IP67 | No           | 50€   |
 | **Wimoto**       | Si    | Si       | Si        | Si  | Si      | Si   | Si           | 45€   |
 | **Flower Power** | Si    | Si       | No        | Si  | Si      | Si   | Si           | 49€   |
 | **nBlue**        | Si    | Si       | No        | Si  | Si      | Si   | Si           | 39€   |
