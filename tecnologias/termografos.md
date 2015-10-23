@@ -42,7 +42,7 @@ Analizadas las diferentes tecnologías inalámbricas disponibles llegamos a la c
 Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los sensores, nos dispusimos a realizar una busqueda de los diferentes fabricantes. Para determinar cual es el la mejor elección tendremos en cuenta los servicios que implementa, el coste de los mismos y si tienen SDK y ejemplos para recuperar la información desde dispositivos Android.
 
 ### Texas Instruments SensorTag
- 
+ - Precio: 30
  
  ![Figura 1](./imagenes/texas_instruments_sensortag.jpg)
 ###### *Figura 1: Texas Instruments SensorTag*
@@ -60,20 +60,23 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
 
 ### Wimoto
 
-![Figura 3](./imagenes/wimoto.jpg)
-###### *Figura 3: Wimoto*
+![Figura 4](./imagenes/wimoto.jpg)
+###### *Figura 4: Wimoto*
 
 ### Parrot Flower Power
 
-![Figura 3](./imagenes/parrot_flower_power.jpg)
-###### *Figura 3: Flower Power*
+![Figura 5](./imagenes/parrot_flower_power.jpg)
+###### *Figura 5: Flower Power*
 
 ### Blue Radios nBlue
 
+![Figura 6](./imagenes/blueradios_nblue.jpg)
+###### *Figura 6: BlueRadios nBlue*
 
 ### Variable Node Clima
 
-
+![Figura 7](./imagenes/variable_node_clima.jpg)
+###### *Figura 7: BlueRadios nBlue*
 
 
  
