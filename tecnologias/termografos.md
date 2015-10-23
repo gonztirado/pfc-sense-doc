@@ -67,16 +67,19 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
 ###### *Figura 4: Wimoto*
 
 ### Parrot Flower Power
+- Precio: 49€
 
 ![Figura 5](./imagenes/parrot_flower_power.jpg)
 ###### *Figura 5: Flower Power*
 
 ### Blue Radios nBlue
+- Precio: 39€
 
 ![Figura 6](./imagenes/blueradios_nblue.jpg)
 ###### *Figura 6: BlueRadios nBlue*
 
 ### Variable Node Clima
+- Precio: 199€
 
 ![Figura 7](./imagenes/variable_node_clima.jpg)
 ###### *Figura 7: BlueRadios nBlue*
