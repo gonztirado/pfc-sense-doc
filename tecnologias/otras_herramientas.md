@@ -28,7 +28,7 @@ Se trata de un cliente de escritorio para la gestión de repositorios Git. Hace 
 
 
 ## JIRA
-JIRA es una aplicación basada en web para el seguimiento de errores, de incidentes y para la gestión operativa de proyectos. Se usará para llevar una correcta gestión y organización de tareas. Además incluye soporte para la gestión agil de proyectos, permitiendo utilizar pizarras virtuales de Scrum y Kanban.
+JIRA es una aplicación basada en web para el seguimiento de errores, de incidentes y para la gestión operativa de proyectos. Se usará para llevar una correcta gestión y organización de tareas. Además incluye soporte para la gestión ágil de proyectos, permitiendo utilizar pizarras virtuales de Scrum y Kanban.
 
 
 ## Gitbook
