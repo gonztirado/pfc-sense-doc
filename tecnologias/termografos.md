@@ -42,23 +42,26 @@ Analizadas las diferentes tecnologías inalámbricas disponibles llegamos a la c
 Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los sensores, nos dispusimos a realizar una busqueda de los diferentes fabricantes. Para determinar cual es el la mejor elección tendremos en cuenta los servicios que implementa, el coste de los mismos y si tienen SDK y ejemplos para recuperar la información desde dispositivos Android.
 
 ### Texas Instruments SensorTag
- - Precio: 30
+ - Precio: 30€
  
  ![Figura 1](./imagenes/texas_instruments_sensortag.jpg)
 ###### *Figura 1: Texas Instruments SensorTag*
 
 ### BlueMaestro Tempo
+- Precio: 59€
  
 
 ![Figura 2](./imagenes/bluemaestro_tempo.jpg)
 ###### *Figura 2: BlueMaestro Tempo*
 
 ### BlueMaestro Tempo Disc
+- Precio: 50€
 
 ![Figura 3](./imagenes/bluemaestro_tempo_disc.jpg)
 ###### *Figura 3: BlueMaestro Tempo Disc*
 
 ### Wimoto
+- Precio: 45€
 
 ![Figura 4](./imagenes/wimoto.jpg)
 ###### *Figura 4: Wimoto*
