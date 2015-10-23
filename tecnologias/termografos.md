@@ -34,3 +34,4 @@ El primer paso consiste en determinar que tecnología inalámbrica vamos a utili
 | **Zigbee**       | Si           | Si*         | Si              | No                       |
 | **Bluetooth LE** | Si           | Si          | No              | Si                       | 
 ###### *Tabla 1: Comparativa de protocolos de comunicación inalámbrica*
+
