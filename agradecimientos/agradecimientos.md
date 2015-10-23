@@ -4,7 +4,7 @@
 
 **A mis padres**, por su amor incondicional, por proporcionarme la educación que tengo, por apoyarme siempre en todo lo que me he propuesto e impulsarme para que siempre siguiera hacia adelante.
 
-**A mis hermanos**, por estar ahí siempre que os he necesitado, por el cariño que he recibido de vosotros y por servirme de ejemplo de lucha y superación.
+**A mis hermanos**, por estar ahí siempre que les he necesitado, por el cariño que he recibido de vosotros y por servirme de ejemplo de lucha y superación.
 
 **A mis amigos**, por ser como sois, por aceptarme tal y como soy yo, por animarme cuando estaba mal para que no me rindiera y por distraerme cuando era necesario.
 
