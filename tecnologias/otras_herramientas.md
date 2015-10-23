@@ -32,6 +32,7 @@ JIRA es una aplicación basada en web para el seguimiento de errores, de inciden
 
 
 ## Gitbook
+Gitbook es una plataforma web para la creación y distribución de libros electrónicos. Con un sencillo editor y haciendo uso del lenguaje de wiki Markdown permite crear de forma sencilla libros de forma sencilla exportables a diferentes formatos entre los que se incluye HTML, pdf y formatos de libros electrónicos como epub y mobi.
 
 
 
