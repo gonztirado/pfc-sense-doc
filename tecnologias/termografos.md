@@ -76,11 +76,9 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
 
 ### Wimoto
  - Tamaño muy pequeño, 1.3x2.5x2.5 cm
- - Diseñado para que la batería 1 año, usa una pila de tamaño botón.
+ - Diseñado para que la batería dure de 1 a 3 años, usa una pila de tamaño botón.
  - Tiene incluidos sensores de temperatura, humedad y luminosidad ambiental.
- - Grado de protección IP67 (protección contra polvo e inmersión en agua a 1 metro durante 30 minutos)
- - Precio: 50€
-- Precio: 45€
+ - Precio: 45€
 
 ![Figura 4](./imagenes/wimoto.jpg)
 ###### *Figura 4: Wimoto*
