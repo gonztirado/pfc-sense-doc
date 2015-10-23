@@ -39,7 +39,7 @@ Analizadas las diferentes tecnologías inalámbricas disponibles llegamos a la c
 
 ## Sensores Bluetooth LE
 
-El primer paso consiste en determinar que tecnología inalámbrica vamos a utilizar en la conectividad con lo sensores, vamos a realizar una comparativa de los diferentes protocolos existentes para determinar la elección del sensor.
+Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los sensores, nos dispusimos a realizar una busqueda de los diferentes fabricantes. Para determinar cual es el la mejor elección tendremos en cuenta los servicios que implementa, el coste de los mismos y si tienen SDK y ejemplos para recuperar la información desde dispositivos Android.
 
 ### Wifi (802.11 a/b/g/n)
  - Disponible en todos los terminales móviles.
