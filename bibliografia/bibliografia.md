@@ -69,6 +69,14 @@ APLICACIÓN WEB PARA RESOLVER SISTEMAS DE ECUACIONES LINEALES (ALBERTO RAMÍREZ 
 - [Zigbee - wikipedia](https://es.wikipedia.org/wiki/ZigBee)
 - [Bluetooth LE Mesh - Fabricante CSR](http://www.csr.com/products/csrmesh-development-kit)
 - [Grado de protección IP - wikipedia](https://es.wikipedia.org/wiki/Grado_de_protecci%C3%B3n_IP)
+ 
+
+## Otras herramientas
+- [Android Studio - wikipedia](https://en.wikipedia.org/wiki/Android_Studio)
+
+
+
+
 
 
 
