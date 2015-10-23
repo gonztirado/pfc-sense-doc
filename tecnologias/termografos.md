@@ -42,7 +42,7 @@ Analizadas las diferentes tecnologías inalámbricas disponibles llegamos a la c
 Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los sensores, nos dispusimos a realizar una busqueda de los diferentes fabricantes. Para determinar cual es el la mejor elección tendremos en cuenta los servicios que implementa, el coste de los mismos y si tienen SDK y ejemplos para recuperar la información desde dispositivos Android.
 
 ### Texas Instruments SensorTag
- - Pequeño tamaño 5x6.7x1.4 cm
+ - Pequeño tamaño, 5x6.7x1.4 cm
  - Diseñado para que la batería dure años, usa una pila tamaño botón.
  - Sensor multiprotocolo que soporta Bluetooth/6LowPan/Zigbee
  - Tiene incluidos sensores de temperatura, temperatura por infrarojos, barómetro, altímetro, luz ambiental, humedad, magnetómetro, giroscopio.
@@ -53,7 +53,7 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
 ###### *Figura 1: Texas Instruments SensorTag*
 
 ### BlueMaestro Tempo
-- De tamaño medio 9x9x3 cm
+- De tamaño medio, 9x9x3 cm
 - Diseño elegante para que pasar desapercibido en el hogar.
 - Diseñado para que la batería 1 año, usa dos pilas de tamaño AA.
 - Tiene incluidos sensores de temperatura, barómetro y humedad.
@@ -65,7 +65,7 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
 ###### *Figura 2: BlueMaestro Tempo*
 
 ### BlueMaestro Tempo Disc
- - Pequeño tamaño, un poco más grande que una pila de botón
+ - Tamaño muy pequeño, 3.3cm de diámetro y 0.37cm de alto.
  - Diseñado para que la batería 1 año, usa una pila de tamaño botón.
  - Tiene incluidos sensores de temperatura, barómetro y humedad.
  - Grado de protección IP67 (protección contra polvo e inmersión en agua a 1 metro durante 30 minutos)
