@@ -68,13 +68,13 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
  
 | Dispositivo      | Bajo consumo | Bajo coste  | Topologia en malla | Disponible en terminales |
 | ---------------- | ------------ | ----------- | ------------------ | ------------------------ |
-| **TI SensorTag** | No           | Si          | No                 | Si                       |
-| **BM Tempo**       | Si           | Si*         | Si                 | No                       |
-| **BM Tempo Disc** | Si           | Si          | No                 | Si                       | 
-| **Wimoto** | Si           | Si          | No                 | Si                       |
+| **SensorTag**    | No           | Si          | No                 | Si                       |
+| **Tempo**        | Si           | Si*         | Si                 | No                       |
+| **Tempo Disc**   | Si           | Si          | No                 | Si                       | 
+| **Wimoto**       | Si           | Si          | No                 | Si                       |
 | **Flower Power** | Si           | Si          | No                 | Si                       |
-| **nBlue** | Si           | Si          | No                 | Si                       |
-| **Node Clima** | Si           | Si          | No                 | Si                       |
-###### *Tabla 1: Comparativa de protocolos de comunicación inalámbrica*
+| **nBlue**        | Si           | Si          | No                 | Si                       |
+| **Node Clima**   | Si           | Si          | No                 | Si                       |
+###### *Tabla 2: Comparativa de sensores de temperatura*
 
 Analizadas las diferentes tecnologías inalámbricas disponibles llegamos a la conclusión de que vamos a utilizar **Bluetooth Low Energy** ya que cumple las características que buscamos: bajo consumo, bajo coste y ya disponible en la mayoría de terminales del mercado sacados al mercado en el último año. Aunque no dispone de forma nativa de topología en malla para la comunicación entre sí de diferentes sensores, existen soluciones de fabricantes que ya lo proporcionan. De todas formas esta característica inicialmente no nos va a ser necesaria para el desarrollo de la solución.
