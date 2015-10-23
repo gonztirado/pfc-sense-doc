@@ -86,7 +86,7 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
 ###### *Figura 4: Wimoto*
 
 ### Parrot Flower Power
- - Tamaño medio, 1.3x2.5x2.5 cm
+ - Tamaño mediano, 1.15x20x2 cm
  - Diseñado para que la batería dure 6 meses, usa una pila de tamaño AAA.
  - Tiene incluidos sensores de temperatura, humedad, fertilizante y luminosidad ambiental.
  - Dispone de código de ejemplo de aplicación para Android y documento de especificaciones de los servicios.
