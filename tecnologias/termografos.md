@@ -54,7 +54,7 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
 ###### *Figura 1: Texas Instruments SensorTag*
 
 ### BlueMaestro Tempo
-- De tamaño medio, 9x9x3 cm
+- tamaño mediano, 9x9x3 cm
 - Diseño elegante para que pasar desapercibido en el hogar.
 - Diseñado para que la batería 1 año, usa dos pilas de tamaño AA.
 - Tiene incluidos sensores de temperatura, barómetro y humedad.
