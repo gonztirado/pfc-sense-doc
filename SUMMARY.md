@@ -21,7 +21,7 @@
    * Requisitos
    * Casos de uso
    * Análisis del modelo de datos
-   * Análisis de la Interfaz de Usuario
+   * Análisis de la interfaz de usuario
 * [Diseño e implementación](diseno/diseno_e_implementacion.md)
 * [Pruebas](pruebas/pruebas.md)
 * [Conclusiones y mejoras futuras](conclusiones/conclusiones_y_mejoras_futuras.md)
