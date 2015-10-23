@@ -16,7 +16,7 @@ El servicio elegido para la parte de almacen de datos será **Parse** y para mos
 - Hosting de aplicaciones web
 - Capa de análisis de la aplicación.
 - Gestión y reportes de error.
-- SDK para Android y iPhone.
+- SDK para para smartphones Android, iPhone y Windows Phone.
 - Gran comunidad de usuarios usandola.
 
 ## Ducksboard.com
