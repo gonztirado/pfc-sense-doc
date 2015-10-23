@@ -11,6 +11,8 @@ En reconocimiento a la creciente demanda de una administración óptima de la **
 - Para obtener la información del termógrafo es necesario conectarlo mediante cableado a un ordenador
 - Suele ser necesario usar un software especializado para analizar, organizar e imprimir los datos
 - Además, en todos estos tipos de dispositivos, al estar cableados, implica de una instalación allí donde se requiere su uso, con el coste de mantenimiento que ello conlleva.
+- No se monitorizan los sensores en tiempo real, sino que se observa a posteriori. En estas situaciones sólo se puede cerciorar que se ha roto la cadena de frío.
+El problema existente es, a día de hoy, es la extracción y monitorización de la temperatura de los termógrafos, y es que, aunque se pueda recoger de forma inalámbrica, no existe en el mercado una solución para monitorizar esta temperatura en tiempo real, sino que se observa a posteriori. En estas situaciones sólo se puede cerciorar que se ha roto la cadena de frío. Si esto sucede con productos muy sensibles a la temperatura sólo sirve para constatar que se ha echado a perder el producto en cuestión. Lo deseado sería actuar ante dicho evento, previniendo la pérdida del producto.
 
 
 
