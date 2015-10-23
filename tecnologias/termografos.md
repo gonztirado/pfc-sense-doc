@@ -42,9 +42,11 @@ Analizadas las diferentes tecnologías inalámbricas disponibles llegamos a la c
 Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los sensores, nos dispusimos a realizar una busqueda de los diferentes fabricantes. Para determinar cual es el la mejor elección tendremos en cuenta los servicios que implementa, el coste de los mismos y si tienen SDK y ejemplos para recuperar la información desde dispositivos Android.
 
 ### Texas Instruments SensorTag
+ - Pequeño tamaño 5x6.7x1.4 cm
+ - Diseñado para que la batería dure años
  - Sensor multiprotocolo que soporta Bluetooth/6LowPan/Zigbee
  - Tiene incluidos sensores de temperatura, temperatura por infrarojos, barórmetro, altímetro, luz ambiental, humedad, magnetómetro, giroscopio.
- - Además dispone de micrófono, vibración y chip de memoria para almacenamiento de datos
+ - Además dispone de micrófono, vibración, modo iBeacon y chip de memoria para almacenamiento de datos
  - Precio: 30€
  
  ![Figura 1](./imagenes/texas_instruments_sensortag.jpg)
@@ -58,7 +60,12 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
 ###### *Figura 2: BlueMaestro Tempo*
 
 ### BlueMaestro Tempo Disc
-- Precio: 50€
+ - Pequeño tamaño, un poco más grande que una pila de botón
+ - Diseñado para que la batería dure años
+ - Sensor multiprotocolo que soporta Bluetooth/6LowPan/Zigbee
+ - Tiene incluidos sensores de temperatura, temperatura por infrarojos, barórmetro, altímetro, luz ambiental, humedad, magnetómetro, giroscopio.
+ - Además dispone de micrófono, vibración, modo iBeacon y chip de memoria para almacenamiento de datos
+ - Precio: 50€
 
 ![Figura 3](./imagenes/bluemaestro_tempo_disc.jpg)
 ###### *Figura 3: BlueMaestro Tempo Disc*
@@ -87,18 +94,17 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
 ![Figura 7](./imagenes/variable_node_clima.jpg)
 ###### *Figura 7: BlueRadios nBlue*
 
-
  
  
-| Dispositivo      | Bajo consumo | Bajo coste  | Topologia en malla | Disponible en terminales |
-| ---------------- | ------------ | ----------- | ------------------ | ------------------------ |
-| **SensorTag**    | No           | Si          | No                 | Si                       |
-| **Tempo**        | Si           | Si*         | Si                 | No                       |
-| **Tempo Disc**   | Si           | Si          | No                 | Si                       | 
-| **Wimoto**       | Si           | Si          | No                 | Si                       |
-| **Flower Power** | Si           | Si          | No                 | Si                       |
-| **nBlue**        | Si           | Si          | No                 | Si                       |
-| **Node Clima**   | Si           | Si          | No                 | Si                       |
-###### *Tabla 2: Comparativa de sensores de temperatura*
+| Dispositivo      | Temp. | Temp. IR | Barómetro | Luz | Humedad | IP67 | SDK/Ejemplos | Coste |
+| ---------------- | ----- | -------- | --------- | --- | ------- | ---- | ------------ | ----- |
+| **SensorTag**    | Si    | Si       | Si        | Si  | Si      | No   | Si           | 30€   |
+| **Tempo**        | Si    | Si*      | Si        | No  | No      | No   | No           | 59€   |
+| **Tempo Disc**   | Si    | No       | Si        | No  | Si      | Si   | No           | 50€   |
+| **Wimoto**       | Si    | Si       | Si        | Si  | Si      | Si   | Si           | 45€   |
+| **Flower Power** | Si    | Si       | No        | Si  | Si      | Si   | Si           | 49€   |
+| **nBlue**        | Si    | Si       | No        | Si  | Si      | Si   | Si           | 39€   |
+| **Node Clima**   | Si    | Si       | No        | Si  | Si      | Si   | Si           | 199€  |
+###### *Tabla 2: Comparativa de sensores de temperatura*       
 
 Analizadas las diferentes tecnologías inalámbricas disponibles llegamos a la conclusión de que vamos a utilizar **Bluetooth Low Energy** ya que cumple las características que buscamos: bajo consumo, bajo coste y ya disponible en la mayoría de terminales del mercado sacados al mercado en el último año. Aunque no dispone de forma nativa de topología en malla para la comunicación entre sí de diferentes sensores, existen soluciones de fabricantes que ya lo proporcionan. De todas formas esta característica inicialmente no nos va a ser necesaria para el desarrollo de la solución.
