@@ -66,11 +66,15 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
 
  
  
-| Protocolo        | Bajo consumo | Bajo coste  | Topologia en malla | Disponible en terminales |
+| Dispositivo      | Bajo consumo | Bajo coste  | Topologia en malla | Disponible en terminales |
 | ---------------- | ------------ | ----------- | ------------------ | ------------------------ |
-| **Wifi**         | No           | Si          | No                 | Si                       |
-| **Zigbee**       | Si           | Si*         | Si                 | No                       |
-| **Bluetooth LE** | Si           | Si          | No                 | Si                       | 
+| **TI SensorTag** | No           | Si          | No                 | Si                       |
+| **BM Tempo**       | Si           | Si*         | Si                 | No                       |
+| **BM Tempo Disc** | Si           | Si          | No                 | Si                       | 
+| **Wimoto** | Si           | Si          | No                 | Si                       |
+| **Flower Power** | Si           | Si          | No                 | Si                       |
+| **nBlue** | Si           | Si          | No                 | Si                       |
+| **Node Clima** | Si           | Si          | No                 | Si                       |
 ###### *Tabla 1: Comparativa de protocolos de comunicación inalámbrica*
 
 Analizadas las diferentes tecnologías inalámbricas disponibles llegamos a la conclusión de que vamos a utilizar **Bluetooth Low Energy** ya que cumple las características que buscamos: bajo consumo, bajo coste y ya disponible en la mayoría de terminales del mercado sacados al mercado en el último año. Aunque no dispone de forma nativa de topología en malla para la comunicación entre sí de diferentes sensores, existen soluciones de fabricantes que ya lo proporcionan. De todas formas esta característica inicialmente no nos va a ser necesaria para el desarrollo de la solución.
