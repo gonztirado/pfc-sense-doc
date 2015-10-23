@@ -43,7 +43,7 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
 
 ### Texas Instruments SensorTag
  - Pequeño tamaño 5x6.7x1.4 cm
- - Diseñado para que la batería dure años
+ - Diseñado para que la batería dure años, usa pilas de botón.
  - Sensor multiprotocolo que soporta Bluetooth/6LowPan/Zigbee
  - Tiene incluidos sensores de temperatura, temperatura por infrarojos, barómetro, altímetro, luz ambiental, humedad, magnetómetro, giroscopio.
  - Además dispone de micrófono, vibración, modo iBeacon y chip de memoria para almacenamiento de datos
@@ -53,6 +53,9 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
 ###### *Figura 1: Texas Instruments SensorTag*
 
 ### BlueMaestro Tempo
+- De tamaño medio 9x9x3 cm
+- Diseño elegante para que pasar desapercibido en el hogar.
+- Batería a pilas
 - Precio: 59€
  
 
@@ -61,7 +64,7 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
 
 ### BlueMaestro Tempo Disc
  - Pequeño tamaño, un poco más grande que una pila de botón
- - Diseñado para que la batería 1 año
+ - Diseñado para que la batería 1 año, usa dos pilas de tamaño AA.
  - Tiene incluidos sensores de temperatura, barórmetro y humedad.
  - Grado de protección IP67 (protección contra polvo e inmersión en agua a 1 metro durante 30 minutos)
  - Precio: 50€
