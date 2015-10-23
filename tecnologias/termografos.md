@@ -55,10 +55,13 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
 
 ### Parrot Flower Power
 
-### Pebble Bee
-
 
 ### Blue Radios nBlue
+
+
+### Node Clima
+
+
 
 
  
