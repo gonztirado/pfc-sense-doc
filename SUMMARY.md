@@ -17,6 +17,7 @@
    * [Plataformas web](tecnologias/plataformas_web.md)
    * [Otras herramientas](tecnologias/otras_herramientas.md)
 * [Especificación y análisis](especificacion/especificacion_y_analisis.md)
+   * Metodología de desarrollo
 * [Diseño e implementación](diseno/diseno_e_implementacion.md)
 * [Pruebas](pruebas/pruebas.md)
 * [Conclusiones y mejoras futuras](conclusiones/conclusiones_y_mejoras_futuras.md)
