@@ -43,6 +43,9 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
 
 ### Texas Instruments SensorTag
  
+ 
+ ![Figura 1](./imagenes/informe_temperatura_web.jpg)
+###### *Figura 1: Texas Instruments SensorTag*
 
 ### BlueMaestro Tempo
  
