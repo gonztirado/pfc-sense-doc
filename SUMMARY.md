@@ -18,7 +18,7 @@
    * [Otras herramientas](tecnologias/otras_herramientas.md)
 * [Especificación y análisis](especificacion/especificacion_y_analisis.md)
    * [Metodología de desarrollo](especificacion/metodologia_de_desarrollo.md)
-   * Requisitos
+   * [Requisitos](especificacion/requisitos.md)
    * Casos de uso
    * Análisis del modelo de datos
    * Análisis de la interfaz de usuario
