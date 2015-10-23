@@ -14,8 +14,6 @@ Está basado en el software *IntelliJ IDEA* de *JetBrains*, y es publicado de fo
  - Herramientas Lint para detectar problemas de rendimiento, usabilidad, compatibilidad de versiones, y otros problemas.
  - Plantillas para crear diseños comunes de Android.
 
-
-
 ## BitBucket
 
 
