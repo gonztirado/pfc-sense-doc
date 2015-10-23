@@ -90,6 +90,7 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
  - Diseñado para que la batería dure 6 meses, usa una pila de tamaño AAA.
  - Tiene incluidos sensores de temperatura, humedad, fertilizante y luminosidad ambiental.
  - Dispone de código de ejemplo de aplicación para Android y documento de especificaciones de los servicios.
+ - Grado de protección IP52 (protección contra polvo y goteo de agua).
  - Precio: 49€
 
 ![Figura 5](./imagenes/parrot_flower_power.jpg)
