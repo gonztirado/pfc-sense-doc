@@ -63,7 +63,7 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
  - Pequeño tamaño, un poco más grande que una pila de botón
  - Diseñado para que la batería 1 año
  - Tiene incluidos sensores de temperatura, barórmetro y humedad.
- - 
+ - Grado de protección IP67 (protección contra polvo e inmersión en agua a 1 metro durante 30 minutos)
  - Precio: 50€
 
 ![Figura 3](./imagenes/bluemaestro_tempo_disc.jpg)
