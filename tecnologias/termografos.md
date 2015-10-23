@@ -59,7 +59,7 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
 ### Blue Radios nBlue
 
 
-### Node Clima
+### Variable Node Clima
 
 
 
