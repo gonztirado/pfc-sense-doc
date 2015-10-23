@@ -89,7 +89,7 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
  - Tamaño mediano, 1.15x20x2 cm
  - Diseñado para que la batería dure 6 meses, usa una pila de tamaño AAA.
  - Tiene incluidos sensores de temperatura, humedad, fertilizante y luminosidad ambiental.
- - Dispone de código de ejemplo de aplicación para Android y documento de especificaciones de los servicios.
+ - No dispone de código de ejemplo de aplicación para smartphone, sólo para su api web.
  - Grado de protección IP52 (protección contra polvo y goteo de agua).
  - Precio: 49€
 
@@ -97,13 +97,22 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
 ###### *Figura 5: Flower Power*
 
 ### Blue Radios nBlue
-- Precio: 39€
+ - Tamaño muy pequeño, 3.3cm de diámetro y 1cm de alto.
+ - Diseñado para que la batería 1 año, usa una pila de tamaño botón.
+ - Tiene incluidos sensores de temperatura, luminosidad y giroscopio.
+ - Grado de protección IP52 (protección contra polvo y goteo de agua).
+ - Precio: 39€
 
 ![Figura 6](./imagenes/blueradios_nblue.jpg)
 ###### *Figura 6: BlueRadios nBlue*
 
 ### Variable Node Clima
-- Precio: 199€
+ - Tamaño mediano, 3.26cm de diámetro y 8.27cm de largo.
+ - Diseñado con batería recargable mediante usb.
+ - Tiene incluidos sensores de temperatura, luminosidad y humedad.
+ - Dispone de un diseño modular donde los sensores son intercambiables, pudiendo añadir sensores de códigos de barras, calidad del aire, detección de color y lectura de temperatura de un objeto por infrarojos. 
+ - El fabricante proporciona código de ejemplo de aplicación para Android y documento de especificaciones de los servicios.
+ - Precio: 199€
 
 ![Figura 7](./imagenes/variable_node_clima.jpg)
 ###### *Figura 7: BlueRadios nBlue*
@@ -116,9 +125,12 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
 | **Tempo**        | Si    | No       | Si        | No  | Si      | IP52          | No           | 59€   |
 | **Tempo Disc**   | Si    | No       | Si        | No  | Si      | IP67          | No           | 50€   |
 | **Wimoto**       | Si    | No       | No        | Si  | Si      | --            | Si           | 45€   |
-| **Flower Power** | Si    | Si       | No        | Si  | Si      | Si            | Si           | 49€   |
-| **nBlue**        | Si    | Si       | No        | Si  | Si      | Si            | Si           | 39€   |
-| **Node Clima**   | Si    | Si       | No        | Si  | Si      | Si            | Si           | 199€  |
+| **Flower Power** | Si    | No       | No        | Si  | Si      | IP52          | No           | 49€   |
+| **nBlue**        | Si    | No       | No        | Si  | No      | IP52          | No           | 39€   |
+| **Node Clima**   | Si    | No       | No        | Si  | Si      | --            | Si           | 199€  |
 ###### *Tabla 2: Comparativa de sensores de temperatura*       
 
-Analizadas las diferentes tecnologías inalámbricas disponibles llegamos a la conclusión de que vamos a utilizar **Bluetooth Low Energy** ya que cumple las características que buscamos: bajo consumo, bajo coste y ya disponible en la mayoría de terminales del mercado sacados al mercado en el último año. Aunque no dispone de forma nativa de topología en malla para la comunicación entre sí de diferentes sensores, existen soluciones de fabricantes que ya lo proporcionan. De todas formas esta característica inicialmente no nos va a ser necesaria para el desarrollo de la solución.
+Analizados los diferentes sensores encontrados, y valorando sobre todo el número de servicios de los que dispone y el menor coste posible decidimos optar por el sensor SensorTag de Texas Instruments. Además dispone de documentación técnica y de ejemplos de uso con aplicaciones Android. Así que para el desarrollo del proyecto usaremos este tipo de sensor.
+
+Sin embargo, otros sensores analizados tienen características atractivas dependiendo de para que tipo de uso se le va a dar a la aplicación. Sensores con protección IP67 resistentes al agua y al polvo como Tempo Disc pueden resultar interesantes para recuperar la información dentro de cámaras frigoríficas. Por otra parte, sensores capaces de leer el nivel de fertilizante del suelo pueden ser interesante para el control de cultivos y para el cuidado de plantas. 
+
