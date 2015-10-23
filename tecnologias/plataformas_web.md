@@ -27,4 +27,4 @@ El servicio elegido para la parte de almacen de datos será **Parse** y para mos
 - Api REST para push de datos a las diferentes gráficas.
 - Gráficas animadas y visualmente atractivas.
 - Modo TV para mostrar las gráficas en pantalla completa.
-- - Buena documentación de la plataforma.
+- Buena documentación de la plataforma.
