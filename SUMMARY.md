@@ -20,6 +20,7 @@
    * Metodología de desarrollo
    * Requisitos
    * Casos de uso
+   * Análisis del modelo de datos
 * [Diseño e implementación](diseno/diseno_e_implementacion.md)
 * [Pruebas](pruebas/pruebas.md)
 * [Conclusiones y mejoras futuras](conclusiones/conclusiones_y_mejoras_futuras.md)
