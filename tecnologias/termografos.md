@@ -42,25 +42,13 @@ Analizadas las diferentes tecnologías inalámbricas disponibles llegamos a la c
 Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los sensores, nos dispusimos a realizar una busqueda de los diferentes fabricantes. Para determinar cual es el la mejor elección tendremos en cuenta los servicios que implementa, el coste de los mismos y si tienen SDK y ejemplos para recuperar la información desde dispositivos Android.
 
 ### Texas Instruments SensorTag
- - Disponible en todos los terminales móviles.
- - Mantener el canal de comunicación wifi con un sensor consume bastante energía.
- - Además, si se mantiene el canal abierto con un canal no podríamos conectarnos a nuestra red local para conectarnos a internet
- - Los sensores con conectividad Wifi está más enfocados para que envíen directamente ellos la temperatura a un servicio web propio sin contar con un smartphone. Tiene el inconveniente de que no podríamos consultar la temperatura del sensor si perdemos cobertura de datos móviles.
+ 
 
-### Zigbee
- - Se trata de un protocolo de bajo consumo.
- - Utiliza una topología en red de malla para que los sensores se comuniquen entre sí.
- - Se pueden construir sensores con muy poca electrónica.
- - Bajo coste de los mismos 
- - Tiene la desventaja de que existen muy pocos smartphones que incluyan este protocolo. Existen soluciones para dotar a cualquier telefóno de comunicación Zigbee, como bases acopladas o tarjetas SD con zigbee pero incrementan bastante el coste de la solución
+### BlueMaestro Tempo
+ 
 
-### Bluetooth Low Energy
- - Disponible en todos los terminales móviles.
- - Consumo de energía en modo inactivo ultra bajo
- - Capacidad de durabilidad en las baterías de tipo botón durante años 
- - Menor coste de implementación
- - Interoperabilidad entre múltiples proveedores
- - Rango de alcance mejorado
+### BlueMaestro Tempo Disc
+ 
  
 | Protocolo        | Bajo consumo | Bajo coste  | Topologia en malla | Disponible en terminales |
 | ---------------- | ------------ | ----------- | ------------------ | ------------------------ |
