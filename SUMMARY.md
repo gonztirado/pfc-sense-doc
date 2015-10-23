@@ -19,6 +19,7 @@
 * [Especificación y análisis](especificacion/especificacion_y_analisis.md)
    * Metodología de desarrollo
    * Requisitos
+   * Casos de uso
 * [Diseño e implementación](diseno/diseno_e_implementacion.md)
 * [Pruebas](pruebas/pruebas.md)
 * [Conclusiones y mejoras futuras](conclusiones/conclusiones_y_mejoras_futuras.md)
