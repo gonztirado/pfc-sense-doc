@@ -109,7 +109,7 @@ Una vez tomada la decisión de usar Bluetooth LE para la comunicación con los s
 ### Variable Node Clima
  - Tamaño mediano, 3.26cm de diámetro y 8.27cm de largo.
  - Diseñado con batería recargable mediante usb.
- - Tiene incluidos sensores de temperatura, luminosidad y humedad.
+ - Tiene incluidos sensores de temperatura, barómetro, luminosidad y humedad.
  - Dispone de un diseño modular donde los sensores son intercambiables, pudiendo añadir sensores de códigos de barras, calidad del aire, detección de color y lectura de temperatura de un objeto por infrarojos. 
  - El fabricante proporciona código de ejemplo de aplicación para Android y documento de especificaciones de los servicios.
  - Precio: 199€
