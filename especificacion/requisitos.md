@@ -14,3 +14,10 @@
     - Configuración de refresco de las gráficas de monitorización
     - Exportación de datos y backup
 - Requisitos no funcionales
+    - Usuabilidad
+    - Aspecto
+    - Mantenimiento
+    - Rendimiento
+    - Integración
+    - Persistencia
+    - Documentación
