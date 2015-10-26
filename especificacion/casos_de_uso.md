@@ -60,6 +60,8 @@ A continuación veremos un listado detallado de los casos de uso:
 | **Postcondiciones** | Se podrán crear nuevos paneles de monitorización y editar los ya existentes |
 | **Flujo** | Después de acceder al entorno mediante clave de usuario se accederá al entorno de configuración de los paneles de monitorización |
 
+###### *Tabla 4: Caso de uso: Configuración de dashboard de monitorización*
+
 
 ## Monitorización remota de los sensores
 
