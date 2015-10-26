@@ -24,7 +24,7 @@ Tras la fase de análisis quedan identificados tres tipos de actores que van a h
 - **Consulta y exportación de datos históricos**: Los administradores tendrán acceso a los datos enviados por los terminales por si hiciera falta analizarlos, exportarlos o realizar copias de seguridad de los mismos.
     
 - Requisitos no funcionales
-    - Usabilidad
+    - **Usabilidad**: La aplicación ha de ser intuitiva para los usuarios, eliminando pasos innecesarios y minimizando las acciones necesarias para realizar las distintas operaciones.
     - Aspecto
     - Mantenimiento
     - Rendimiento
