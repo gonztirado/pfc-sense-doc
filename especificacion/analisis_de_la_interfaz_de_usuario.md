@@ -18,4 +18,4 @@ Una vez realizados los diseños tanto del modelo como de los controladores, el s
 ## Diseño del dashboard de monitorización
 
 ![Figura 1](./imagenes/mockup_monitorizacion_remota.jpg)
-###### *Figura 2: Mockup la UI del dashboard de monitorización*
+###### *Figura 2: Mockup la UI del dashboard de monitorización remota*
