@@ -8,5 +8,5 @@ Por un lado tenemos el controlador que se encarga de manejar cuando hemos recibi
 ###### *Figura 1: Diagramas de clase de DeviceInfo y SensorInfo*
 
 
-![Figura 2](./imagenes/diagrama_ducksboard_controller.JPG)
+![Figura 2](./imagenes/diagrama_parse_ducksboard_controller.JPG)
 ###### *Figura 2: Diagramas de clase de SensorData y sus clases hijas*
