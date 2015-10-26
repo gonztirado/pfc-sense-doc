@@ -48,8 +48,8 @@ A continuación veremos un listado detallado de los casos de uso:
 | **Descripción** | Debe proporcionarse un entorno web donde pueda configurarse los diferentes paneles de monitorización para los diferentes sensores utilizados |
 | **Actor** | Administrador |
 | **Precondiciones** | Para acceder al entorno de administración y consulta de datos será necesario autentificarse con un usuario previamente configurado |
-| **Postcondiciones** | Se mostrarán los datos enviados por los diferentes sensores. Además se podrá acotar la consulta de los datos mediante filtros de búsqueda |
-| **Flujo** | Después de acceder al entorno mediante clave de usuario se mostrarán los datos enviados por los diferentes sensores |
+| **Postcondiciones** | Se podrán crear nuevos paneles de monitorización y editar los ya existentes |
+| **Flujo** | Después de acceder al entorno mediante clave de usuario se accederá al entorno de configuración de los paneles de monitorización |
 | **Información adicional** | El entorno de visualización de datos traerá además una gestión de tuplas CRUD y la posibilidad de exportar e importar datos con el fin de integración con otras plataformas y la creación de copias de seguridad |
 
 
