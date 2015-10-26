@@ -15,7 +15,7 @@ Concretamos la toma de requisitos, funcionales y no funcionales, detallando los 
 En este capítulo se  explicará la metodología de trabajo aplicada, los patrones de diseño usados y detallaremos cada una de las iteraciones realizadas para desarrollar la solución propuesta.
 
 * **Capítulo 6.	Manual de usuario**:
-Se documentará de forma efectiva
+Documentamos como se debe usar tanto la aplicación móvil como la configuración del entorno web y el panel de monitorización remota.
 
 * **Capítulo 7.	Pruebas**:
 Detallamos las herramientas utilizadas para realizar las distintas pruebas ejecutadas en el proyecto y mostramos un ejemplo explicando las partes más destacadas.
