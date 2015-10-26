@@ -9,7 +9,7 @@ Análisis de la historia y evolución del proyecto a través de los años, las t
 Realizamos un estudio de las tecnologías y herramientas existentes, comparándolas para estudiar la posibilidad de usarlas en el desarrollo de nuestro proyecto
 
 * **Capítulo 4.	Especificación y análisis**:
-Concretamos la toma de requisitos, funcionales y no funcionales, detallando los casos de usos detectados. También analizamos la interfaz de usuario y la base de datos.
+Concretamos la toma de requisitos, funcionales y no funcionales, detallando los casos de usos detectados. También analizamos el modelo, los controladores y la interfaz de usuario.
 
 * **Capítulo 5.	Implementación y desarrollo**:
 En este capítulo se  explicará la metodología de trabajoaplicada detallará el diseño por capas, los módulos principales que componen el sistema y los patrones de diseño usados, incluyendo diagramas UML para facilitar su visualización, y explicando el modelo relacional de la base de datos. Otra parte importante será explicar la implementación de la aplicación móvil y web. Además se expondrán los problemas más importantes detectados al realizarla.
