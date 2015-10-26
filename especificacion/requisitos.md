@@ -10,7 +10,7 @@ Quedaría por identificar los diferentes actores que tienen que interacturar con
 Tras la fase de análisis quedan identificados tres tipos de actores que van a hacer uso de la solución
 
 - **Técnico**: Llevará la aplicación móvil instalada y acceso a los sensores. Se encargá de conectarse al sensor utilizado y monitorizar in situ los valores de temperatura.
-- Supervisor
+- **Supervisor**: Tendrá acceso al *dashboard* de monitorización remota de los sensores para controlar en el momento que este estime conveniente que la temperatura está entre los márgenes de uso correcto.
 - Administrador
 
 
