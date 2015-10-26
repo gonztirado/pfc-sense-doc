@@ -14,13 +14,13 @@ Concretamos la toma de requisitos, funcionales y no funcionales, detallando los 
 * **Capítulo 5.	Implementación y desarrollo**:
 En este capítulo se  explicará la metodología de trabajo aplicada, los patrones de diseño usados y detallaremos cada una de las iteraciones realizadas para desarrollar la solución propuesta.
 
-* **Capítulo 5.	Manual de usuario**:
-En este capítulo se  explicará la metodología de trabajo aplicada, los patrones de diseño usados y detallaremos cada una de las iteraciones realizadas para desarrollar la solución propuesta.
+* **Capítulo 6.	Manual de usuario**:
+Se documentará de forma efectiva
 
-* **Capítulo 6.	Pruebas**:
+* **Capítulo 7.	Pruebas**:
 Detallamos las herramientas utilizadas para realizar las distintas pruebas ejecutadas en el proyecto y mostramos un ejemplo explicando las partes más destacadas.
 
-* **Capítulo 7.	Conclusiones y mejoras futuras**:
+* **Capítulo 8.	Conclusiones y mejoras futuras**:
 En este último capítulo explicaremos las conclusiones y los resultados a los que hemos llegado tras desarrollar la aplicación web. También detallaremos futuros desarrollos que mejorarían la aplicación y su uso.
 
 
