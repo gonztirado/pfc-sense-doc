@@ -14,6 +14,11 @@ Tras la fase de análisis quedan identificados tres tipos de actores que van a h
 - **Administrador**: Se encarga de configurar el entorno de configuración remota, configuración de alertas y realizará las tareas de exportación de datos y backup cuando sea necesario.
 
 
+## Requisitos funcionales
+
+
+
+
 - Actores
     - Técnico
     - Supervisor
