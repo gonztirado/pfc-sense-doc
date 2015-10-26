@@ -41,6 +41,18 @@ A continuación veremos un listado detallado de los casos de uso:
 | **Flujo** | Después de acceder al entorno mediante clave de usuario se mostrarán los datos enviados por los diferentes sensores |
 | **Información adicional** | El entorno de visualización de datos traerá además una gestión de tuplas CRUD y la posibilidad de exportar e importar datos con el fin de integración con otras plataformas y la creación de copias de seguridad |
 
+## Consulta y exportación de datos históricos
+
+| Caso de uso | Consulta y exportación de datos históricos |
+| -- | -- |
+| **Descripción** | Debe proporcionarse un entorno web donde puedan consultarse la información de los valores de los diferentes servicios que proporciona el sensor. Esto datos podrán exportarse en un formato adecuado para poder integrados en otras plataformas |
+| **Actor** | Administrador |
+| **Precondiciones** | Para acceder al entorno de administración y consulta de datos será necesario autentificarse con un usuario previamente configurado |
+| **Postcondiciones** | Se mostrarán los datos enviados por los diferentes sensores. Además se podrá acotar la consulta de los datos mediante filtros de búsqueda |
+| **Flujo** | Después de acceder al entorno mediante clave de usuario se mostrarán los datos enviados por los diferentes sensores |
+| **Información adicional** | El entorno de visualización de datos traerá además una gestión de tuplas CRUD y la posibilidad de exportar e importar datos con el fin de integración con otras plataformas y la creación de copias de seguridad |
+
+
 ## Monitorización remota de los sensores
 
 | Caso de uso | Monitorización remota de los sensores |
