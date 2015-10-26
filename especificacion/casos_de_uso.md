@@ -11,8 +11,7 @@ A continuación veremos un listado detallado de los casos de uso:
 
 | Descripción | Al acceder a la aplicación debe mostrarse un listado con los sensores disponibles. Además debe proporcionarse la posibilidad de refrescar dicho listado |
 | -- | -- |
-| 0:2 | 1:2 |
-| -- | -- |
+| **Actores** | Técnico |
 | 0:3 | 1:3 |
 | 0:4 | 1:4 |
 | 0:5 | 1:5 |
