@@ -40,3 +40,14 @@ A continuación veremos un listado detallado de los casos de uso:
 | **Postcondiciones** | Se muestran los valores de lo servicios del sensor a los que se está conectado. Además de sus correspondientes gráficas con la evolución de los valores con respecto al tiempo transcurrido |
 | **Flujo** | El supervisor accede a la url de monitorización web proporcionada |
 | **Información adicional** | Las gráficas deben proporcionar los valores en tiempo real sin necesidad de refresco |
+
+## Monitorización remota de los sensores
+
+| Caso de uso | Monitorización remota de los sensores |
+| -- | -- |
+| **Descripción** | Debe proporcionarse un panel web donde aparezcan una serie de gráficas que muestren tanto los valores actuales de un sensor como la evolución de los valores |
+| **Actores** | Supervisor |
+| **Precondiciones** | El administrador debe haber configurado previamente el panel de muestreo de información de los diferentes sensores |
+| **Postcondiciones** | Se muestran los valores de lo servicios del sensor a los que se está conectado. Además de sus correspondientes gráficas con la evolución de los valores con respecto al tiempo transcurrido |
+| **Flujo** | El supervisor accede a la url de monitorización web proporcionada |
+| **Información adicional** | Las gráficas deben proporcionar los valores en tiempo real sin necesidad de refresco |
