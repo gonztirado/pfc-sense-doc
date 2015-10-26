@@ -32,7 +32,7 @@ A continuación veremos un listado detallado de los casos de uso:
 
 ## Monitorización de temperaturas in situ
 
-| Caso de uso | Monitorización de temperaturas in situ |
+| Caso de uso | Monitorización remota de los sensores |
 | -- | -- |
 | **Descripción** | Debe mostrarse la información de los servicios que devuelve el sensor al que se está conectado |
 | **Actores** | Técnico |
