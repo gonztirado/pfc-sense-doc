@@ -19,7 +19,7 @@ A continuación veremos un listado detallado de los casos de uso:
 | **Flujo Alternativo** | Si el usuario vuelve de la pantalla de monitorización debe mostrarse de nuevo el listado |
 | **Información adicional** | Se debe información descriptiva sobre el sensor para poder seleccionarlo convenientemente como puede ser su nombre, su dirección mac, una imagen identificativa, etc |
 
-## Consulta de listado de sensores
+## Monitorización de temperaturas in situ
 
 | Caso de uso | Consulta de listado de sensores |
 | -- | -- |
