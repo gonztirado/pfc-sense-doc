@@ -1,2 +1,0 @@
-# Diseño e implementación
-
