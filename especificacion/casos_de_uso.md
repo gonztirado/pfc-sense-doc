@@ -37,8 +37,8 @@ A continuación veremos un listado detallado de los casos de uso:
 | **Descripción** | Debe proporcionarse un entorno web donde puedan consultarse la información de los valores de los diferentes servicios que proporciona el sensor. Esto datos podrán exportarse en un formato adecuado para poder integrados en otras plataformas |
 | **Actor** | Administrador |
 | **Precondiciones** | Para acceder al entorno de administración y consulta de datos será necesario autentificarse con un usuario previamente configurado |
-| **Postcondiciones** | Se muestran los valores de lo servicios del sensor a los que se está conectado. Además de sus correspondientes gráficas con la evolución de los valores con respecto al tiempo transcurrido |
-| **Flujo** | El supervisor accede a la url de monitorización web proporcionada |
+| **Postcondiciones** | Se mostrarán los datos enviados por los diferentes sensores. Además se podrá acotar la consulta de los datos mediante filtros de busqueda |
+| **Flujo** | Se acce |
 | **Información adicional** | Las gráficas deben proporcionar los valores en tiempo real sin necesidad de refresco |
 
 ## Monitorización remota de los sensores
@@ -49,5 +49,5 @@ A continuación veremos un listado detallado de los casos de uso:
 | **Actor** | Supervisor |
 | **Precondiciones** | El administrador debe haber configurado previamente el panel de muestreo de información de los diferentes sensores |
 | **Postcondiciones** | Se muestran los valores de lo servicios del sensor a los que se está conectado. Además de sus correspondientes gráficas con la evolución de los valores con respecto al tiempo transcurrido |
-| **Flujo** | El supervisor accede a la url de monitorización web proporcionada |
+| **Flujo** | Acceso mediante una url de monitorización web previantente proporcionada |
 | **Información adicional** | Las gráficas deben proporcionar los valores en tiempo real sin necesidad de refresco |
