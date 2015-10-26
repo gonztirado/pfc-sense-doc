@@ -9,4 +9,4 @@ Por un lado tenemos el controlador que se encarga de manejar cuando hemos recibi
 
 
 ![Figura 2](./imagenes/diagrama_parse_ducksboard_controller.JPG)
-###### *Figura 2: Diagramas de clase de SensorData y sus clases hijas*
+###### *Figura 2: Diagramas de clase de los controladores que se encargan de la configuración de Parse y del envío de datos al panel de Ducksboard*
