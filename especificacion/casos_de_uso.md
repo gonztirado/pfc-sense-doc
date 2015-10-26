@@ -6,3 +6,4 @@ Con los requisitos y actores correctamente definidos, procederemos a identificar
 ###### *Figura 1: Casos de uso*
 
 A continuación veremos un listado detallado de los casos de uso:
+
