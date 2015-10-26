@@ -73,3 +73,5 @@ A continuación veremos un listado detallado de los casos de uso:
 | **Postcondiciones** | Se muestran los valores de lo servicios del sensor a los que se está conectado. Además de sus correspondientes gráficas con la evolución de los valores con respecto al tiempo transcurrido |
 | **Flujo** | Acceso mediante una url de monitorización web previamente proporcionada |
 | **Información adicional** | Las gráficas deben proporcionar los valores en tiempo real sin necesidad de refresco |
+
+###### *Tabla 5: Caso de uso: Monitorización remota de los sensores*
