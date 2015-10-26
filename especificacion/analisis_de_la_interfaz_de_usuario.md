@@ -6,16 +6,16 @@ Una vez realizados los diseños tanto del modelo como de los controladores, el s
 ## Diseño de la aplicación móvil
 
 ![Figura 1](./imagenes/mockup_app_movil.jpg)
-###### *Figura 1: Diagramas de clase del controlador de tratamiento de valores de los sensores*
+###### *Figura 1: Mockup la UI de la aplicación móvil*
 
 
 ## Diseño del entorno de administración web
 
-![Figura 1](./imagenes/mockup_acceso_datos_web.jpg)
-###### *Figura 1: Diagramas de clase del controlador de tratamiento de valores de los sensores*
+![Figura 2](./imagenes/mockup_acceso_datos_web.jpg)
+###### *Figura 2: Mockup la UI del entorno de administración web*
 
 
 ## Diseño del dashboard de monitorización
 
 ![Figura 1](./imagenes/mockup_monitorizacion_remota.jpg)
-###### *Figura 1: Diagramas de clase del controlador de tratamiento de valores de los sensores*
+###### *Figura 1: Mockup la UI de la aplicación móvil*
