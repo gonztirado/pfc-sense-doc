@@ -34,7 +34,7 @@ A continuación veremos un listado detallado de los casos de uso:
 
 | Caso de uso | Consulta y exportación de datos históricos |
 | -- | -- |
-| **Descripción** | Debe proporcionarse un entorno web donde puedan consultarse la información de los valores de los diferentes servicios que proporciona el sensor. Esto datos podrán exportarse en un formato adecuado para poder consultarlos en otras plataformas |
+| **Descripción** | Debe proporcionarse un entorno web donde puedan consultarse la información de los valores de los diferentes servicios que proporciona el sensor. Esto datos podrán exportarse en un formato adecuado para poder integrados en otras plataformas |
 | **Actor** | Administrador |
 | **Precondiciones** | El administrador debe haber configurado previamente el panel de muestreo de información de los diferentes sensores |
 | **Postcondiciones** | Se muestran los valores de lo servicios del sensor a los que se está conectado. Además de sus correspondientes gráficas con la evolución de los valores con respecto al tiempo transcurrido |
