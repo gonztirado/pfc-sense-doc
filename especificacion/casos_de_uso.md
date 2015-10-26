@@ -29,3 +29,14 @@ A continuación veremos un listado detallado de los casos de uso:
 | **Postcondiciones** | Se muestran los valores de lo servicios del sensor a los que se está conectado. Además de una gráfica con la evolución de los valores con respecto al tiempo transcurrido |
 | **Flujo** | El selecciona un sensor de la lista y arranca la conexión al mismo y la monitorización de los valores que devuelve |
 | **Información adicional** | Se debe información descriptiva sobre el servicio a los que se está conectado, su valor actual y una gráfica con el histórico de valores |
+
+## Monitorización de temperaturas in situ
+
+| Caso de uso | Monitorización de temperaturas in situ |
+| -- | -- |
+| **Descripción** | Debe mostrarse la información de los servicios que devuelve el sensor al que se está conectado |
+| **Actores** | Técnico |
+| **Precondiciones** | El usuario debe haber seleccionado un sensor de la lista de sensores disponibles |
+| **Postcondiciones** | Se muestran los valores de lo servicios del sensor a los que se está conectado. Además de una gráfica con la evolución de los valores con respecto al tiempo transcurrido |
+| **Flujo** | El selecciona un sensor de la lista y arranca la conexión al mismo y la monitorización de los valores que devuelve |
+| **Información adicional** | Se debe información descriptiva sobre el servicio a los que se está conectado, su valor actual y una gráfica con el histórico de valores |
