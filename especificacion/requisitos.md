@@ -31,5 +31,5 @@ Tras la fase de análisis quedan identificados tres tipos de actores que van a h
 - **Robustez**: La aplicación tiene que ser robusta ante posibles fallos. Los posibles fallos que pudieran ocurrir se trataran correctamente y se informará al usuario si se estimara oportuno.
 - **Rendimiento**: La aplicación tiene que ir fluida y funcionar correctamente aunque hubiera conexiones lentas a acceso a datos móviles.
 - **Integración**: La solución tiene que ser capaz de dotar de una capa de integración con servicios de terceros para ampliar las funcionalidades de la misma.
-- Persistencia
-- Documentación
+- **Persistencia**: La información de tratada en la aplicación debe ser persistida de modo que pueda recuperarse y analizarse a posteriori si fuera necesario.
+- **Documentación**: Se incluirá un manual de usuario comprensible por cualquier usuario básico y un manual de instalación de la aplicación.
