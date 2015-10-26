@@ -1,6 +1,6 @@
 # Casos de uso
 
-Mostrar diagramas de casos de uso de los requisitos anteriores
+Con los requisitos y actores correctamente definidos, procederemos a identificar los distintos casos de uso, que podremos ver de forma general en el siguiente diagrama.
 
 - **Consultar listado de sensores**: Los técnicos podrán consultar el listado de sensores disponibles desde la aplicación móvil y elegir a cual se quieren conectar.
 - **Monitorizar los valores de las temperaturas in situ**: Los técnicos tras conectarse a un sensor podrán monitorizar la temperatura de los mismos desde la aplicación móvil.
