@@ -14,4 +14,6 @@ A continuación veremos un listado detallado de los casos de uso:
 | **Actores** | Técnico |
 | **Precondiciones** | El usuario debe encontrarse en la pantalla de inicio de la aplicación |
 | **Postcondiciones** | Se muestra el listado de sensores disponibles |
+| **Flujo** | El usuario arranca la aplicación y se muestra el listado |
 | **Flujo Alternativo** | Si el usuario vuelve de la pantalla de monitorización debe mostrarse de nuevo el listado |
+| **Información adicional** | Si el usuario vuelve de la pantalla de monitorización debe mostrarse de nuevo el listado |
