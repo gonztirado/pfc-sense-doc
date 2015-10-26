@@ -5,4 +5,4 @@ Tras analizar los requerimientos que tenemos de la aplicación llegamos a la con
 Como los datos de sensores son de diferente tipo y queremos persistirlos en tablas separadas para su mejor análisis, diseñaremos una serie de objetos que heredaran de una clase común donde almacenaremos principalmente el valor que nos devuelve el sensor y la fecha en la que se tomó dicho valor.
 
 ![Figura 1](./imagenes/diagrama_clase_deviceinfo_sensorinfo.jpg)
-###### *Figura 1: Casos de uso*
+###### *Figura 1: Diagramas de clase de DeviceInfo y SensorInfo*
