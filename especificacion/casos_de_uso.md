@@ -49,5 +49,5 @@ A continuación veremos un listado detallado de los casos de uso:
 | **Actor** | Supervisor |
 | **Precondiciones** | El administrador debe haber configurado el panel de muestreo de información de los diferentes sensores |
 | **Postcondiciones** | Se muestran los valores de lo servicios del sensor a los que se está conectado. Además de sus correspondientes gráficas con la evolución de los valores con respecto al tiempo transcurrido |
-| **Flujo** | Acceso mediante una url de monitorización web previantente proporcionada |
+| **Flujo** | Acceso mediante una url de monitorización web previamente proporcionada |
 | **Información adicional** | Las gráficas deben proporcionar los valores en tiempo real sin necesidad de refresco |
