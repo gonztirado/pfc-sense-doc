@@ -29,7 +29,7 @@ Tras la fase de análisis quedan identificados tres tipos de actores que van a h
 - **Aspecto**: La interfaz de usuario debe tener un aspecto atractivo e intuitivo que facilite la labor a los usuarios.
 - **Mantenimiento**: El código ha de estar bien estructurado y seguir un patrón de sangrado y comentado, además de tener una buena documentación, que faciliten su futuro mantenimiento.
 - **Robustez**: La aplicación tiene que ser robusta ante posibles fallos. Los posibles fallos que pudieran ocurrir se trataran correctamente y se informará al usuario si se estimara oportuno.
-- **Rendimiento**: La aplicación tiene que 
+- **Rendimiento**: La aplicación tiene que ir fluida y funcionar correctamente aunque hubiera conexiones lentas a acceso a datos móviles.
 - Integración
 - Persistencia
 - Documentación
