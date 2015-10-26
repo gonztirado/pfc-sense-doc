@@ -13,7 +13,7 @@
     - Configuración de alarmas por valores críticos en las mismas
     - Exportación de datos y backup
 - Requisitos no funcionales
-    - Usuabilidad
+    - Usabilidad
     - Aspecto
     - Mantenimiento
     - Rendimiento
