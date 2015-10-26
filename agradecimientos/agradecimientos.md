@@ -8,7 +8,7 @@
 
 **A mis amigos**, por ser como sois, por aceptarme tal y como soy yo, por animarme cuando estaba mal para que no me rindiera y por distraerme cuando era necesario.
 
-**A mis compañeros de trabajo**, por permitidme aprender de ellos cada día, por apoyar las iniciativas que he propuesto y por llevarme la contraria cuando no tenía razón.
+**A mis compañeros de trabajo**, por permitirme aprender de ellos cada día, por apoyar las iniciativas que he propuesto y por llevarme la contraria cuando no tenía razón.
 
 ** A mis jefes**, por facilitarme el tiempo y los medios para que pudiera llevar a cabo la investigación de este proyecto.
 
