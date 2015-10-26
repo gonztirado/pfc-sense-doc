@@ -50,7 +50,6 @@ A continuación veremos un listado detallado de los casos de uso:
 | **Precondiciones** | Para acceder al entorno de administración y consulta de datos será necesario autentificarse con un usuario previamente configurado |
 | **Postcondiciones** | Se podrán crear nuevos paneles de monitorización y editar los ya existentes |
 | **Flujo** | Después de acceder al entorno mediante clave de usuario se accederá al entorno de configuración de los paneles de monitorización |
-| **Información adicional** | El entorno de visualización de datos traerá además una gestión de tuplas CRUD y la posibilidad de exportar e importar datos con el fin de integración con otras plataformas y la creación de copias de seguridad |
 
 
 ## Monitorización remota de los sensores
