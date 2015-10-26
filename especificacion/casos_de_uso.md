@@ -30,7 +30,7 @@ A continuación veremos un listado detallado de los casos de uso:
 | **Flujo** | El selecciona un sensor de la lista y arranca la conexión al mismo y la monitorización de los valores que devuelve |
 | **Información adicional** | Se debe información descriptiva sobre el servicio a los que se está conectado, su valor actual y una gráfica con el histórico de valores |
 
-## Monitorización de temperaturas in situ
+## Monitorización remota de los sensores
 
 | Caso de uso | Monitorización remota de los sensores |
 | -- | -- |
