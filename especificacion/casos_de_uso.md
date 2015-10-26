@@ -23,7 +23,7 @@ A continuación veremos un listado detallado de los casos de uso:
 
 | Caso de uso | Monitorización de temperaturas in situ |
 | -- | -- |
-| **Descripción** | Al acceder a la aplicación debe mostrarse un listado con los sensores disponibles. Además debe proporcionarse la posibilidad de refrescar dicho listado |
+| **Descripción** | Debe mostrarse la información de los servicios que devuelve el sensor al que se está conectado |
 | **Actores** | Técnico |
 | **Precondiciones** | El usuario debe encontrarse en la pantalla de inicio de la aplicación |
 | **Postcondiciones** | Se muestra el listado de sensores disponibles |
