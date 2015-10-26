@@ -28,7 +28,6 @@
    * [Iteraciones](implementacion/iteraciones.md)
 * [Manual de usuario](manual/manual_de_usuario.md)
 * [Pruebas](pruebas/pruebas.md)
-   * Manual de usuario
 * [Conclusiones y mejoras futuras](conclusiones/conclusiones_y_mejoras_futuras.md)
 * [Agradecimientos](agradecimientos/agradecimientos.md)
 * [Bibliografía](bibliografia/bibliografia.md)
