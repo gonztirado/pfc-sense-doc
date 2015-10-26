@@ -25,7 +25,7 @@ A continuación veremos un listado detallado de los casos de uso:
 | -- | -- |
 | **Descripción** | Debe mostrarse la información de los servicios que devuelve el sensor al que se está conectado |
 | **Actores** | Técnico |
-| **Precondiciones** | El usuario debe encontrarse en la pantalla de inicio de la aplicación |
+| **Precondiciones** | El usuario debe haber seleccionado un sensor de la lista de sensores disponibles |
 | **Postcondiciones** | Se muestra el listado de sensores disponibles |
 | **Flujo** | El usuario arranca la aplicación y se muestra el listado |
 | **Flujo Alternativo** | Si el usuario vuelve de la pantalla de monitorización debe mostrarse de nuevo el listado |
