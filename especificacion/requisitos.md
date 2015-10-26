@@ -18,11 +18,6 @@ Tras la fase de análisis quedan identificados tres tipos de actores que van a h
 
 
 
-
-- Actores
-    - Técnico
-    - Supervisor
-    - Administrador
 - Requisitos funcionales
     - Consultar listado de sensores disponibles
     - Conectar con un sensor y monitorizar en aplicación valores de las temperaturas.
