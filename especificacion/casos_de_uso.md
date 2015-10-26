@@ -9,8 +9,9 @@ A continuación veremos un listado detallado de los casos de uso:
 
 ## Consulta de listado de sensores
 
-| Descripción | Al acceder a la aplicación debe mostrarse un listado con los sensores disponibles. Además debe proporcionarse la posibilidad de refrescar dicho listado |
+| Caso de uso | Consulta de listado de sensores |
 | -- | -- |
+| Descripción | Al acceder a la aplicación debe mostrarse un listado con los sensores disponibles. Además debe proporcionarse la posibilidad de refrescar dicho listado |
 | **Actores** | Técnico |
 | **Precondiciones** | El usuario debe encontrarse en la pantalla de inicio de la aplicación |
 | **Postcondiciones** | Se muestra el listado de sensores disponibles |
