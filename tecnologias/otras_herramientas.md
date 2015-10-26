@@ -39,6 +39,8 @@ Gitbook es una plataforma web para la creación y distribución de libros electr
 Diagramas de casos de uso
 
 
+## Visual Paradigm
+Generación de diagramas UML de clases
 
 
 
