@@ -21,7 +21,7 @@ A continuación veremos un listado detallado de los casos de uso:
 
 ## Monitorización de temperaturas in situ
 
-| Caso de uso | Consulta de listado de sensores |
+| Caso de uso | Monitorización de temperaturas in situ |
 | -- | -- |
 | **Descripción** | Al acceder a la aplicación debe mostrarse un listado con los sensores disponibles. Además debe proporcionarse la posibilidad de refrescar dicho listado |
 | **Actores** | Técnico |
