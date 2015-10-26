@@ -14,6 +14,9 @@ Concretamos la toma de requisitos, funcionales y no funcionales, detallando los 
 * **Capítulo 5.	Implementación y desarrollo**:
 En este capítulo se  explicará la metodología de trabajo aplicada, los patrones de diseño usados y detallaremos cada una de las iteraciones realizadas para desarrollar la solución propuesta.
 
+* **Capítulo 5.	Manual de usuario**:
+En este capítulo se  explicará la metodología de trabajo aplicada, los patrones de diseño usados y detallaremos cada una de las iteraciones realizadas para desarrollar la solución propuesta.
+
 * **Capítulo 6.	Pruebas**:
 Detallamos las herramientas utilizadas para realizar las distintas pruebas ejecutadas en el proyecto y mostramos un ejemplo explicando las partes más destacadas.
 
