@@ -4,3 +4,5 @@ Con los requisitos y actores correctamente definidos, procederemos a identificar
 
 ![Figura 1](./imagenes/casos_de_uso.jpg)
 ###### *Figura 1: Casos de uso*
+
+A continuación veremos un listado detallado de los casos de uso:
