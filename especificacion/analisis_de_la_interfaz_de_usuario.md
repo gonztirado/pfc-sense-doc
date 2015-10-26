@@ -5,11 +5,17 @@ Una vez realizados los diseños tanto del modelo como de los controladores, el s
 
 ## Diseño de la aplicación móvil
 
+![Figura 1](./imagenes/diagrama_sensordata_controller.JPG)
+###### *Figura 1: Diagramas de clase del controlador de tratamiento de valores de los sensores*
 
 
 ## Diseño del entorno de administración web
 
-
+![Figura 1](./imagenes/diagrama_sensordata_controller.JPG)
+###### *Figura 1: Diagramas de clase del controlador de tratamiento de valores de los sensores*
 
 
 ## Diseño del dashboard de monitorización
+
+![Figura 1](./imagenes/diagrama_sensordata_controller.JPG)
+###### *Figura 1: Diagramas de clase del controlador de tratamiento de valores de los sensores*
