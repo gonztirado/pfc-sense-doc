@@ -22,7 +22,7 @@
    * [Análisis del modelo de datos](especificacion/analisis_del_modelo_de_datos.md)
    * [Análisis de la interfaz de usuario](especificacion/analisis_de_la_interfaz_de_usuario.md)
    * [Análisis de los controladores](especificacion/analisis_de_los_controladores.md)
-* [Diseño e implementación](diseno/diseno_e_implementacion.md)
+* [Implementación y desarrollo](implementacion/implementacion_y_desarrollo.md)
 * [Pruebas](pruebas/pruebas.md)
 * [Conclusiones y mejoras futuras](conclusiones/conclusiones_y_mejoras_futuras.md)
 * [Agradecimientos](agradecimientos/agradecimientos.md)
