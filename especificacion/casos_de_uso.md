@@ -28,5 +28,4 @@ A continuación veremos un listado detallado de los casos de uso:
 | **Precondiciones** | El usuario debe haber seleccionado un sensor de la lista de sensores disponibles |
 | **Postcondiciones** | Se muestran los valores de lo servicios del sensor a los que se está conectado. Además de una gráfica con la evolución de los valores con respecto al tiempo transcurrido |
 | **Flujo** | El selecciona un sensor de la lista y arranca la conexión al mismo y la monitorización de los valores que devuelve |
-| **Flujo Alternativo** | Si el usuario vuelve de la pantalla de monitorización debe mostrarse de nuevo el listado |
 | **Información adicional** | Se debe información descriptiva sobre el sensor para poder seleccionarlo convenientemente como puede ser su nombre, su dirección mac, una imagen identificativa, etc |
