@@ -24,7 +24,7 @@
    * [Análisis de los controladores](especificacion/analisis_de_los_controladores.md)
 * [Implementación y desarrollo](implementacion/implementacion_y_desarrollo.md)
    * [Metodología de desarrollo](implementacion/metodologia_de_desarrollo.md)
-   * Patrones de diseño
+   * [Patrones de diseño](implementacion/patrones_de_diseno.md)
 * [Pruebas](pruebas/pruebas.md)
 * [Conclusiones y mejoras futuras](conclusiones/conclusiones_y_mejoras_futuras.md)
 * [Agradecimientos](agradecimientos/agradecimientos.md)
