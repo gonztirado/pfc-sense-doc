@@ -7,4 +7,4 @@ Con los requisitos y actores correctamente definidos, procederemos a identificar
 
 A continuación veremos un listado detallado de los casos de uso:
 
-# Casos de uso
+## Consulta de listado de sensores
