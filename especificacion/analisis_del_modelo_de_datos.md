@@ -6,3 +6,8 @@ Como los datos de sensores son de diferente tipo y queremos persistirlos en tabl
 
 ![Figura 1](./imagenes/diagrama_clase_deviceinfo_sensorinfo.jpg)
 ###### *Figura 1: Diagramas de clase de DeviceInfo y SensorInfo*
+
+
+
+![Figura 1](./imagenes/diagrama_clase_sensordata.jpg)
+###### *Figura 1: Diagramas de clase de DeviceInfo y SensorInfo*
