@@ -27,7 +27,7 @@ Tras la fase de análisis quedan identificados tres tipos de actores que van a h
 ## Requisitos no funcionales
 - **Usabilidad**: La aplicación ha de ser intuitiva para los usuarios, eliminando pasos innecesarios y minimizando las acciones necesarias para realizar las distintas operaciones.
 - **Aspecto**: La interfaz de usuario debe tener un aspecto atractivo e intuitivo que facilite la labor a los usuarios.
-- Mantenimiento
+- **Mantenimiento**: El código ha de estar bien estructurado y seguir un patrón de sangrado y comentado, además de tener una buena documentación, que faciliten su futuro mantenimiento.
 - Rendimiento
 - Integración
 - Persistencia
