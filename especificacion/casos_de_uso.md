@@ -37,7 +37,7 @@ A continuación veremos un listado detallado de los casos de uso:
 | **Descripción** | Debe proporcionarse un entorno web donde puedan consultarse la información de los valores de los diferentes servicios que proporciona el sensor. Esto datos podrán exportarse en un formato adecuado para poder integrados en otras plataformas |
 | **Actor** | Administrador |
 | **Precondiciones** | Para acceder al entorno de administración y consulta de datos será necesario autentificarse con un usuario previamente configurado |
-| **Postcondiciones** | Se mostrarán los datos enviados por los diferentes sensores. Además se podrá acotar la consulta de los datos mediante filtros de busqueda |
+| **Postcondiciones** | Se mostrarán los datos enviados por los diferentes sensores. Además se podrá acotar la consulta de los datos mediante filtros de búsqueda |
 | **Flujo** | Se acce |
 | **Información adicional** | Las gráficas deben proporcionar los valores en tiempo real sin necesidad de refresco |
 
