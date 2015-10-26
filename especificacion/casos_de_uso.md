@@ -16,4 +16,4 @@ A continuación veremos un listado detallado de los casos de uso:
 | **Postcondiciones** | Se muestra el listado de sensores disponibles |
 | **Flujo** | El usuario arranca la aplicación y se muestra el listado |
 | **Flujo Alternativo** | Si el usuario vuelve de la pantalla de monitorización debe mostrarse de nuevo el listado |
-| **Información adicional** | Si el usuario vuelve de la pantalla de monitorización debe mostrarse de nuevo el listado |
+| **Información adicional** | Se debe información descriptiva sobre el sensor para poder seleccionarlo convenientemente como puede ser su nombre, su dirección mac, una imagen identificativa, etc |
