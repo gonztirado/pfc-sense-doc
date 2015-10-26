@@ -16,8 +16,8 @@ Tras la fase de análisis quedan identificados tres tipos de actores que van a h
 
 ## Requisitos funcionales
 
-- **Consultar listado de sensores**: Los técnicos podrán consultar el listado de sensores disponibles y elegir a cual se quieren conectar.
-- Conectar con un sensor y monitorizar en aplicación valores de las temperaturas.
+- **Consultar listado de sensores**: Los técnicos podrán consultar el listado de sensores disponibles desde la aplicación móvil y elegir a cual se quieren conectar.
+- Monitorizar en aplicación los valores de las temperaturas.
 - Configurar sensores: intervalos de refresco, calibración, etc
 - Monitorización remota de datos de los sensores
 - Configuración de refresco de las gráficas de monitorización
