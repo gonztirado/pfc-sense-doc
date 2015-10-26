@@ -38,7 +38,7 @@ A continuación veremos un listado detallado de los casos de uso:
 | **Actor** | Administrador |
 | **Precondiciones** | Para acceder al entorno de administración y consulta de datos será necesario autentificarse con un usuario previamente configurado |
 | **Postcondiciones** | Se mostrarán los datos enviados por los diferentes sensores. Además se podrá acotar la consulta de los datos mediante filtros de búsqueda |
-| **Flujo** | Se acce |
+| **Flujo** | Después de acceder al entorno mediante clave de usuario se mostrarán los datos enviados por los diferentes sensores |
 | **Información adicional** | Las gráficas deben proporcionar los valores en tiempo real sin necesidad de refresco |
 
 ## Monitorización remota de los sensores
