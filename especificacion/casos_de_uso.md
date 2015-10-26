@@ -43,7 +43,7 @@ A continuación veremos un listado detallado de los casos de uso:
 
 ## Configuración de dashboard de monitorización
 
-| Caso de uso | Consulta y exportación de datos históricos |
+| Caso de uso | Configuración de dashboard de monitorización |
 | -- | -- |
 | **Descripción** | Debe proporcionarse un entorno web donde puedan consultarse la información de los valores de los diferentes servicios que proporciona el sensor. Esto datos podrán exportarse en un formato adecuado para poder integrados en otras plataformas |
 | **Actor** | Administrador |
