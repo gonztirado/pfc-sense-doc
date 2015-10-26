@@ -5,3 +5,11 @@ Una vez realizados los diseños tanto del modelo como de los controladores, el s
 
 ## Diseño de la aplicación móvil
 
+
+
+## Diseño del entorno de administración web
+
+
+
+
+## Diseño del dashboard de monitorización
