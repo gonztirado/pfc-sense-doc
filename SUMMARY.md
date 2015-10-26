@@ -26,6 +26,7 @@
    * [Metodología de desarrollo](implementacion/metodologia_de_desarrollo.md)
    * [Patrones de diseño](implementacion/patrones_de_diseno.md)
    * [Iteraciones](implementacion/iteraciones.md)
+* Manual de usuario
 * [Pruebas](pruebas/pruebas.md)
    * Manual de usuario
 * [Conclusiones y mejoras futuras](conclusiones/conclusiones_y_mejoras_futuras.md)
