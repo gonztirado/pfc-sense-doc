@@ -12,6 +12,6 @@ A continuación veremos un listado detallado de los casos de uso:
 | Descripción | Al acceder a la aplicación debe mostrarse un listado con los sensores disponibles. Además debe proporcionarse la posibilidad de refrescar dicho listado |
 | -- | -- |
 | **Actores** | Técnico |
-| Precondiciones | El usuario debe encontrarse en la pantalla de inicio de la aplicación |
-| 0:4 | 1:4 |
-| 0:5 | 1:5 |
+| **Precondiciones** | El usuario debe encontrarse en la pantalla de inicio de la aplicación |
+| **Postcondiciones** | Se muestra el listado de sensores disponibles |
+| **Flujo Alternativo** | Se muestra el listado de sensores disponibles |
