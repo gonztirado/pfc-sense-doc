@@ -6,7 +6,7 @@ Después de esta pequeña introducción al proyecto haremos una breve descripci�
 Análisis de la historia y evolución del proyecto a través de los años, las tecnologías y las investigaciones llevadas a cabo.
 
 * **Capítulo 3.	Tecnologías y herramientas**:
-Realizamos un estudio de las tecnologías y herramientas existentes, comparándolas para estudiar la posibilidad de usarlas en el desarrollo de nuestro proyecto
+Realizamos un estudio de las tecnologías y herramientas existentes, comparándolas para determinar cuales de ellas vamos a usar en el desarrollo del proyecto.
 
 * **Capítulo 4.	Especificación y análisis**:
 Concretamos la toma de requisitos, funcionales y no funcionales, detallando los casos de usos detectados. También analizamos el modelo, los controladores y la interfaz de usuario.
