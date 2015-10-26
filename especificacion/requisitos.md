@@ -6,8 +6,7 @@
     - Administrador
 - Requisitos funcionales
     - Consultar listado de sensores disponibles
-    - Conectar con un sensor
-    - Monitorizar en aplicación valores de los sensores
+    - Conectar con un sensor y monitorizar en aplicación valores de las temperaturas.
     - Configurar sensores: intervalos de refresco y habilitar/deshabiltar
     - Monitorizar remota de datos de los sensores
     - Configuración de alarmas por valores críticos en las mismas
