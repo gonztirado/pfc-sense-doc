@@ -34,9 +34,9 @@ A continuación veremos un listado detallado de los casos de uso:
 
 | Caso de uso | Monitorización remota de los sensores |
 | -- | -- |
-| **Descripción** | Debe proporcionarse un panel web donde aparezcan una serie de gráficas que muestren tanto los valores actuales de un sensor como la evolución de los valores. Además estás gráficas deben proporcionar los valores en tiempo real sin necesidad de refresco. |
+| **Descripción** | Debe proporcionarse un panel web donde aparezcan una serie de gráficas que muestren tanto los valores actuales de un sensor como la evolución de los valores. Además |
 | **Actores** | Supervisor |
 | **Precondiciones** | El usuario debe haber seleccionado un sensor de la lista de sensores disponibles |
 | **Postcondiciones** | Se muestran los valores de lo servicios del sensor a los que se está conectado. Además de una gráfica con la evolución de los valores con respecto al tiempo transcurrido |
 | **Flujo** | El selecciona un sensor de la lista y arranca la conexión al mismo y la monitorización de los valores que devuelve |
-| **Información adicional** | Se debe información descriptiva sobre el servicio a los que se está conectado, su valor actual y una gráfica con el histórico de valores |
+| **Información adicional** | Las gráficas deben proporcionar los valores en tiempo real sin necesidad de refresco |
