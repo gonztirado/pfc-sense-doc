@@ -41,7 +41,7 @@ A continuación veremos un listado detallado de los casos de uso:
 | **Flujo** | Después de acceder al entorno mediante clave de usuario se mostrarán los datos enviados por los diferentes sensores |
 | **Información adicional** | El entorno de visualización de datos traerá además una gestión de tuplas CRUD y la posibilidad de exportar e importar datos con el fin de integración con otras plataformas y la creación de copias de seguridad |
 
-## Consulta y exportación de datos históricos
+## Configuración de dashboard de monitorización
 
 | Caso de uso | Consulta y exportación de datos históricos |
 | -- | -- |
