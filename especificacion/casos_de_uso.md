@@ -34,8 +34,8 @@ A continuación veremos un listado detallado de los casos de uso:
 
 | Caso de uso | Monitorización remota de los sensores |
 | -- | -- |
-| **Descripción** | Debe mostrarse la información de los servicios que devuelve el sensor al que se está conectado |
-| **Actores** | Técnico |
+| **Descripción** | Debe proporcionarse un panel web donde se muestren una serie de gráficas que muestren tanto los valores actuales de un sensor como la evolución de los valores |
+| **Actores** | Supervisor |
 | **Precondiciones** | El usuario debe haber seleccionado un sensor de la lista de sensores disponibles |
 | **Postcondiciones** | Se muestran los valores de lo servicios del sensor a los que se está conectado. Además de una gráfica con la evolución de los valores con respecto al tiempo transcurrido |
 | **Flujo** | El selecciona un sensor de la lista y arranca la conexión al mismo y la monitorización de los valores que devuelve |
