@@ -12,7 +12,7 @@ A continuación veremos un listado detallado de los casos de uso:
 | Caso de uso | Consulta de listado de sensores |
 | -- | -- |
 | **Descripción** | Al acceder a la aplicación debe mostrarse un listado con los sensores disponibles. Además debe proporcionarse la posibilidad de refrescar dicho listado |
-| **Actores** | Técnico |
+| **Actor** | Técnico |
 | **Precondiciones** | El usuario debe encontrarse en la pantalla de inicio de la aplicación |
 | **Postcondiciones** | Se muestra el listado de sensores disponibles |
 | **Flujo** | El usuario arranca la aplicación y se muestra el listado |
@@ -24,7 +24,7 @@ A continuación veremos un listado detallado de los casos de uso:
 | Caso de uso | Monitorización de temperaturas in situ |
 | -- | -- |
 | **Descripción** | Debe mostrarse la información de los servicios que devuelve el sensor al que se está conectado |
-| **Actores** | Técnico |
+| **Actor** | Técnico |
 | **Precondiciones** | El usuario debe haber seleccionado un sensor de la lista de sensores disponibles |
 | **Postcondiciones** | Se muestran los valores de lo servicios del sensor a los que se está conectado. Además de una gráfica con la evolución de los valores con respecto al tiempo transcurrido |
 | **Flujo** | El selecciona un sensor de la lista y arranca la conexión al mismo y la monitorización de los valores que devuelve |
@@ -34,7 +34,7 @@ A continuación veremos un listado detallado de los casos de uso:
 
 | Caso de uso | Consulta y exportación de datos históricos |
 | -- | -- |
-| **Descripción** | Debe proporcionarse un entorno web donde puedan consultarse la información de los valores de los diferentes servicios que proporciona el sensor |
+| **Descripción** | Debe proporcionarse un entorno web donde puedan consultarse la información de los valores de los diferentes servicios que proporciona el sensor. Esto datos podrán exportarse en un formato adecuado para poder consultarlos en otras plataformas |
 | **Actor** | Administrador |
 | **Precondiciones** | El administrador debe haber configurado previamente el panel de muestreo de información de los diferentes sensores |
 | **Postcondiciones** | Se muestran los valores de lo servicios del sensor a los que se está conectado. Además de sus correspondientes gráficas con la evolución de los valores con respecto al tiempo transcurrido |
@@ -46,7 +46,7 @@ A continuación veremos un listado detallado de los casos de uso:
 | Caso de uso | Monitorización remota de los sensores |
 | -- | -- |
 | **Descripción** | Debe proporcionarse un panel web donde aparezcan una serie de gráficas que muestren tanto los valores actuales de un sensor como la evolución de los valores |
-| **Actores** | Supervisor |
+| **Actor** | Supervisor |
 | **Precondiciones** | El administrador debe haber configurado previamente el panel de muestreo de información de los diferentes sensores |
 | **Postcondiciones** | Se muestran los valores de lo servicios del sensor a los que se está conectado. Además de sus correspondientes gráficas con la evolución de los valores con respecto al tiempo transcurrido |
 | **Flujo** | El supervisor accede a la url de monitorización web proporcionada |
