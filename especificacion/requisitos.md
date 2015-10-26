@@ -25,10 +25,10 @@ Tras la fase de análisis quedan identificados tres tipos de actores que van a h
     
 
 ## Requisitos no funcionales
-    - **Usabilidad**: La aplicación ha de ser intuitiva para los usuarios, eliminando pasos innecesarios y minimizando las acciones necesarias para realizar las distintas operaciones.
-    - Aspecto
-    - Mantenimiento
-    - Rendimiento
-    - Integración
-    - Persistencia
-    - Documentación
+- **Usabilidad**: La aplicación ha de ser intuitiva para los usuarios, eliminando pasos innecesarios y minimizando las acciones necesarias para realizar las distintas operaciones.
+- Aspecto
+- Mantenimiento
+- Rendimiento
+- Integración
+- Persistencia
+- Documentación
