@@ -16,13 +16,13 @@ Tras la fase de análisis quedan identificados tres tipos de actores que van a h
 
 ## Requisitos funcionales
 
- - Consultar listado de sensores disponibles
- - Conectar con un sensor y monitorizar en aplicación valores de las temperaturas.
- - Configurar sensores: intervalos de refresco, calibración, etc
- - Monitorización remota de datos de los sensores
- - Configuración de refresco de las gráficas de monitorización
- - Configuración de alarmas por valores críticos en las mismas
- - Exportación de datos y backup
+- Consultar listado de sensores disponibles
+- Conectar con un sensor y monitorizar en aplicación valores de las temperaturas.
+- Configurar sensores: intervalos de refresco, calibración, etc
+- Monitorización remota de datos de los sensores
+- Configuración de refresco de las gráficas de monitorización
+- Configuración de alarmas por valores críticos en las mismas
+- Exportación de datos y backup
     
 - Requisitos no funcionales
     - Usabilidad
