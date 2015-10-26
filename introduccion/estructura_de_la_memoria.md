@@ -12,7 +12,7 @@ Realizamos un estudio de las tecnologías y herramientas existentes, comparándo
 Concretamos la toma de requisitos, funcionales y no funcionales, detallando los casos de usos detectados. También analizamos el modelo, los controladores y la interfaz de usuario.
 
 * **Capítulo 5.	Implementación y desarrollo**:
-En este capítulo se  explicará la metodología de trabajoaplicada detallará el diseño por capas, los módulos principales que componen el sistema y los patrones de diseño usados, incluyendo diagramas UML para facilitar su visualización, y explicando el modelo relacional de la base de datos. Otra parte importante será explicar la implementación de la aplicación móvil y web. Además se expondrán los problemas más importantes detectados al realizarla.
+En este capítulo se  explicará la metodología de trabajo aplicada, los patrones de diseño usados y detallaremos cada una de las iteraciones realizadas para desarrollar la solución propuesta.
 
 * **Capítulo 6.	Pruebas**:
 Detallamos las herramientas utilizadas para realizar las distintas pruebas ejecutadas en el proyecto y mostramos un ejemplo explicando las partes más destacadas.
