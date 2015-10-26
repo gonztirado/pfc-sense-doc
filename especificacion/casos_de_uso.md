@@ -32,7 +32,7 @@ A continuación veremos un listado detallado de los casos de uso:
 
 ## Consulta y exportación de datos históricos
 
-| Caso de uso | Monitorización remota de los sensores |
+| Caso de uso | Consulta y exportación de datos históricos |
 | -- | -- |
 | **Descripción** | Debe proporcionarse un panel web donde aparezcan una serie de gráficas que muestren tanto los valores actuales de un sensor como la evolución de los valores |
 | **Actores** | Supervisor |
