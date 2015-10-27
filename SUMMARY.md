@@ -29,7 +29,7 @@
    * [Iteración 3: Configurar sensores](implementacion/iteracion_3.md)
    * [Iteración 4: Monitorización remota de los valores de los sensores](implementacion/iteracion_4.md)
    * [Iteración 5: Configuración de dashboard de monitorización](implementacion/iteracion_5.md)
-   * Iteración 6: Consulta y exportación de datos históricos
+   * [Iteración 6: Consulta y exportación de datos históricos](implementacion/iteracion_6.md)
 * [Manual de usuario](manual/manual_de_usuario.md)
 * [Pruebas](pruebas/pruebas.md)
 * [Conclusiones y mejoras futuras](conclusiones/conclusiones_y_mejoras_futuras.md)
