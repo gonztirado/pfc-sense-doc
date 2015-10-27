@@ -61,10 +61,12 @@ Todas las metodologías ágiles están basadas en el trabajo en equipo y no de f
 
 Para la realización del proyecto tomaremos prestada un poco de cada técnica ágil, y aprovecharemos que ya tenemos definidos los requisitos del proyecto para tomarlos como tareas a realizar de forma autónoma en cada iteración. Después se realizarán las pruebas necesarias para validar que se cumple la funcionalidad buscada. Resumiendo, las consideraciones que tomaremos en el proyecto son:
 
-- Desarrollo iterativo con un entregable para cada requerimiento.
+- Desarrollo iterativo con una único requerimiento en cada iteración.
+- División de los requerimientos en subtareas de menor tamaño
 - Pruebas y validación de cada funcionalidad añadida.
 - Corrección de errores antes de continuar con la siguiente iteración.
 - Refactorización del código antes de concluir la iteración.
+
 
 
 
