@@ -74,8 +74,9 @@ No se va a incluir tiempo limite del sprint ni estimaciones en las tareas dado e
 | Iteración | Versión | Requerimiento |   
 | --------- | ------- | ------------- |
 | 1         | 0.1.0   | Consultar listado de sensores|
-| 2         | 0.2.0   | Consultar listado de sensores| 
-| 3         | 0.3.0   | Consultar listado de sensores| 
-| 4         | 0.4.0   | Consultar listado de sensores| 
-| 5         | 0.5.0   | Consultar listado de sensores| 
-| 6         | 0.6.0   | Consultar listado de sensores| 
+| 2         | 0.2.0   | Monitorizar los valores de las temperaturaslos in situ| 
+| 3         | 0.3.0   | Configurar sensores| 
+| 4         | 0.4.0   | Monitorización remota de los valores de los sensores| 
+| 5         | 0.5.0   | Configuración de dashboard de monitorización| 
+| 6         | 0.6.0   | Consulta y exportación de datos históricos|
+| 7         | 1.0.0   | Consultar listado de sensores| 
