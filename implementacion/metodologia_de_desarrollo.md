@@ -27,7 +27,7 @@ Las metodologías de trabajo ágiles vienen a paliar algunas de las deficiencias
 
 - Divide la organización en equipos pequeños, interdisciplinarios y auto-organizados.
 - Divide el trabajo en una lista de entregables pequeños y concretos y la ordena la lista por orden de prioridad estimando el esfuerzo relativo de cada elemento.
-- Divide el tiempo en iteraciones cortas de longitud fija (generalmente de 1 a 4 semanas), con código potencialmente entregable y demostrado después de cada iteración.
+- Divide el tiempo en iteraciones cortas de longitud fija (generalmente de 1 a 4 semanas), con código potencialmente entregable y validado después de cada iteración.
 - Optimiza el plan de entregas y actualiza las prioridades en colaboración con el cliente, basada en los conocimientos adquiridos mediante la inspección del entregable después de cada iteración.
 
 
