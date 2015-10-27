@@ -22,6 +22,7 @@ Las metodologías de trabajo ágiles vienen a paliar algunas de las deficiencias
 ![Figura 1](./imagenes/esquema_desarrollo_agil.jpg)
 ###### *Figura 2: Esquema típico de desarrollo ágil*
 
+Algunas de las metodogías ágiles más extendidas son:
 
 ### Scrum
 
@@ -34,7 +35,7 @@ Scrum es una metodología ágil, basada en desarrollo incremental. Se trata de u
 
 
 ### Kanban
-Kanban es un método para gestionar el trabajo intelectual, con énfasis en la entrega justo a tiempo, mientras no se sobrecargan a los miembros del equipo. En este enfoque, el proceso, desde la definición de una tarea hasta su entrega al cliente, se muestra para que los participantes lo vean y los miembros del equipo tomen el trabajo de una cola.
+Kanban es un método para gestionar el trabajo intelectual, con énfasis en la entrega justo a tiempo, mientras no se sobrecargan a los miembros del equipo. En este enfoque, el proceso, desde la definición de una tarea hasta su entrega al cliente, se muestra para que los participantes lo vean y los miembros del equipo tomen el trabajo de una cola. Sus caracteristicas 
 
 - Se visualiza el plan de trabajo, diviendo el trabajo en bloques, generalmente de la misma complejidad.
 - Limita el trabajo en curso asignando límites concretos a cuantos elementos deben estar en cada flujo de trabajo.
