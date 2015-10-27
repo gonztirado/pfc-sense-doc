@@ -56,3 +56,9 @@ La programación extrema se diferencia de las metodologías tradicionales princi
 
 
 
+## Metodología de trabajo elegida
+
+
+
+
+
