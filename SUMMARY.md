@@ -24,7 +24,6 @@
    * [Análisis de la interfaz de usuario](especificacion/analisis_de_la_interfaz_de_usuario.md)
 * [Implementación y desarrollo](implementacion/implementacion_y_desarrollo.md)
    * [Metodología de desarrollo](implementacion/metodologia_de_desarrollo.md)
-   * [Patrones de diseño](implementacion/patrones_de_diseno.md)
    * [Iteraciones](implementacion/iteraciones.md)
 * [Manual de usuario](manual/manual_de_usuario.md)
 * [Pruebas](pruebas/pruebas.md)
