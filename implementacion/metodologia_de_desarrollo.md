@@ -37,4 +37,8 @@ Las metodologías de trabajo ágiles vienen a paliar algunas de las deficiencias
 - Mide el tiempo medio en completar un elemento y se optimiza el proceso para que este tiempo sea lo más pequeño y predecible posible.
 
 
+### Extreme programming (XP)
+
+
+
 
