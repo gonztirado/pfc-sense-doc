@@ -12,9 +12,6 @@ Este tipo de modelo tiene algunas características deseables en cualquier desarr
 Sin embargo, en la vida real, un proyecto rara vez sigue una secuencia lineal, esto crea una mala implementación del modelo, lo cual hace que lo lleve al fracaso. Cualquier error de diseño detectado en la etapa de prueba conduce necesariamente al rediseño y nueva programación del código afectado, aumentando los costos del desarrollo. Además, una etapa determinada del proyecto no se puede llevar a cabo a menos de que se haya culminado la etapa anterior, lo cual hace que se tarde mucho en recibir *feedback* del proyecto y cuando llega a veces es muy costoso realizar cambios en el mismo.
 
 
-Aun habiendo ya definidos ya los requisitos y el diseño iniciales para la aplicación propios de la forma tradicional de desarrollar software o también llamada desarrollo en cascada, donde cada una de estas partes se toman un tiempo considerable para analizar profundamente el plan de desarrollo y que este sea inamovible, **se va a optar por realizar un plan de desarrollo ágil**, donde todo lo considerado se revisará y modificará si se estimara oportuno. 
-
-
 ## Desarrollo ágil
 
 Las metodologías de trabajo ágiles vienen a paliar algunas de las deficiencias que tiene el desarrollo tradicional en cascada pero manteniendo el espiritu y las buenas prácticas de la anterior metodología. Principalmente se basa en repetir de forma iterativa las diferentes fases que conforman el desarrollo en cascada en iteraciones de pequeño tamaño con el fin de que si hay algún fallo de diseño, algún error en la toma de especificiones o incluso el cambio de las mismas no resulte un varapalo para el proyecto. Además, en las metodologías ágiles al final de cada iteración se genera un producto que se entrega y se revisa por aquellos que van a utilizarlo, recibiendo feedback y encontrando errores de forma más temprana.
@@ -58,7 +55,11 @@ La programación extrema se diferencia de las metodologías tradicionales princi
 
 ## Metodología de trabajo elegida
 
+Aun habiendo ya definidos ya los requisitos y el diseño iniciales para la aplicación propios del desarrollo en cascada, donde cada una de estas partes se toman un tiempo considerable para analizar profundamente el plan de desarrollo y que este sea inamovible, **se va a optar por realizar un plan de desarrollo ágil**, donde todo lo considerado se revisará y modificará si se estimara oportuno.
 
+Todas las metodologías ágiles están basadas en el trabajo en equipo y no de forma individual como es el caso de este proyecto. Sin embargo, muchos de sus principios son perfectamente validos aún trabajando sólo.
+
+Aprovecharemos que ya tenemos definidos los requisitos del proyecto para tomarlos como tareas a realizar de forma autónoma y en cada iteración añadir uno de los requisitos. Después se realizarán las pruebas necesarias para validar que se cumple la funcionalidad buscada.
 
 
 
