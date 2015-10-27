@@ -66,7 +66,7 @@ Para la realización del proyecto tomaremos prestada un poco de cada técnica á
 - **Pruebas y validación** de cada funcionalidad añadida.
 - **Corrección de errores** antes de continuar con la siguiente iteración.
 - **Refactorización del código** antes de concluir la iteración.
-- Generación de un entregable al terminar la iteración.
+- **Generación de un entregable al terminar la iteración**.
 
 
 
