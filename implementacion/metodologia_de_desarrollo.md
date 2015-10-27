@@ -19,7 +19,7 @@ Las metodologías de trabajo ágiles vienen a paliar algunas de las deficiencias
 ![Figura 1](./imagenes/esquema_desarrollo_agil.jpg)
 ###### *Figura 2: Esquema típico de desarrollo ágil*
 
-Algunas de las metodogías ágiles más extendidas son:
+Algunas de las metodologías ágiles más extendidas son:
 
 ### Scrum
 
