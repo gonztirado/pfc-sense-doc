@@ -26,7 +26,7 @@ Algunas de las metodogías ágiles más extendidas son:
 Scrum es una metodología ágil, basada en desarrollo incremental. Se trata de una metodología muy extendida. En ella se suelen adoptar diferentes róles a los miembros de la organización, con el fin de organizar mejor la distribución de la responsabilidad de las diferentes tareas. Los roles comúnmente usados son el Product Owner, el Scrum Master y el equipo de desarrollo. Además unas de sus características destacables son:
 
 - Divide la organización en equipos pequeños, interdisciplinarios y auto-organizados.
-- Divide el trabajo en una lista de entregables pequeños y concretos y ordenación por prioridad estimando el esfuerzo relativo de cada elemento.
+- Divide el trabajo en una lista de entregables pequeños y concretos y los ordena por prioridad estimando el esfuerzo relativo de cada elemento.
 - Divide el tiempo en iteraciones cortas de longitud fija (generalmente de 1 a 4 semanas), con código potencialmente entregable y validado después de cada iteración.
 - Optimiza el plan de entregas y actualiza las prioridades en colaboración con el cliente, basada en los conocimientos adquiridos mediante la inspección del entregable después de cada iteración.
 
