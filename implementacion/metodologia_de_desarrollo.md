@@ -71,3 +71,11 @@ Para la realización del proyecto tomaremos prestada un poco de cada técnica á
 No se va a incluir tiempo limite del sprint ni estimaciones en las tareas dado el carácter de investigación que tiene el proyecto y que no se va a realizar el desarrollo en el tiempo libre sin un horario fijo.
 
 
+| Iteración | Versión | Requerimiento |   
+| --------- | ------- | ------------- |
+| 1         | 0.1.0   | Consultar listado de sensores|
+| 2         | 0.2.0   | Consultar listado de sensores| 
+| 3         | 0.3.0   | Consultar listado de sensores| 
+| 4         | 0.4.0   | Consultar listado de sensores| 
+| 5         | 0.5.0   | Consultar listado de sensores| 
+| 6         | 0.6.0   | Consultar listado de sensores| 
