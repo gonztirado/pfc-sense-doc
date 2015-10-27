@@ -19,3 +19,5 @@ Aun habiendo ya definidos ya los requisitos y el diseño iniciales para la aplic
 
 Las metodologías de trabajo ágiles vienen a paliar algunas de las deficiencias que tiene el desarrollo tradicional en cascada pero manteniendo el espiritu y las buenas prácticas de la anterior metodología. Principalmente se basa en repetir de forma iterativa las diferentes fases que conforman el desarrollo en cascada en iteraciones de pequeño tamaño con el fin de que si hay algún fallo de diseño, algún error en la toma de especificiones o incluso el cambio de las mismas no resulte un varapalo para el proyecto, ya que al final de cada iteración se genera un producto que se entrega y se revisa por aquellos que van a utilizarlo, recibiendo feedback y encontrando errores de forma más temprana.
 
+![Figura 1](./imagenes/esquema_desarrollo_agil.jpg)
+###### *Figura 1: Fases del desarrollo en cascada*
