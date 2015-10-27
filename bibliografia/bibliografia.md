@@ -82,6 +82,7 @@ APLICACIÓN WEB PARA RESOLVER SISTEMAS DE ECUACIONES LINEALES (ALBERTO RAMÍREZ 
 obteniendo lo mejor de
 ambos - Henrik Kniberg & Mattias Skarin](http://www.proyectalis.com/documentos/KanbanVsScrum_Castellano_FINAL-printed.pdf)
 - [Kanban - wikipedia](https://es.wikipedia.org/wiki/Kanban)
+- [Extreme programing]
 
 
 
