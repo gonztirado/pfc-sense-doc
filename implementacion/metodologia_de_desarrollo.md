@@ -25,13 +25,15 @@ Las metodologías de trabajo ágiles vienen a paliar algunas de las deficiencias
 
 ### Scrum
 
+Scrum es una metodología ágil, basada en desarrollo incremental. Se trata de una metodología muy extendida. En ella se suelen adoptar diferentes róles a los miembros de la organización, con el fin de organizar mejor la distribución de la responsabilidad de las diferentes tareas. Los roles comúnmente usados son Product Owner
+
 - Divide la organización en equipos pequeños, interdisciplinarios y auto-organizados.
 - Divide el trabajo en una lista de entregables pequeños y concretos y la ordena la lista por orden de prioridad estimando el esfuerzo relativo de cada elemento.
 - Divide el tiempo en iteraciones cortas de longitud fija (generalmente de 1 a 4 semanas), con código potencialmente entregable y validado después de cada iteración.
 - Optimiza el plan de entregas y actualiza las prioridades en colaboración con el cliente, basada en los conocimientos adquiridos mediante la inspección del entregable después de cada iteración.
 
 
-### Kanbam
+### Kanban
 - Se visualiza el plan de trabajo, diviendo el trabajo en bloques, generalmente de la misma complejidad.
 - Limita el trabajo en curso asignando límites concretos a cuantos elementos deben estar en cada flujo de trabajo.
 - Mide el tiempo medio en completar un elemento y se optimiza el proceso para que este tiempo sea lo más pequeño y predecible posible.
