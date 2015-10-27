@@ -26,7 +26,7 @@ Algunas de las metodogías ágiles más extendidas son:
 Scrum es una metodología ágil, basada en desarrollo incremental. Se trata de una metodología muy extendida. En ella se suelen adoptar diferentes róles a los miembros de la organización, con el fin de organizar mejor la distribución de la responsabilidad de las diferentes tareas. Los roles comúnmente usados son el Product Owner, el Scrum Master y el equipo de desarrollo. Además unas de sus características destacables son:
 
 - Divide la organización en equipos pequeños, interdisciplinarios y auto-organizados.
-- Divide el trabajo en una lista de entregables pequeños y concretos y la ordena la lista por orden de prioridad estimando el esfuerzo relativo de cada elemento.
+- Divide el trabajo en una lista de entregables pequeños y concretos y ordenación por prioridad estimando el esfuerzo relativo de cada elemento.
 - Divide el tiempo en iteraciones cortas de longitud fija (generalmente de 1 a 4 semanas), con código potencialmente entregable y validado después de cada iteración.
 - Optimiza el plan de entregas y actualiza las prioridades en colaboración con el cliente, basada en los conocimientos adquiridos mediante la inspección del entregable después de cada iteración.
 
@@ -42,14 +42,14 @@ Kanban es un método para gestionar el trabajo intelectual, con énfasis en la e
 ### Extreme programming (XP)
 La programación extrema se diferencia de las metodologías tradicionales principalmente en que pone más énfasis en la adaptabilidad que en la previsibilidad. Los defensores de la XP consideran que los cambios de requisitos sobre la marcha son un aspecto natural, inevitable e incluso deseable del desarrollo de proyectos. Creen que ser capaz de adaptarse a los cambios de requisitos en cualquier punto de la vida del proyecto es una aproximación mejor y más realista que intentar definir todos los requisitos al comienzo del proyecto e invertir esfuerzos después en controlar los cambios en los requisitos. Las características fundamentales del método son:
 
-- **Desarrollo iterativo e incremental**.
-- **Pruebas unitarias continuas**.
-- **Programación en parejas**.
-- **Frecuente integración del equipo de programación con el cliente o usuario**.
-- **Corrección de todos los errores antes de añadir nueva funcionalidad**.
-- **Refactorización del código**.
-- **Propiedad del código compartida**.
-- **Simplicidad en el código**.
+- Desarrollo iterativo e incremental.
+- Pruebas unitarias continuas.
+- Programación en parejas.
+- Frecuente integración del equipo de programación con el cliente o usuario.
+- Corrección de todos los errores antes de añadir nueva funcionalidad.
+- Refactorización del código.
+- Propiedad del código compartida.
+- Simplicidad en el código.
 
 
 
