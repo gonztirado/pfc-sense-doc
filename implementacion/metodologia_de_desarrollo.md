@@ -59,7 +59,10 @@ Aun habiendo ya definidos ya los requisitos y el diseño iniciales para la aplic
 
 Todas las metodologías ágiles están basadas en el trabajo en equipo y no de forma individual como es el caso de este proyecto. Sin embargo, muchos de sus principios son perfectamente validos aún trabajando sólo.
 
-Aprovecharemos que ya tenemos definidos los requisitos del proyecto para tomarlos como tareas a realizar de forma autónoma y en cada iteración añadir uno de los requisitos. Después se realizarán las pruebas necesarias para validar que se cumple la funcionalidad buscada.
+Aprovecharemos que ya tenemos definidos los requisitos del proyecto para tomarlos como tareas a realizar de forma autónoma y en cada iteración añadir uno de los requisitos. Después se realizarán las pruebas necesarias para validar que se cumple la funcionalidad buscada. Las consideraciones que tomaremos en el proyecto son:
+
+- Desarrollo iterativo con un entregable por cada requerimiento.
+- Desarrollo iterativo de cada nueva funcionalidad.
 
 
 
