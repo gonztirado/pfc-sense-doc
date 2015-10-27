@@ -26,6 +26,7 @@
    * [Metodología de desarrollo](implementacion/metodologia_de_desarrollo.md)
    * [Iteracion 1: Consultar listado de sensores:](implementacion/iteracion_1.md)
    * [Iteración 2: Monitorizar los valores de las temperaturas in situ](implementacion/iteracion_2.md)
+   * Iteración 3: Configurar sensores
 * [Manual de usuario](manual/manual_de_usuario.md)
 * [Pruebas](pruebas/pruebas.md)
 * [Conclusiones y mejoras futuras](conclusiones/conclusiones_y_mejoras_futuras.md)
