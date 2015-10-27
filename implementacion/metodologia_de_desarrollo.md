@@ -43,6 +43,8 @@ Kanban es un método para gestionar el trabajo intelectual, con énfasis en la e
 
 
 ### Extreme programming (XP)
+ Al igual que éstos, la programación extrema se diferencia de las metodologías tradicionales principalmente en que pone más énfasis en la adaptabilidad que en la previsibilidad. Los defensores de la XP consideran que los cambios de requisitos sobre la marcha son un aspecto natural, inevitable e incluso deseable del desarrollo de proyectos. Creen que ser capaz de adaptarse a los cambios de requisitos en cualquier punto de la vida del proyecto es una aproximación mejor y más realista que intentar definir todos los requisitos al comienzo del proyecto e invertir esfuerzos después en controlar los cambios en los requisitos.
+
 - **Desarrollo iterativo e incremental**, se aplican pequeñas mejoras, unas tras otras.
 - **Pruebas unitarias continuas**, deben ser frecuentemente repetidas y preferiblemente automatizadas.
 - **Programación en parejas**, se recomienda que las tareas de desarrollo se lleven a cabo por dos personas en un mismo puesto. La mayor calidad del código escrito de esta manera es más importante que la posible pérdida de productividad inmediata.
