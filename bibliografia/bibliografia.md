@@ -73,6 +73,12 @@ APLICACIÓN WEB PARA RESOLVER SISTEMAS DE ECUACIONES LINEALES (ALBERTO RAMÍREZ 
 
 ## Otras herramientas
 - [Android Studio - wikipedia](https://en.wikipedia.org/wiki/Android_Studio)
+- 
+
+## Metodología de desarrollo
+- [Desarrollo en cascada - wikipedia](https://es.wikipedia.org/wiki/Desarrollo_en_cascada)
+
+
 
 
 
