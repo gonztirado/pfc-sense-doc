@@ -43,16 +43,16 @@ Kanban es un método para gestionar el trabajo intelectual, con énfasis en la e
 
 
 ### Extreme programming (XP)
-La programación extrema se diferencia de las metodologías tradicionales principalmente en que pone más énfasis en la adaptabilidad que en la previsibilidad. Los defensores de la XP consideran que los cambios de requisitos sobre la marcha son un aspecto natural, inevitable e incluso deseable del desarrollo de proyectos. Creen que ser capaz de adaptarse a los cambios de requisitos en cualquier punto de la vida del proyecto es una aproximación mejor y más realista que intentar definir todos los requisitos al comienzo del proyecto e invertir esfuerzos después en controlar los cambios en los requisitos.
+La programación extrema se diferencia de las metodologías tradicionales principalmente en que pone más énfasis en la adaptabilidad que en la previsibilidad. Los defensores de la XP consideran que los cambios de requisitos sobre la marcha son un aspecto natural, inevitable e incluso deseable del desarrollo de proyectos. Creen que ser capaz de adaptarse a los cambios de requisitos en cualquier punto de la vida del proyecto es una aproximación mejor y más realista que intentar definir todos los requisitos al comienzo del proyecto e invertir esfuerzos después en controlar los cambios en los requisitos. Las características fundamentales del método son:
 
-- **Desarrollo iterativo e incremental**, se aplican pequeñas mejoras, unas tras otras.
-- **Pruebas unitarias continuas**, deben ser frecuentemente repetidas y preferiblemente automatizadas.
-- **Programación en parejas**, se recomienda que las tareas de desarrollo se lleven a cabo por dos personas en un mismo puesto. La mayor calidad del código escrito de esta manera es más importante que la posible pérdida de productividad inmediata.
-- **Frecuente integración del equipo de programación con el cliente o usuario**. Se recomienda que un representante del cliente trabaje junto al equipo de desarrollo.
-- **Corrección de todos los errores** antes de añadir nueva funcionalidad. Hacer entregas frecuentes.
-- **Refactorización del código**, es decir, reescribir ciertas partes del código para aumentar su legibilidad y mantenibilidad pero sin modificar su comportamiento. Las pruebas han de garantizar que en la refactorización no se ha introducido ningún fallo.
-- **Propiedad del código compartida**: en vez de dividir la responsabilidad en el desarrollo de cada módulo en grupos de trabajo distintos, este método promueve el que todo el personal pueda corregir y extender cualquier parte del proyecto. Las frecuentes pruebas de regresión garantizan que los posibles errores serán detectados.
-- **Simplicidad en el código**: es la mejor manera de que las cosas funcionen. Cuando todo funcione se podrá añadir funcionalidad si es necesario. La programación extrema apuesta que es más sencillo hacer algo simple y tener un poco de trabajo extra para cambiarlo si se requiere, que realizar algo complicado y quizás nunca utilizarlo.
+- **Desarrollo iterativo e incremental**.
+- **Pruebas unitarias continuas**.
+- **Programación en parejas**.
+- **Frecuente integración del equipo de programación con el cliente o usuario**.
+- **Corrección de todos los errores antes de añadir nueva funcionalidad**.
+- **Refactorización del código**.
+- **Propiedad del código compartida**.
+- **Simplicidad en el código**.
 
 
 
