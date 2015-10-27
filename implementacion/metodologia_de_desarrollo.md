@@ -32,6 +32,7 @@ Las metodologías de trabajo ágiles vienen a paliar algunas de las deficiencias
 
 
 ### Kanbam
+- Se visualiza el plan de trabajo, diviendo el trabajo en bloques, generalmente de la misma complejidad.
 
 
 
