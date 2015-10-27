@@ -70,7 +70,6 @@ Para la realización del proyecto tomaremos prestada un poco de cada técnica á
 
 No se va a incluir tiempo limite del sprint ni estimaciones en las tareas dado el carácter de investigación que tiene el proyecto y que no se va a realizar el desarrollo en el tiempo libre sin un horario fijo.
 
-
 | Iteración | Versión | Requerimiento |   
 | --------- | ------- | ------------- |
 | 1         | 0.1.0   | Consultar listado de sensores|
@@ -79,4 +78,4 @@ No se va a incluir tiempo limite del sprint ni estimaciones en las tareas dado e
 | 4         | 0.4.0   | Monitorización remota de los valores de los sensores| 
 | 5         | 0.5.0   | Configuración de dashboard de monitorización| 
 | 6         | 0.6.0   | Consulta y exportación de datos históricos|
-| 7         | 1.0.0   | Consultar listado de sensores| 
+| 7         | 1.0.0   | Añadidas mejoras| 
