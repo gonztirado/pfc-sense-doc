@@ -77,6 +77,7 @@ APLICACIÓN WEB PARA RESOLVER SISTEMAS DE ECUACIONES LINEALES (ALBERTO RAMÍREZ 
 
 ## Metodología de desarrollo
 - [Desarrollo en cascada - wikipedia](https://es.wikipedia.org/wiki/Desarrollo_en_cascada)
+- [Desarrollo ágil de sofware - wikipedia](https://es.wikipedia.org/wiki/Desarrollo_%C3%A1gil_de_software)
 
 
 
