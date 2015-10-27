@@ -38,9 +38,9 @@ Las metodologías de trabajo ágiles vienen a paliar algunas de las deficiencias
 
 
 ### Extreme programming (XP)
-- **Desarrollo iterativo e incremental**: pequeñas mejoras, unas tras otras.
-- **Pruebas unitarias continuas**, frecuentemente repetidas y automatizadas, incluyendo pruebas de regresión. Se aconseja escribir el código de la prueba antes de la codificación. Véase, por ejemplo, las herramientas de prueba JUnit orientada a Java, DUnit orientada a Delphi, NUnit para la plataforma.NET o PHPUnit para PHP. Estas tres últimas inspiradas en JUnit, la cual, a su vez, se insipiró en SUnit, el primer framework orientado a realizar tests, realizado para el lenguaje de programación Smalltalk.
-- **Programación en parejas**: se recomienda que las tareas de desarrollo se lleven a cabo por dos personas en un mismo puesto. La mayor calidad del código escrito de esta manera -el código es revisado y discutido mientras se escribe- es más importante que la posible pérdida de productividad inmediata.
+- **Desarrollo iterativo e incremental**, se aplican pequeñas mejoras, unas tras otras.
+- **Pruebas unitarias continuas**, deben ser frecuentemente repetidas y preferiblemente automatizadas.
+- **Programación en parejas**: se recomienda que las tareas de desarrollo se lleven a cabo por dos personas en un mismo puesto. La mayor calidad del código escrito de esta manera es más importante que la posible pérdida de productividad inmediata.
 - **Frecuente integración del equipo de programación con el cliente o usuario**. Se recomienda que un representante del cliente trabaje junto al equipo de desarrollo.
 - **Corrección de todos los errores** antes de añadir nueva funcionalidad. Hacer entregas frecuentes.
 - **Refactorización del código**, es decir, reescribir ciertas partes del código para aumentar su legibilidad y mantenibilidad pero sin modificar su comportamiento. Las pruebas han de garantizar que en la refactorización no se ha introducido ningún fallo.
