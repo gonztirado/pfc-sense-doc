@@ -42,6 +42,10 @@ Diagramas de casos de uso
 ## Visual Paradigm
 Generación de diagramas UML de clases
 
+## Balsamiq mockups
+Generación de diagramas UML de clases
+
+
 
 
 
