@@ -40,3 +40,13 @@ Resumiendo, podemos decir que un dispositivo Bluetooth LE puede implementar uno 
 
 
 ## 5.3.2 Creación de proyecto para la aplicación en Android Studio
+
+Crear un proyecto con Android Studio no es ningún misterio. Dispone de asistentes de configuración muy intuitivos para la creación de nuevos proyecto, nosotros eligiremos el proyecto con una *Activity* en blanco como se puede observar en la Figura 5.3.2
+
+![](./imagenes/android_studio_creacion_proyecto.jpg)
+##### *Figura 5.3.2: Asistente de creación de proyecto en Android Studio* 
+
+La estructura de un proyecto Android es muy sencilla como puede observarse en la Figura 5.3.3. 
+
+![](./imagenes/android_studio_estructura.jpg)
+##### *Figura 5.3.3: Estructura de proyecto Android* 
