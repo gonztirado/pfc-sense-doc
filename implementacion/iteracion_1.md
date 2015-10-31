@@ -12,7 +12,7 @@ En esta primera iteración nos hemos propuesto poder consultar desde la aplicaci
 ##### *Tabla 5.3.1: Tareas de la iteración 1* 
 
 
-## 5.3.1 Estudio del protocolo Bluetooth LE
+## 5.3.1. Estudio del protocolo Bluetooth LE
 
 Al contrario que ocurría con el Bluetooth clásico, Bluetooth Low Energy está diseñado para proporcionar un significante bajo consumo energético. Android da soporte a este protocolo desde su versión 4.3, esto le permite comunicarse con sensores, monitores de ritmo cardiaco, dispositivos deportivos y muchos más. Algunos de los conceptos que hay que conocer sobre Bluetooth LE (BLE) son:
 
@@ -39,7 +39,7 @@ Resumiendo, podemos decir que un dispositivo Bluetooth LE puede implementar uno 
 ##### *Figura 5.3.1: Esquema de un perfil GATT* 
 
 
-## 5.3.2 Creación de proyecto para la aplicación en Android Studio
+## 5.3.2. Creación de proyecto para la aplicación en Android Studio
 
 Crear un proyecto con Android Studio no es ningún misterio. Dispone de asistentes de configuración muy intuitivos para la creación de nuevos proyecto, nosotros eligiremos el proyecto con una *Activity* en blanco como se puede observar en la Figura 5.3.2
 
@@ -58,6 +58,6 @@ La estructura de un proyecto Android es muy sencilla como puede observarse en la
 
 Por ultimo nos quedaría configurar un repositorio Git para nuestro control de versiones, para ello hacemos uso de la herramienta de escritorio SourceTree con la que crearemos nuestro repositorio local. Además, para poder tener una copia de seguridad y poder descargarnos el código y poder trabajar desde otro equipo crearemos un repositorio en BitBucket con el cual nos sincronizaremos.
 
-## 5.3.3 Configuración del proyecto para utilizar Bluetooth LE
+## 5.3.3. Configuración del proyecto para utilizar Bluetooth LE
 
 
