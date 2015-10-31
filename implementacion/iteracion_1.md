@@ -108,3 +108,4 @@ if (mBluetoothAdapter == null || !mBluetoothAdapter.isEnabled()) {
 }
 ```
 
+## 5.3.4. Crear controlador para detectar dispositivos Bluetooth disponibles
