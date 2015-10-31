@@ -21,4 +21,6 @@ Al contrario que ocurría con el Bluetooth clásico, Bluetooth Low Energy está 
    - BLP: Consulta de presión sanguínea
    - CGMP: Control de glucosa en sangre
    - CSCP: Cadencia y velocidad en ciclismo
+   - ESP: Sensor ambiental 
+   - HRP: Consulta de ritmo cardiaco
 
