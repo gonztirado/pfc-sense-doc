@@ -177,3 +177,5 @@ private BluetoothAdapter.LeScanCallback mLeScanCallback =
    }
 };
 ```
+
+## 5.3.5. Generar la interfaz del listado de dispositivos
