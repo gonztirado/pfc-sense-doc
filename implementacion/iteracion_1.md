@@ -37,3 +37,6 @@ Resumiendo, podemos decir que un dispositivo Bluetooth LE puede implementar uno 
 
 ![](./imagenes/gatt_profiles.png)
 ##### *Figura 5.3.1: Esquema de un perfil GATT* 
+
+
+## 5.3.2 Creación de proyecto para la aplicación en Android Studio
