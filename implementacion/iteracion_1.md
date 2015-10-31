@@ -12,7 +12,7 @@ En esta primera iteración nos hemos propuesto poder consultar desde la aplicaci
 ##### *Tabla 5.3.1: Tareas de la iteración 1* 
 
 
+## 5.3.1 Estudio del protocolo Bluetooth LE
 
 
-tendremos que preparar una aplicación configurada correctamente para utilizar Bluetooth LE
 
