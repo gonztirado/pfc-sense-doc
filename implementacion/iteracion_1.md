@@ -179,3 +179,6 @@ private BluetoothAdapter.LeScanCallback mLeScanCallback =
 ```
 
 ## 5.3.5. Generar la interfaz del listado de dispositivos
+
+No vamos a explicar en profundidad el proceso de la composición de la UI ya que no consideramos que sea muy relevante para la investigación del proyecto. Sólo comentaremos que intentamos ceñirnos lo más que pudimos al diseño propuesto en el Capítulo 4, el resultado lo podemos apreciar en la Figura 5.3.4
+
