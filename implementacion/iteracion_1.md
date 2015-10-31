@@ -109,3 +109,51 @@ if (mBluetoothAdapter == null || !mBluetoothAdapter.isEnabled()) {
 ```
 
 ## 5.3.4. Crear controlador para detectar dispositivos Bluetooth disponibles
+
+Configurada la aplicación con Bluetooth ya tenemos todo dispuesto para comenzar a recuperar el listado de los sensores disponibles. Para recupear los dispositivos disponibles crearemos un método ```startLeScan()``` que tomará como parámetro un objeto de la clase ```BluetoothAdapter.LeScanCallback```. Más adelante, la vista que se encargue de listar los sensores deberá implementar dicha interfaz. 
+
+Debido a que el escaneo de dispositivos es un procedimiento que drena bastante la batería del teléfono, tendremos en cuenta una serie de consideraciones que recomienda la documentación de Android:
+
+- Tan pronto como encontremos el dispositivo que buscamos, pararemos el escaneo.
+- No realizar un blucle de escaneo y añadir un tiempo límite a la busqueda.
+ 
+
+El siguiente trozo de código muestra como arrancar y parar el proceso de escaneo:
+
+```
+/**
+ * Activity for scanning and displaying available BLE devices.
+ */
+public class DeviceScanActivity extends ListActivity {
+
+    private BluetoothAdapter mBluetoothAdapter;
+    private boolean mScanning;
+    private Handler mHandler;
+
+    // Stops scanning after 10 seconds.
+    private static final long SCAN_PERIOD = 10000;
+    ...
+    private void scanLeDevice(final boolean enable) {
+        if (enable) {
+            // Stops scanning after a pre-defined scan period.
+            mHandler.postDelayed(new Runnable() {
+                @Override
+                public void run() {
+                    mScanning = false;
+                    mBluetoothAdapter.stopLeScan(mLeScanCallback);
+                }
+            }, SCAN_PERIOD);
+
+            mScanning = true;
+            mBluetoothAdapter.startLeScan(mLeScanCallback);
+        } else {
+            mScanning = false;
+            mBluetoothAdapter.stopLeScan(mLeScanCallback);
+        }
+        ...
+    }
+...
+}
+```
+
+
