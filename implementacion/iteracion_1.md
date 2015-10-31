@@ -182,3 +182,5 @@ private BluetoothAdapter.LeScanCallback mLeScanCallback =
 
 No vamos a explicar en profundidad el proceso de la composición de la UI ya que no consideramos que sea muy relevante para la investigación del proyecto. Sólo comentaremos que intentamos ceñirnos lo más que pudimos al diseño propuesto en el Capítulo 4, el resultado lo podemos apreciar en la Figura 5.3.4
 
+![](./imagenes/android_studio_estructura_proyecto.jpg)
+##### *Figura 5.3.3: Estructura de proyecto Android*
