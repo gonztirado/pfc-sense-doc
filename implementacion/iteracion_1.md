@@ -58,3 +58,6 @@ La estructura de un proyecto Android es muy sencilla como puede observarse en la
 
 Por ultimo nos quedaría configurar un repositorio Git para nuestro control de versiones, para ello hacemos uso de la herramienta de escritorio SourceTree con la que crearemos nuestro repositorio local. Además, para poder tener una copia de seguridad y poder descargarnos el código y poder trabajar desde otro equipo crearemos un repositorio en BitBucket con el cual nos sincronizaremos.
 
+## 5.3.3 Configuración del proyecto para utilizar Bluetooth LE
+
+
