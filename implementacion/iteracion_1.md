@@ -1,2 +1,2 @@
-# Iteracion 1: Consultar listado de sensores:
+# 5.3. Iteracion 1: Consultar listado de sensores
 
