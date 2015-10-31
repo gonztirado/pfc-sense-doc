@@ -1,1 +1,10 @@
 /* CSS for pdf */
+p,
+blockquote,
+ul,
+ol,
+dl,
+table,
+pre {
+  text-align: justify;
+}
