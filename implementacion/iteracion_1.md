@@ -33,4 +33,7 @@ Al contrario que ocurría con el Bluetooth clásico, Bluetooth Low Energy está 
 
 - **Servicio**: Un servicio es una colección de características. Por ejemplo, el servicio "Heart Rate Monitor" incluye características como "heart rate measurement", además de otras.
 
+Resumiendo, podemos decir que un dispositivo Bluetooth LE puede implementar uno o varios perfiles GATT que a su vez este puede implementar uno o varios servicios, donde cada servicio puede contener una o varias características y que estas caracteristicas además de su valor puede contener ninguno o varios descriptores. Todo esto queda más claro si se observa mejor el esquema de la Figura 5.3.1.
 
+![](./imagenes/gatt_profiles.png)
+##### *Figura 5.3.1: Esquema de un perfil GATT* 
