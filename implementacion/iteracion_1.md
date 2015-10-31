@@ -46,7 +46,7 @@ Crear un proyecto con Android Studio no es ningún misterio. Dispone de asistent
 ![](./imagenes/android_studio_creacion_proyecto.jpg)
 ##### *Figura 5.3.2: Asistente de creación de proyecto en Android Studio* 
 
-La estructura de un proyecto Android es muy sencilla como puede observarse en la Figura 5.3.3. 
+La estructura de un proyecto Android es muy sencilla como puede observarse en la Figura 5.3.3. Explicaremos brevemente sus partes más destacadas
 
-![](./imagenes/android_studio_estructura.jpg)
+![](./imagenes/android_studio_estructura_proyecto.jpg)
 ##### *Figura 5.3.3: Estructura de proyecto Android* 
