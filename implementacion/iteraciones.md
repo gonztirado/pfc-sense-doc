@@ -10,3 +10,5 @@
 | 6         | 0.6.0   | Consulta y exportación de datos históricos           |
 | 7         | 1.0.0   | Revisión de aplicación y últimas mejoras             |
 ###### *Tabla 1: Iteraciones a realizar previstas*
+
+![](.imagenes/pizarra_planificacion.jpg)
