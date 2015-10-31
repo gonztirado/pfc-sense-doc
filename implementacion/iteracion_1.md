@@ -49,7 +49,7 @@ Crear un proyecto con Android Studio no es ningún misterio. Dispone de asistent
 La estructura de un proyecto Android es muy sencilla como puede observarse en la Figura 5.3.3. Explicaremos brevemente sus partes más destacadas:
 
 - **AndroidManifest.xml**: Es el fichero donde se especifica las características generales de una aplicación Android típica, como su nombre, su número de versión, la versión del SDK que utiliza, los permisos que necesita y las *Activitys* y los *Services* que lo componen.
-- **java**: En esta carpeta se incluye todo el código de la aplicación
+- **java**: En esta carpeta se incluye todo el código de la aplicación, aquí se encuentran las clases del modelo, los controladores y las *Activitys*, los *Fragments* y los *Services* que vamos a utilizar en la aplicación
 - **res**: En esta carpeta se encuentran los recursos, tales como los layouts de las interfaces gráficas, las imágenes, los archivos de traducciones, etc
 - **assets**: Aquí se encuentran el resto de ficheros que puedan necesitarse para la aplicación, tales como páginas html para cargar la ayuda, o ficheros de bases de datos.
 
@@ -63,7 +63,6 @@ Por ultimo nos quedaría configurar un repositorio Git para nuestro control de v
 
 
 ### Configuración de permisos
-
 Según la documentación de Android, para utilizar las funcionalidad de Bluetooth LE es necesario declarar en nuestro archivo *manifest* una serie de permisos y *features*, las mostramos a continuación:
 
 ```
@@ -77,5 +76,6 @@ Estos permisos nos permitirán interaccionar con dispositivos Bluetooth y poder 
 
 
 ### Configuración en controlador de la aplicación
+El siguiente paso será añadir en nuestra *Activity* principal 
 
 
