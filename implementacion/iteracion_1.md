@@ -54,4 +54,7 @@ La estructura de un proyecto Android es muy sencilla como puede observarse en la
 - **assets**: Aquí se encuentran el resto de ficheros que puedan necesitarse para la aplicación, tales como páginas html para cargar la ayuda, o ficheros de bases de datos.
 
 ![](./imagenes/android_studio_estructura_proyecto.jpg)
-##### *Figura 5.3.3: Estructura de proyecto Android* 
+##### *Figura 5.3.3: Estructura de proyecto Android*
+
+Por ultimo nos quedaría configurar un repositorio Git para nuestro control de versiones, para ello hacemos uso de la herramienta de escritorio SourceTree con la que crearemos nuestro repositorio local. Además, para poder tener una copia de seguridad y poder descargarnos el código y poder trabajar desde otro equipo crearemos un repositorio en BitBucket con el cual nos sincronizaremos.
+
