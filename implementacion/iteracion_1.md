@@ -156,4 +156,24 @@ public class DeviceScanActivity extends ListActivity {
 }
 ```
 
+Este método será el que se invoque cada vez que pulsemos a nuestro botón 'Escanear'. Ya sólo nos quedaría implementar el *callback* que añadirá los sensores a nuestra clase ```DeviceListAdapter``` que es la encargada de listar los sensores en la pantalla. El código que tendremos que añadir es el siguiente:
 
+```
+private DeviceListAdapter mDeviceAdapter;
+...
+// Device scan callback.
+private BluetoothAdapter.LeScanCallback mLeScanCallback =
+        new BluetoothAdapter.LeScanCallback() {
+    @Override
+    public void onLeScan(final BluetoothDevice device, int rssi,
+            byte[] scanRecord) {
+        runOnUiThread(new Runnable() {
+           @Override
+           public void run() {
+               mDeviceAdapter.addDevice(device);
+               mDeviceAdapter.notifyDataSetChanged();
+           }
+       });
+   }
+};
+```
