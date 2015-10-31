@@ -86,6 +86,14 @@ ambos - Henrik Kniberg & Mattias Skarin](http://www.proyectalis.com/documentos/K
 
 
 
+## Iteracion 1
+- [Bluetooth - Especificaciones GATT](https://www.bluetooth.org/en-us/specification/adopted-specifications)
+
+ 
+
+
+
+
 
 
 
