@@ -1,25 +1,3 @@
 {
-    /*
-    "plugins": [
-        "autocover"
-    ],
-    "pluginsConfig": {
-        "autocover": {
-            "title": "PFC Sense",
-            "author": "Gonzalo Tirado",
-            "font": {
-                "size": null,
-                "family": "Impact",
-                "color": "#FFFFFF"
-            },
-            "size": {
-                "w": 1800,
-                "h": 2360
-            },
-            "background": {
-                "color": "#75C5FF"
-            }
-        }
-    }
-    */
+
 }
