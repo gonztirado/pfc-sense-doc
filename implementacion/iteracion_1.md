@@ -24,4 +24,5 @@ Al contrario que ocurría con el Bluetooth clásico, Bluetooth Low Energy está 
    - ESP: Sensor ambiental 
    - HRP: Consulta de ritmo cardiaco
 - **Attribute Protocol (ATT)**:  También conocido como GATT/ATT. Se trata de los paquetes de comunicación usados en las comunicaciones BLE y están optimizados para usar el menor número de bytes posibles. Cada atributo está identificado de forma única por un Universally Unique Identifier (UUID) que está estandarizado en un formato de 128 bits. Los *atributos* transportados por ATT están formateados como *características* y *servicios*.
+- **Característica**: una característica contiene un valor y además, opcionalmente, puede contener descriptores que describan el valor de la característica. Hay que pensar en una característica como un tipo o clase.
 
