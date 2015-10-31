@@ -7,7 +7,7 @@ En esta primera iteración nos hemos propuesto poder consultar desde la aplicaci
 | 1.1 | Estudio del protocolo Bluetooth LE |
 | 1.2 | Creación de proyecto para la aplicación en Android Studio |
 | 1.3 | Configuración del proyecto para utilizar Bluetooth LE |
-| 1.4 | Crear controlador para detectar dispositivos bluetooth disponibles |
+| 1.4 | Crear controlador para detectar dispositivos Bluetooth disponibles |
 | 1.5 | Generar la interfaz del listado de dispositivos |
 ##### *Tabla 5.3.1: Tareas de la iteración 1* 
 
