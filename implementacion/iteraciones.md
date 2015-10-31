@@ -9,7 +9,7 @@
 | 5         | 0.5.0   | Configuración de dashboard de monitorización         | 
 | 6         | 0.6.0   | Consulta y exportación de datos históricos           |
 | 7         | 1.0.0   | Revisión de aplicación y últimas mejoras             |
-###### Tab. 1: Iteraciones a realizar previstas*
+###### Tabla 1: Iteraciones a realizar previstas*
 
 ![](./imagenes/pizarra_planificacion.jpg)
-###### *Fig. 1: Iteraciones a realizar previstas*
+###### *Figura 1: Iteraciones a realizar previstas*
