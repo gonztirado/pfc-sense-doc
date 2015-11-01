@@ -9,3 +9,4 @@ Ya conseguimos listar los sensores disponibles, el siguiente paso será conectar
 | 2.3 | Crear controlador para añadir los valores de los sensores |
 | 2.4 | UI que muestre los valores actuales y las gráficas |
 ##### *Tabla 5.4.1: Tareas de la iteración 2* 
+
