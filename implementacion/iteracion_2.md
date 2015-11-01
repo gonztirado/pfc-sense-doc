@@ -7,5 +7,5 @@ En esta primera iteración nos hemos propuesto poder consultar desde la aplicaci
 | 2.1 | Conectar con un sensor y recuperar sus perfiles GATT |
 | 2.1 | Filtrar los perfiles GATT que nos interesan y extraer sus valores |
 | 2.1 | Crear controlador para añadir los valores de los sensores |
-| 2.2 | Generar la interfaz del listado de dispositivos |
+| 2.2 | Generar la interfaz que muestre los valores y las gráficas |
 ##### *Tabla 5.3.1: Tareas de la iteración 1* 
