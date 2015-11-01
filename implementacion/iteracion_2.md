@@ -13,3 +13,4 @@ Ya conseguimos listar los sensores disponibles, el siguiente paso será conectar
 
 ## 5.4.1. Conectar con un sensor y recuperar sus perfiles GATT
 
+El primer paso en la interacción con un dispositivo BLE es conectarnos a él, aunque, más específicamente, conectarnos al servidor GATT de el dispositivo.
