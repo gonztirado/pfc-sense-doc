@@ -39,16 +39,27 @@ public class BluetoothLeService extends Service {
     private static final int STATE_CONNECTED = 2;
 
     public final static String ACTION_GATT_CONNECTED =
-            "com.example.bluetooth.le.ACTION_GATT_CONNECTED";
+            "com.celulabs.pfcsense.ble.common.ACTION_GATT_CONNECTED";
     public final static String ACTION_GATT_DISCONNECTED =
-            "com.example.bluetooth.le.ACTION_GATT_DISCONNECTED";
+            "com.celulabs.pfcsense.ble.common.ACTION_GATT_DISCONNECTED";
     public final static String ACTION_GATT_SERVICES_DISCOVERED =
-            "com.example.bluetooth.le.ACTION_GATT_SERVICES_DISCOVERED";
-    public final static String ACTION_DATA_AVAILABLE =
-            "com.example.bluetooth.le.ACTION_DATA_AVAILABLE";
-    public final static String EXTRA_DATA =
-            "com.example.bluetooth.le.EXTRA_DATA";
+            "com.celulabs.pfcsense.ble.common.ACTION_GATT_SERVICES_DISCOVERED";
+    public final static String ACTION_DATA_READ = 
+            "com.celulabs.pfcsense.ble.common.ACTION_DATA_READ";
+    public final static String ACTION_DATA_NOTIFY =
+            "com.celulabs.pfcsense.ble.common.ACTION_DATA_NOTIFY";
+    public final static String ACTION_DATA_WRITE =
+            "com.celulabs.pfcsense.ble.common.ACTION_DATA_WRITE";
+    public final static String EXTRA_DATA = 
+            "com.celulabs.pfcsense.ble.common.EXTRA_DATA";
+    public final static String EXTRA_UUID = 
+            "com.celulabs.pfcsense.ble.common.EXTRA_UUID";
+    public final static String EXTRA_STATUS = 
+            "com.celulabs.pfcsense.ble.common.EXTRA_STATUS";
+    public final static String EXTRA_ADDRESS = 
+            "com.celulabs.pfcsense.ble.common.EXTRA_ADDRESS";
 
+   
     public final static UUID UUID_HEART_RATE_MEASUREMENT =
             UUID.fromString(SampleGattAttributes.HEART_RATE_MEASUREMENT);
 
