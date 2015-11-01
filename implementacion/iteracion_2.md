@@ -4,6 +4,6 @@ En esta primera iteración nos hemos propuesto poder consultar desde la aplicaci
 
 | Tarea | Descripción |
 | -- | -- |
-| 2.1 | Conectar con un sensor y recuperar los perfiles GATT disponibles |
+| 2.1 | Conectar con un sensor y recuperar sus perfiles GATT |
 | 2.2 | Generar la interfaz del listado de dispositivos |
 ##### *Tabla 5.3.1: Tareas de la iteración 1* 
