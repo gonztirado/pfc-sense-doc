@@ -1,6 +1,6 @@
 # 5.9. Iteración Final: Revisión de aplicación y últimas mejoras
 
-Para rematar la aplicación se ha decidido añadir algunas funcionalidades que, aunque no son de vital importancia para el comportamiento de la misma, si tienen valor en cuanto a la experiencia del usuario que la use.
+Para rematar la aplicación se ha decidido añadir algunas funcionalidades que, aunque no son de vital importancia para el comportamiento de la misma, si tienen valor en cuanto a la experiencia del usuario que la haga uso de ella. Se va a incluir secciones de ayuda en la propia aplicación que expliquen el uso de la misma, además de un menú de configuración con opciones de personalización. Por último se añadirán enlaces al repositorio del código, a la versión online de la propia memoria, a la licencia del proyecto y a la configuración Bluetooth del dispositivo. Estas tareas están desglosadas en la Tabla 5.9.1.
 
 | Tarea | Descripción |
 | -- | -- |
