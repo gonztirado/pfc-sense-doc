@@ -2,8 +2,8 @@
 
 | Tarea | Descripción |
 | -- | -- |
-| F.1 | Agregar ayuda en la aplicación |
-| F.2 | Consulta y filtrado de datos|
+| F.1 | Incluir ayuda en la aplicación |
+| F.2 | Añadir menú de configuración|
 | F.3 | Creación de copias de seguridad|
 ##### *Tabla 5.9.1: Tareas de la iteración final * 
 
