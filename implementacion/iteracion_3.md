@@ -119,4 +119,7 @@ public void periodWasUpdated(int period) {
 ```
 ##### *Código 5.5.3: Métodos de configuración de servicios GATT en GenericBluetoothProfile.java*
 
+En la Figura 5.5.1 podemos observar como quedaría la interfaz de configuración en comparación con el diseño propuesto en el Capítulo 4.
 
+![](./imagenes/mockup_vs_configuracion.jpg)
+##### *Figura 5.5.1: Comparación de diseño con UI de configuración de sensores*
