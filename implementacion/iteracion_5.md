@@ -11,4 +11,9 @@ Ya tenemos el dashboard de monitorización creado, pero este tiene un problema, 
 
 ## 5.7.1. Creación de modelo de configuración de Ducksboard
 
-El modelo que necesitamos crear para la configuración del panel para que sea totalmente configurable por el administrador necesita 
+El modelo que necesitamos crear para la configuración del panel para que sea totalmente configurable por el administrador necesita de los siguientes valores:
+
+- API key de la cuenta de Ducksboard
+- Intervalo de frecuencia de actualización para los widgets de valores
+- Intervalo de frecuencia de actualización para los widgets de las gráficas
+- Identificador del widgetID para los valores y las graficas de cada servicio GATT
