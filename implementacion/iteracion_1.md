@@ -183,7 +183,7 @@ private BluetoothAdapter.LeScanCallback mLeScanCallback =
    }
 };
 ```
-##### *Código 5.3.6: Escaneao de dispositivos en DeviceScanActivity.java*
+##### *Código 5.3.6: Activación de escaneo en DeviceScanActivity.java*
 
 ## 5.3.5. Generar la interfaz del listado de dispositivos
 
