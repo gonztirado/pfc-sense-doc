@@ -34,4 +34,4 @@ Posteriormente, sólo hará falta ir añadiendo columnas a la tabla con el nombr
 ##### *Figura 5.7.3: Creación en columnas de la clase DucksboardSettings*
 
 
-## 5.7.3. Configuración de dashboards personalizados para un supervisor
+## 5.7.2. Consulta de configuración en aplicación móvil
