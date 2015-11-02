@@ -1,6 +1,6 @@
 # 5.6. Iteración 4: Monitorización remota de los valores de los sensores
 
-Cómo ya comentamos en la elección de herramientas del Capítulo 4
+Cómo ya comentamos en la elección de herramientas del Capítulo 3
 
 | Tarea | Descripción |
 | -- | -- |
