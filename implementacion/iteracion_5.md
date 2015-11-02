@@ -56,7 +56,7 @@ dependencies {
 ##### *Código 5.7.2: Dependencias del SDK de Parse en build.gradle*
 
 
-Además, crearemos un método ```initApp()``` en un nuevo controlador ```ParseController``` para iniciar ciertos parámetros necesarios para hacer uso del SDK de Parse 
+Además, crearemos un método ```initApp()``` en un nuevo controlador ```ParseController``` para iniciar ciertos parámetros necesarios para hacer uso del SDK de Parse como son la API key y el registro de subclases de parse.
 
 
 
