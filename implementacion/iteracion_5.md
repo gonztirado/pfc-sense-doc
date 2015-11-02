@@ -34,7 +34,7 @@ Posteriormente, sólo hará falta ir añadiendo columnas a la tabla con el nombr
 ![](./imagenes/parse_ducksboard_settings_column.jpg)
 ##### *Figura 5.7.3: Creación en columnas de la clase DucksboardSettings*
 
-Una vez creada
+Una vez creada la clase, el administrador puede rellenar los datos del sensor configurado con los valores recuperados del panel que desee desee configurar. Esta configuración servirá para que la consulte la aplicación móvil y envíe los push de monitorización al panel adecuado.
 
 
 ## 5.7.2. Consulta de configuración en aplicación móvil
