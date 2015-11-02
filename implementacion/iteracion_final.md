@@ -27,6 +27,11 @@ Se ha incluido una pantalla de configuración accesible desde la pantalla de mon
 
 Finalmente se ha incluido un menú en la barra de título con enlaces de interés de la aplicación como puede observarse en la Figura 5.9.3. Los enlaces que se han añadido son:
 
+- Repositorio del código del proyecto
+- Memoria online del proyecto
+- Licencia de uso de la aplicación
+- Versión de la aplicación
+- Acceso directo a la configuración Bluetooth del terminal
 
 ![](./imagenes/captura_enlaces_interes.png)
 ##### *Figura 5.9.3: Enlaces de interés* 
