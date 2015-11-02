@@ -17,3 +17,16 @@ Para ceñirnos al análisis que del diseño del panel de monitorización web que
 ##### *Figura 5.6.1: Diseño de panel en Ducksboard*
 
 Cada una de estas gráficas tiene asociado un widgetID para hacer push a las mismas, lo que haremos será guardar estos identificadores en nuestro código y asignar un widgetID por defecto a los valores de cada perfil GATT como vemos en Código 5.6.1.
+
+```java
+private static final String DEFAULT_WIDGET_VALUE_TEMPERATURE = "730979";
+private static final String DEFAULT_WIDGET_VALUE_TEMPERATURE_IR = "730980";
+private static final String DEFAULT_WIDGET_VALUE_HUMIDITY = "730981";
+private static final String DEFAULT_WIDGET_VALUE_BAROMETER = "730982";
+private static final String DEFAULT_WIDGET_VALUE_LUXOMETER = "730983";
+private static final String DEFAULT_WIDGET_GRAPHIC_TEMPERATURE = "730985";
+private static final String DEFAULT_WIDGET_GRAPHIC_TEMPERATURE_IR = "730986";
+private static final String DEFAULT_WIDGET_GRAPHIC_HUMIDITY = "730988";
+private static final String DEFAULT_WIDGET_GRAPHIC_BAROMETER = "730989";
+private static final String DEFAULT_WIDGET_GRAPHIC_LUXOMETER = "730990";
+```
