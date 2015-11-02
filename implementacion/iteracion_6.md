@@ -28,7 +28,17 @@ private void registerSubclasses() {
 ```
 ##### *Código 5.8.1: Registros de clases del modelo en ParseController.java*
 
-Para persistir los objetos en la plataforma web, sólo tendremos que invocar al método ```saveInBackground()``` que ahora disponen las clases del modelo por heredar de ```ParseObject```
+Para persistir los objetos en la plataforma web, sólo tendremos que invocar al método ```saveInBackground()``` que ahora disponen las clases del modelo por heredar de ```ParseObject```. Además del valor devuelto por los diferentes perfiles GATT, le agregaremos la fecha en que fue tomada antes de almacenarlos en Parse. Todo lo explicado anteriormente puede observarse en el Código 5.8.2.
+
+```java
+private void addSensorValue(SensorData sensorData, double value) {
+    sensorData.setSensorInfo(getCurrentSensorInfo());
+    sensorData.setValue(value);
+    sensorData.setTimestamp(System.currentTimeMillis());
+    sensorData.saveInBackground();
+}
+```
+##### *Código 5.8.2: Persistencia del modelo SensorDataController.java*
 
 
 ## 5.8.2. Consulta y filtrado de datos
