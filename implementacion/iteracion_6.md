@@ -28,7 +28,7 @@ private void registerSubclasses() {
 ```
 ##### *Código 5.8.1: Registros de clases del modelo en ParseController.java*
 
-
+Para persistir los objetos en la plataforma web, sólo tendremos que invocar al método ```saveInBackground()``` que ahora disponen las clases del modelo por heredar de ```ParseObject```
 
 
 ## 5.8.2. Consulta y filtrado de datos
