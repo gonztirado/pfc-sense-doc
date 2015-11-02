@@ -96,6 +96,6 @@ public void initDuckboardSettings(final SensorInfo sensorInfo) {
 ```
 ##### *Código 5.7.4: Inicio de applicación para uso de Parse en ParseController.java*
 
-
+Como se puede observar, haciendo uso del SDK de Parse, la consulta y guardado de parámetros en su plataforma es muy sencilla de usar. Provee métodos asíncronos tanto para la recuperación de datos como para su persistencia en la plataforma web.
 
 ## 5.7.3. Configuración de dashboards personalizados para un supervisor
