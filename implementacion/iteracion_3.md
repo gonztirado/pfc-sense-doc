@@ -11,3 +11,7 @@ Ya que hemos conseguido monitorizar los sensores, el siguiente paso sería poder
 
 ## 5.5.1 Enviar configuración a los sensores
 
+
+
+## 5.5.2 UI de configuración de sensores
+
