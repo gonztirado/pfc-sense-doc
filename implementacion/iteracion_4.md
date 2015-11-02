@@ -85,3 +85,16 @@ private long pushDashboardRequest(final String widgetID, final String
 
 Para cada valor recuparado de los servicios GATT se intentará hacer un push al dashboard. Aunque, como se puede apreciar en el código 5.6.2, se han añadido parámetros de intervalos configurables para hacer push a cada widget para evitar hacer un abuso de la plataforma. Un ejemplo de envío push al panel para el valor de temperatura se puede observar en el Código 5.6.3.
 
+
+    public void pushTemperatureData(TemperatureData sensorData) {
+        if (_settings != null) {
+            _lastPushTemperatureValue = pushData(sensorData, 
+                _settings.getValueTemperatureWidgetID(), 
+                _lastPushTemperatureValue, 
+                _settings.getValuePushInterval());
+            _lastPushTemperatureGraphic = pushData(sensorData,
+                _settings.getGraphicTemperatureWidgetID(), 
+                _lastPushTemperatureGraphic, 
+                _settings.getGraphicPushInterval());
+        }
+    }
