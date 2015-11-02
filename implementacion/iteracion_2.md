@@ -27,10 +27,9 @@ Para hacer la implementación crearemos un ```Service``` llamado ```BluetoothLeS
 ```java
 // A service that interacts with the BLE device via the Android BLE API.
 public class BluetoothLeService extends Service {
- 
+    
     ...
     
-    // Various callback methods defined by the BLE API.
     private final BluetoothGattCallback mGattCallback =
             new BluetoothGattCallback() {
         @Override
@@ -54,7 +53,6 @@ public class BluetoothLeService extends Service {
         }
 
         @Override
-        // New services discovered
         public void onServicesDiscovered(BluetoothGatt gatt, int status) {
             if (status == BluetoothGatt.GATT_SUCCESS) {
                 broadcastUpdate(ACTION_GATT_SERVICES_DISCOVERED);
@@ -64,7 +62,6 @@ public class BluetoothLeService extends Service {
         }
 
         @Override
-        // Result of a characteristic read operation
         public void onCharacteristicRead(BluetoothGatt gatt,
                 BluetoothGattCharacteristic characteristic,
                 int status) {
