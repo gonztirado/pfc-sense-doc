@@ -123,3 +123,5 @@ private void broadcastUpdate(final String action,
 	sendBroadcast(intent);
 }
 ```
+
+## 5.4.2. Filtrar los perfiles GATT que nos interesan y extraer sus valores
