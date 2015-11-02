@@ -124,6 +124,7 @@ private void broadcastUpdate(final String action,
 	sendBroadcast(intent);
 }
 ```
+##### *Código 5.4.2: Implementación de método broadcastUpdate() de BluetoothLeService.java*
 
 ## 5.4.2. Filtrar los perfiles GATT que nos interesan y extraer sus valores
 
