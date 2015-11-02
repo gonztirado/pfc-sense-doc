@@ -15,7 +15,25 @@ Ya que hemos conseguido monitorizar los sensores, el siguiente paso sería poder
 
 ## 5.5.2 UI de configuración de sensores
 
-```	
+
+Cuando detectamos desde la UI que se cambian el periodo de los sensores invocamos a nuestro ```GenericBluetoothProfile```, que es la clase de la que heredan todos los controladores de los diferentes perfiles GATT, que a su vez llama a nuestro ```BluetoothLeService``` ya preparado con los métodos para habilitar/deshabilitar un determinado perfil GATT o cambiar su periodo
+
+```
+public void onOffWasUpdated(boolean on) {
+	Log.d("GenericBluetoothProfile","Config characteristic set to :" + on);
+	if (on) {
+		this.configureService();
+		this.enableService();
+		this.tRow.grayedOut(false);
+	}
+	else {
+		this.deConfigureService();
+		this.disableService();
+		this.tRow.grayedOut(true);
+	}
+	
+}
+
 public void periodWasUpdated(int period) {
 	if (period > 2450) period = 2450; 
 	if (period < 100) period = 100;
