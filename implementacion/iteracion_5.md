@@ -7,5 +7,5 @@ Ya tenemos el dashboard de monitorización creado, pero este tiene un problema, 
 | 5.1 | Creación de modelo de configuración de Ducksboard |
 | 5.2 | Configuración de modelo en Parse.com |
 | 5.3 | Consulta de configuración en aplicación móvil |
-
+| 5.4 | Configuración de dashboards personalizados para un supervisor |
 ##### *Tabla 5.6.1: Tareas de la iteración 4* 
