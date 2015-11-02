@@ -11,6 +11,8 @@ Para rematar la aplicación se ha decidido añadir algunas funcionalidades que, 
 
 ## 5.9.1. Incluir ayuda en la aplicación
 
+Ya se introdujeron en el diseño inicial realizado en el Capítulo 4 unos menú superiores que permitían ver ayuda de como usar la propia aplicación. Se ha mantenido el mismo diseño tal y como puede observarse en la Figura 5.9.1. Además, para que la edición de la misma sea más fácil se ha utilizado un ```WebView``` que permite cargar contenido html estático incluido en la propia aplicación.
+
 ![](./imagenes/captura_pantallas_ayuda.png)
 ##### *Figura 5.9.1: Pantallas de ayuda* 
 
