@@ -123,7 +123,7 @@ Debido a que el escaneo de dispositivos es un procedimiento que drena bastante l
 - No realizar un blucle de escaneo y añadir un tiempo límite a la busqueda.
  
 
-El siguiente trozo de código muestra como arrancar y parar el proceso de escaneo:
+El Código 5.3.5 muestra como arrancar y parar el proceso de escaneo:
 
 ```
 /**
