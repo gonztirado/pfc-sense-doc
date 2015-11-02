@@ -13,6 +13,7 @@ Ya tenemos el dashboard de monitorización creado, pero este tiene un problema, 
 
 El modelo que necesitamos crear para la configuración del panel para que sea totalmente configurable por el administrador necesita de los siguientes valores:
 
+- Identificador del sensor configurado
 - API key de la cuenta de Ducksboard
 - Intervalo de frecuencia de actualización para los widgets de valores
 - Intervalo de frecuencia de actualización para los widgets de las gráficas
@@ -33,9 +34,12 @@ Posteriormente, sólo hará falta ir añadiendo columnas a la tabla con el nombr
 ![](./imagenes/parse_ducksboard_settings_column.jpg)
 ##### *Figura 5.7.3: Creación en columnas de la clase DucksboardSettings*
 
+Una vez creada
+
 
 ## 5.7.2. Consulta de configuración en aplicación móvil
 
+Para recuperar desde la aplicación móvil la configuración creada en parse
 
 
 
