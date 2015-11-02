@@ -128,7 +128,8 @@ private void broadcastUpdate(final String action,
 
 Ya hemos conseguido conectarnos a un sensor y recuperar los valores de sus características, ahora nos quedaría recuperar esos valores y el tipo de característica enviada y quedarnos solo con la de aquellos perfiles GATT que nos interese. En nuestro caso los perfiles que nos interesan son:
 
-- Temperatura
+- Temperatura ambiental
+- Temperatura por infrarojos (IR)
 - Barómetro
 - Luxómetro
 - Humedad
