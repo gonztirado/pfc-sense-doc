@@ -13,11 +13,12 @@ Ya conseguimos listar los sensores disponibles, el siguiente paso será conectar
 
 ## 5.4.1. Conectar con un sensor y recuperar sus perfiles GATT
 
-El primer paso en la interacción con un dispositivo BLE es conectarnos a él, aunque, más específicamente, conectarnos al servidor GATT de el dispositivo. Para ello tendremos que hacer uso del método ```connectGatt()```:
+El primer paso en la interacción con un dispositivo BLE es conectarnos a él, aunque, más específicamente, conectarnos al servidor GATT de el dispositivo. Para ello tendremos que hacer uso del método ```connectGatt()``` que vemos en Código 5.4.1.
 
 ```java
 mBluetoothGatt = device.connectGatt(this, false, mGattCallback);
 ```
+##### *Código 5.4.1: Implementación inicial de BluetoothLeService.java*
 
 Al conectarnos al servidor GATT nos devuelve una instancia de un objeto ```BluetoothGatt``` con el cual podremos hacer uso y conectarnos como cliente. El parámetro de tipo ```BluetoothGattCallback``` es usado para recuperar resultados por parte del cliente, como son el estado de la conexión así como más operaciones GATT de los clientes.
 
