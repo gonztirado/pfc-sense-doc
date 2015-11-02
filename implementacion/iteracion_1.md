@@ -77,7 +77,7 @@ Estos permisos nos permitirán interaccionar con dispositivos Bluetooth y poder 
 
 
 ### Configuración en controlador de la aplicación
-El siguiente paso será añadir en nuestra *Activity* principal un manejador que consulte si nuestro terminal dispone de conectividad Bluetooth LE y en caso contrario se salga de la aplicación. Para ello añadiremos las siguientes lineas que vemos en Código 5.3.2.
+El siguiente paso será añadir en nuestra *Activity* principal un manejador que consulte si nuestro terminal dispone de conectividad Bluetooth LE y en caso contrario se salga de la aplicación. Para ello añadiremos las lineas que vemos en Código 5.3.2.
 
 ```
 // Use this check to determine whether BLE is supported on the device. Then
