@@ -11,6 +11,12 @@ Para rematar la aplicación se ha decidido añadir algunas funcionalidades que, 
 
 ## 5.9.1. Incluir ayuda en la aplicación
 
+
+
+
 ## 5.9.2. Añadir menú de configuración
+
+
+
 
 ## 5.9.3. Incluir enlaces de interés
