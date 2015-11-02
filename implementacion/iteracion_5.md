@@ -23,5 +23,8 @@ Por lo tanto, el diseño del modelo tendría la forma que se observa en la Figur
 ![](./imagenes/diagrama_clase_ducksboard_settings.jpg)
 ##### *Figura 5.7.1: Diagrama del modelo de DucksboardSettings*
 
-Este modelo tiene que tener su correspondencia en un entorno web configurable por el administrador. Para ello, haremos uso de la plataforma de Parse para su creación
+Este modelo tiene que tener su correspondencia en un entorno web configurable por el administrador. Para ello, haremos uso de la plataforma de Parse para su creación. La creación de modelos en Parse es muy sencillo, basta con ir a la sección *Data* y seleccionar la opción *Add Class*, entonces aparecerá un dialogo en el que indicaremos que se trata de una clase *Custom* con el nombre ```DucksboardSettings``` tal y como se muestra en la Figura 5.7.2.
+
+![](./imagenes/parse_ducksboard_settings.jpg)
+##### *Figura 5.7.1: Creación en Parse de la clase DucksboardSettings*
 
