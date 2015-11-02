@@ -102,6 +102,7 @@ public class BluetoothLeService extends Service {
 ...
 }
 ```
+##### *Código 5.4.1: Implementación inicial de BluetoothLeService.java*
 
 Cuando un determinado *callback* es accionado, este llama a su método apropiado ```broadcastUpdate()``` que lanza la acción que le determinemos. Por ejemplo, nosotros propagaremos las acciones de conexión y desconexión, cuando descubramos un nuevo servicio y cuando nos llegue el valor de una característica:
 
