@@ -56,8 +56,15 @@ dependencies {
 ##### *Código 5.7.2: Dependencias del SDK de Parse en build.gradle*
 
 
-Además, crearemos un método ```initApp()``` en un nuevo controlador ```ParseController``` para iniciar ciertos parámetros necesarios para hacer uso del SDK de Parse como son la API key y el registro de subclases de parse.
+Además, crearemos un método ```initApp()``` en un nuevo controlador ```ParseController``` para iniciar ciertos parámetros necesarios para hacer uso del SDK de Parse como son la API key y el registro de subclases de Parse como muestra el Código 5.7.3.
 
+```javascript
+dependencies {
+    compile 'com.parse.bolts:bolts-android:1.+'
+    compile 'com.parse:parse-android:1.+'
+}
+```
+##### *Código 5.7.2: Dependencias del SDK de Parse en build.gradle*
 
 
 ## 5.7.3. Configuración de dashboards personalizados para un supervisor
