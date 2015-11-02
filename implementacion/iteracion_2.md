@@ -105,9 +105,9 @@ public class BluetoothLeService extends Service {
 ```
 ##### *Código 5.4.2: Implementación inicial de BluetoothLeService.java*
 
-Cuando un determinado *callback* es accionado, este llama a su método apropiado ```broadcastUpdate()``` que lanza la acción que le determinemos. Por ejemplo, nosotros propagaremos las acciones de conexión y desconexión, cuando descubramos un nuevo servicio y cuando nos llegue el valor de una característica como vemos en el Código 5.4.2.
+Cuando un determinado *callback* es accionado, este llama a su método apropiado ```broadcastUpdate()``` que lanza la acción que le determinemos. Por ejemplo, nosotros propagaremos las acciones de conexión y desconexión, cuando descubramos un nuevo servicio y cuando nos llegue el valor de una característica como vemos en el Código 5.4.3.
 
-```
+```java
 private void broadcastUpdate(final String action, final String address,
     final int status) {
 	final Intent intent = new Intent(action);
