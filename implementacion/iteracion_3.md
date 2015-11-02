@@ -97,7 +97,6 @@ public void onOffWasUpdated(boolean on) {
 		this.disableService();
 		this.tRow.grayedOut(true);
 	}
-	
 }
 
 public void periodWasUpdated(int period) {
