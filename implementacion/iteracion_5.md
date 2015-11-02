@@ -39,7 +39,12 @@ Una vez creada la clase, el administrador puede rellenar los datos del sensor co
 
 ## 5.7.2. Consulta de configuración en aplicación móvil
 
-Para recuperar desde la aplicación móvil la configuración creada en parse
+Para recuperar desde la aplicación móvil la configuración creada en Parse es necesario previamente hacer una serie de configuraciones en la aplicación. Lo primero es añadir una serie de permisos en nuestro archivo ```AndroidManifest.xml``` tal y como se ve en el Código 5.7.1.
+
+```xml
+<uses-permission android:name="android.permission.INTERNET" />
+<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+```
 
 
 
