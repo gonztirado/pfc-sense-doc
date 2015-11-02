@@ -15,3 +15,19 @@ Ya que hemos conseguido monitorizar los sensores, el siguiente paso sería poder
 
 ## 5.5.2 UI de configuración de sensores
 
+```	
+public void periodWasUpdated(int period) {
+	if (period > 2450) period = 2450; 
+	if (period < 100) period = 100;
+	byte p = (byte)((period / 10) + 10);
+	Log.d("GenericBluetoothProfile","Period characteristic set to :" + period);
+   
+    int error = mBTLeService.writeCharacteristic(this.periodC, p);
+    if (error != 0) {
+        if (this.periodC != null)
+            printError("Sensor period failed: ",this.periodC,error);
+    }
+    
+	this.tRow.periodLegend.setText("Periodo actualización (actualmente : " + period + "ms)");
+}
+```
