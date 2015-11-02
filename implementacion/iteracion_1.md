@@ -65,7 +65,7 @@ Por ultimo nos quedaría configurar un repositorio Git para nuestro control de v
 ### Configuración de permisos
 Según la documentación de Android, para utilizar las funcionalidad de Bluetooth LE es necesario declarar en nuestro archivo *manifest* una serie de permisos y *features*, lo mostramos en el Código 5.3.1 que vemos a continuación:
 
-```
+```xml
 <uses-permission android:name="android.permission.BLUETOOTH"/>
 <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
 
