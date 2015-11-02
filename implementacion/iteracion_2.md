@@ -21,7 +21,7 @@ mBluetoothGatt = device.connectGatt(this, false, mGattCallback);
 
 Al conectarnos al servidor GATT nos devuelve una instancia de un objeto ```BluetoothGatt``` con el cual podremos hacer uso y conectarnos como cliente. El parámetro de tipo ```BluetoothGattCallback``` es usado para recuperar resultados por parte del cliente, como son el estado de la conexión así como más operaciones GATT de los clientes.
 
-Para hacer la implementación crearemos un ```Service``` llamado ```BluetoothLeService``` que interactuará con nuestra ```Activity```. El servicio tendrá la siguiente forma:
+Para hacer la implementación crearemos un ```Service``` llamado ```BluetoothLeService``` que interactuará con nuestra ```Activity```. El servicio tendrá la siguiente forma que se ve en Código 5.4.1.
 
 ```
 // A service that interacts with the BLE device via the Android BLE API.
