@@ -31,6 +31,14 @@ private void registerSubclasses() {
 Para persistir los objetos en la plataforma web, sólo tendremos que invocar al método ```saveInBackground()``` que ahora disponen las clases del modelo por heredar de ```ParseObject```. Además del valor devuelto por los diferentes perfiles GATT, le agregaremos la fecha en que fue tomada antes de almacenarlos en Parse. Todo lo explicado anteriormente puede observarse en el Código 5.8.2.
 
 ```java
+public void addTemperatureValue(double value) {
+    TemperatureData data = new TemperatureData();
+    addSensorValue(data, value);
+    DucksboardController.getInstance().pushTemperatureData(data);
+}
+
+...
+
 private void addSensorValue(SensorData sensorData, double value) {
     sensorData.setSensorInfo(getCurrentSensorInfo());
     sensorData.setValue(value);
