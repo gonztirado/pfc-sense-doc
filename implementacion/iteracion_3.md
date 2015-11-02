@@ -12,30 +12,26 @@ Ya que hemos conseguido monitorizar los sensores, el siguiente paso sería poder
 ## 5.5.1 Enviar configuración a los sensores
 
 ```
-public int setCharacteristicNotification(
-        BluetoothGattCharacteristic characteristic, boolean enable) {
-    bleRequest req = new bleRequest();
-    req.status = bleRequestStatus.not_queued;
-    req.characteristic = characteristic;
-    req.operation = bleRequestOperation.nsBlocking;
-    req.notifyenable = enable;
-    addRequestToQueue(req);
-    boolean finished = false;
-    while (!finished) {
-        bleRequestStatus stat = pollForStatusofRequest(req);
-        if (stat == bleRequestStatus.done) {
-            finished = true;
-            return 0;
+public void deConfigureService() {
+        int error = this.mBTLeService.setCharacteristicNotification(this.dataC, false);
+        if (error != 0) {
+            if (this.dataC != null)
+                printError("Sensor notification disable failed: ",this.dataC,error);
         }
-        else if (stat == bleRequestStatus.timeout) {
-            finished = true;
-            return -3;
+        this.isConfigured = false;
+	}
+	public void enableService () {
+        int error = mBTLeService.writeCharacteristic(this.configC, (byte)0x01);
+        if (error != 0) {
+            if (this.configC != null)
+                printError("Sensor enable failed: ",this.configC,error);
         }
-    }
-    return -2;
+        //this.periodWasUpdated(1000);
+        this.isEnabled = true;
+	}
 }
 ```
-##### *Código 5.5.1: Activación/Desactivación de una característica BluetoothLeService.java*
+##### *Código 5.5.1: Activación/Desactivación de una característica GenericBluetoothProfile.java*
 
 ## 5.5.2 UI de configuración de sensores
 
