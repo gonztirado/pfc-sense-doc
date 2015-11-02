@@ -17,3 +17,9 @@ El modelo que necesitamos crear para la configuración del panel para que sea to
 - Intervalo de frecuencia de actualización para los widgets de valores
 - Intervalo de frecuencia de actualización para los widgets de las gráficas
 - Identificador del widgetID para los valores y las graficas de cada servicio GATT
+
+Por lo tanto, el diseño del modelo tendría la forma que se observa en la Figura 5.7.1.
+
+![](./imagenes/diagrama_clase_ducksboard_settings.jpg)
+##### *Figura 5.7.1: Tareas de la iteración 5*
+
