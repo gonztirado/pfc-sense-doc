@@ -146,7 +146,7 @@ Para la gestión de los diferentes perfiles GATT crearemos una clase para contro
 ![](./imagenes/diagrama_clase_gatt_profiles.jpg)
 ##### *Figura 5.4.2: Diagrama de clases para los controladores de perfiles GATT*
 
-En el siguiente trozo de código del controlador  ```SensorTagAmbientTemperatureProfile``` vemos como consultar que se trata del perfil correcto y cómo extraer el valor de su característica:
+En el Código 5.4.3 del controlador  ```SensorTagAmbientTemperatureProfile``` vemos como consultar que se trata del perfil correcto y cómo extraer el valor de su característica:
 
 ```
 public static boolean isCorrectService(BluetoothGattService service) {
