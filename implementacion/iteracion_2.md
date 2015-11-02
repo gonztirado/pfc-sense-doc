@@ -134,3 +134,10 @@ Ya hemos conseguido conectarnos a un sensor y recuperar los valores de sus carac
 - Humedad
 
 Para consultar los UUID de los servicios que nos interesan hemos consultado la documentación que nos ofrece Texas Instruments acerca de los perfiles GATT de su dispositivo Sensor Tag, podemos ver un ejemplo de la documentación para el sensor de temperatura en la Figura 5.4.1.
+
+![](./imagenes/gatt_commands_temperature.jpg)
+##### *Figura 5.4.1: UUIDs de los servicios GATT de Temperatura*
+
+
+
+
