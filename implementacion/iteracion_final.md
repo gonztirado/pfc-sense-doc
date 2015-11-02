@@ -18,7 +18,7 @@ Ya se introdujeron en el diseño inicial realizado en el Capítulo 4 unos menú 
 
 
 ## 5.9.2. Añadir pantalla de configuración
-Se ha incluido una pantalla de configuración accesible desde la pantalla de monitorización de sensores. Como se observa en la Figura 5.9.2, esta pantalla permite cambiar la visualización de las medidas para hacer uso de las unidades imperiales en lugar del sistema métrico. Además se le ha incluido un módo que permite mantener la conexión bluetooth activa durante 20 segundos tras pausar la aplicación  
+Se ha incluido una pantalla de configuración accesible desde la pantalla de monitorización de sensores. Como se observa en la Figura 5.9.2, esta pantalla permite cambiar la visualización de las medidas para hacer uso de las unidades imperiales en lugar del sistema métrico. Además se le ha incluido un módo que permite mantener la conexión bluetooth activa durante 20 segundos tras pausar la aplicación que será de utilidad cuando se realice una demostración de la misma.  
 
 ![](./imagenes/captura_pantalla_configuracion.png)
 ##### *Figura 5.9.2: Pantalla de configuracion* 
