@@ -5,7 +5,7 @@ Como ya comentamos en la elección de herramientas del Capítulo 3, vamos a util
 | Tarea | Descripción |
 | -- | -- |
 | 4.1 | Configuración de gráficas en Ducksboard |
-| 4.2 | Envío de datos al dashboard |
+| 4.2 | Push de datos de sensores al dashboard |
 ##### *Tabla 5.6.1: Tareas de la iteración 4* 
 
 
@@ -31,3 +31,6 @@ private static final String DEFAULT_WIDGET_GRAPHIC_BAROMETER = "730989";
 private static final String DEFAULT_WIDGET_GRAPHIC_LUXOMETER = "730990";
 ```
 ##### *Figura 5.6.1: Identificadores de los widget por defecto en DucksboardController.java*
+
+
+## 5.6.2. Push de datos de sensores al dashboard
