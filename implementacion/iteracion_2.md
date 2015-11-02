@@ -27,36 +27,9 @@ Para hacer la implementación crearemos un ```Service``` llamado ```BluetoothLeS
 ```java
 // A service that interacts with the BLE device via the Android BLE API.
 public class BluetoothLeService extends Service {
-    private final static String TAG = BluetoothLeService.class.getSimpleName();
 
-    private BluetoothManager mBluetoothManager;
-    private BluetoothAdapter mBluetoothAdapter;
-    private String mBluetoothDeviceAddress;
-    private BluetoothGatt mBluetoothGatt;
-    private int mConnectionState = STATE_DISCONNECTED;
-
-    private static final int STATE_DISCONNECTED = 0;
-    private static final int STATE_CONNECTING = 1;
-    private static final int STATE_CONNECTED = 2;
-
-    public final static String ACTION_GATT_CONNECTED =
-            "com.celulabs.pfcsense.ble.common.ACTION_GATT_CONNECTED";
-    public final static String ACTION_GATT_DISCONNECTED =
-            "com.celulabs.pfcsense.ble.common.ACTION_GATT_DISCONNECTED";
-    public final static String ACTION_GATT_SERVICES_DISCOVERED =
-            "com.celulabs.pfcsense.ble.common.ACTION_GATT_SERVICES_DISCOVERED";
-    public final static String ACTION_DATA_NOTIFY =
-            "com.celulabs.pfcsense.ble.common.ACTION_DATA_NOTIFY";
-    public final static String EXTRA_DATA = 
-            "com.celulabs.pfcsense.ble.common.EXTRA_DATA";
-    public final static String EXTRA_UUID = 
-            "com.celulabs.pfcsense.ble.common.EXTRA_UUID";
-    public final static String EXTRA_STATUS = 
-            "com.celulabs.pfcsense.ble.common.EXTRA_STATUS";
-    public final static String EXTRA_ADDRESS = 
-            "com.celulabs.pfcsense.ble.common.EXTRA_ADDRESS";
+    ...
     
-    // Various callback methods defined by the BLE API.
     private final BluetoothGattCallback mGattCallback =
             new BluetoothGattCallback() {
         @Override
@@ -80,7 +53,6 @@ public class BluetoothLeService extends Service {
         }
 
         @Override
-        // New services discovered
         public void onServicesDiscovered(BluetoothGatt gatt, int status) {
             if (status == BluetoothGatt.GATT_SUCCESS) {
                 broadcastUpdate(ACTION_GATT_SERVICES_DISCOVERED);
@@ -90,7 +62,6 @@ public class BluetoothLeService extends Service {
         }
 
         @Override
-        // Result of a characteristic read operation
         public void onCharacteristicRead(BluetoothGatt gatt,
                 BluetoothGattCharacteristic characteristic,
                 int status) {

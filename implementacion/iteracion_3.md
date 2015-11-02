@@ -15,22 +15,21 @@ Nuestra clase ```GenericBluetoothProfile``` de la que heredan todos nuestros per
 
 ```java
 public int readCharacteristic(BluetoothGattCharacteristic characteristic) {
-        bleRequest req = new bleRequest();
-        req.status = bleRequestStatus.not_queued;
-        req.characteristic = characteristic;
-        req.operation = bleRequestOperation.rdBlocking;
-        addRequestToQueue(req);
-        boolean finished = false;
-        while (!finished) {
-            bleRequestStatus stat = pollForStatusofRequest(req);
-            if (stat == bleRequestStatus.done) {
-                
-                return 0;
-            } else if (stat == bleRequestStatus.timeout) {
-                return -3;
-            }
+    bleRequest req = new bleRequest();
+    req.status = bleRequestStatus.not_queued;
+    req.characteristic = characteristic;
+    req.operation = bleRequestOperation.rdBlocking;
+    addRequestToQueue(req);
+    boolean finished = false;
+    while (!finished) {
+        bleRequestStatus stat = pollForStatusofRequest(req);
+        if (stat == bleRequestStatus.done) {
+            return 0;
+        } else if (stat == bleRequestStatus.timeout) {
+            return -3;
         }
-        return -2;
+    }
+    return -2;
 }
 
 public int writeCharacteristic(
@@ -93,13 +92,11 @@ public void onOffWasUpdated(boolean on) {
 		this.configureService();
 		this.enableService();
 		this.tRow.grayedOut(false);
-	}
-	else {
+	} else {
 		this.deConfigureService();
 		this.disableService();
 		this.tRow.grayedOut(true);
 	}
-	
 }
 
 public void periodWasUpdated(int period) {
@@ -113,7 +110,6 @@ public void periodWasUpdated(int period) {
         if (this.periodC != null)
             printError("Sensor period failed: ", this.periodCharacteristic, error);
     }
-    
 	this.tRow.periodLegend.setText("Periodo actualización (actualmente : " + period + "ms)");
 }
 ```
