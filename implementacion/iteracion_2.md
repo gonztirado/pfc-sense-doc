@@ -10,7 +10,6 @@ Ya conseguimos listar los sensores disponibles, el siguiente paso será conectar
 | 2.4 | UI que muestre los valores actuales y las gráficas |
 ##### *Tabla 5.4.1: Tareas de la iteración 2* 
 
-
 ## 5.4.1. Conectar con un sensor y recuperar sus perfiles GATT
 
 El primer paso en la interacción con un dispositivo BLE es conectarnos a él, aunque, más específicamente, conectarnos al servidor GATT de el dispositivo. Para ello tendremos que hacer uso del método ```connectGatt()```:
