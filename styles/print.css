@@ -1,4 +1,6 @@
 /* CSS for print */
+.page .book-chapter{display:none} 
+
 body .page p,
 blockquote,
 ul,
