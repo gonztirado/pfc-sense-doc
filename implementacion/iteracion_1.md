@@ -87,7 +87,7 @@ if (!getPackageManager().hasSystemFeature(PackageManager.FEATURE_BLUETOOTH_LE)) 
     finish();
 }
 ```
-##### *Código 5.3.1: Permisos y features necesarias en MainActivity.java*
+##### *Código 5.3.1: Control de soporte Bluetooth en MainActivity.java*
 
 Una vez que nos hemos cerciorado de que nuestro teléfono tiene conectividad Bluetooth LE añadiremos otra porción de código que se encargue de activar el Bluetooth por nosotros si este estaba deshabilitado, para ello haremos uso de la clase ```BluetoothAdapter``` de la API de Android. El proceso se hace en dos pasos:
 
