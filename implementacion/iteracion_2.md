@@ -48,6 +48,12 @@ public class BluetoothLeService extends Service {
             "com.celulabs.pfcsense.ble.common.ACTION_DATA_NOTIFY";
     public final static String EXTRA_DATA = 
             "com.celulabs.pfcsense.ble.common.EXTRA_DATA";
+    public final static String EXTRA_UUID = 
+            "com.celulabs.pfcsense.ble.common.EXTRA_UUID";
+    public final static String EXTRA_STATUS = 
+            "com.celulabs.pfcsense.ble.common.EXTRA_STATUS";
+    public final static String EXTRA_ADDRESS = 
+            "com.celulabs.pfcsense.ble.common.EXTRA_ADDRESS";
     
     // Various callback methods defined by the BLE API.
     private final BluetoothGattCallback mGattCallback =
@@ -94,5 +100,26 @@ public class BluetoothLeService extends Service {
      ...
     };
 ...
+}
+```
+
+Cuando un determinado *callback* es accionado, este llama a su método apropiado ```broadcastUpdate()``` que lanza la acción que le determinemos. Por ejemplo, nosotros propagaremos las acciones de conexión y desconexión, cuando descubramos un nuevo servicio y cuando nos llegue el valor de una característica:
+
+```
+private void broadcastUpdate(final String action, final String address,
+    final int status) {
+	final Intent intent = new Intent(action);
+	intent.putExtra(EXTRA_ADDRESS, address);
+	intent.putExtra(EXTRA_STATUS, status);
+	sendBroadcast(intent);
+}
+
+private void broadcastUpdate(final String action,
+    final BluetoothGattCharacteristic characteristic, final int status) {
+	final Intent intent = new Intent(action);
+	intent.putExtra(EXTRA_UUID, characteristic.getUuid().toString());
+	intent.putExtra(EXTRA_DATA, characteristic.getValue());
+	intent.putExtra(EXTRA_STATUS, status);
+	sendBroadcast(intent);
 }
 ```
