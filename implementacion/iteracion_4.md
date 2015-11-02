@@ -35,7 +35,7 @@ private static final String DEFAULT_WIDGET_GRAPHIC_LUXOMETER = "730990";
 
 ## 5.6.2. Push de datos de sensores al dashboard
 
-Ya teniendo configurada la plataforma con los widgets que nosotros queremos mostrar y sus identificadores, el siguiente paso es implementar el controlador de envío de datos. Para ello crearemos un controlador ```DucksboardController``` con los métodos que vemos en la figura 5.6.2.
+Ya teniendo configurada la plataforma con los widgets que nosotros queremos mostrar y sus identificadores, el siguiente paso es implementar el controlador de envío de datos. Para ello crearemos un controlador ```DucksboardController``` con los métodos que vemos en la figura 5.6.2. Como se ve, hacemos uso de los modelos creados en la Iteración 2.
 
 ![](./imagenes/diagrama_ducksboard_controller.jpg)
 ##### *Figura 5.6.1: Diagrama de diseño de DucksboardController*
