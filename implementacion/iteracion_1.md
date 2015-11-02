@@ -98,6 +98,7 @@ final BluetoothManager bluetoothManager =
         (BluetoothManager) getSystemService(Context.BLUETOOTH_SERVICE);
 mBluetoothAdapter = bluetoothManager.getAdapter();
 ```
+##### *Código 5.3.3: Recuperación de BluetoothAdapter en MainActivity.java*
 2. Habilitar la conectividad Bluetooth
 ```
 private BluetoothAdapter mBluetoothAdapter;
