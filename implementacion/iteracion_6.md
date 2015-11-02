@@ -57,7 +57,14 @@ Una vez realizado el envío de datos desde la aplicación móvil, la consulta de
 ##### *Figura 5.8.1: Consulta de datos en Parse.com*
 
 
-
-
 ## 5.8.3. Creación de copias de seguridad
+
+Realizar copias de seguridad resulta igual de sencillo, basta con aplicar el filtro deseado tal y como se muestra en la Figura 5.8.1 y darle a la opción *Export the data*. Una vez realizada la copia de seguridad se enviará al correo del usuario un archivo JSON que contiene el volcado de los datos seleccionados. Si no se selecciona ningún filtro se hará un volcado de toda la tabla de datos.
+
+Igualmente, el proceso de importar una copia de seguridad resulta sumamente fácil. Sólo será necesario seleccionar la opción *Import* y cargar el archivo JSON previamente guardado como puede observarse en la Figura 5.8.2.
+
+![](./imagenes/parse_importar_datos.jpg)
+##### *Figura 5.8.1: Importación de datos en Parse.com*
+
+
 
