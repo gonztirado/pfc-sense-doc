@@ -58,11 +58,35 @@ dependencies {
 
 Además, crearemos un método ```initApp()``` en un nuevo controlador ```ParseController``` para iniciar ciertos parámetros necesarios para hacer uso del SDK de Parse como son la API key y el registro de subclases de Parse como muestra el Código 5.7.3.
 
-```javascript
-dependencies {
-    compile 'com.parse.bolts:bolts-android:1.+'
-    compile 'com.parse:parse-android:1.+'
-}
+```java
+   /**
+     * Inicializa la aplicación para que funcione Parse.
+     * Este método debe ser invocado en nuestra clase Application en el método 'onCreate()'
+     *
+     * @param context contexto de la aplicación
+     */
+    public void initApp(Context context) {
+        registerSubclasses();
+        Parse.enableLocalDatastore(context);
+        Parse.initialize(context, APPLICATION_ID, CLIENT_KEY);
+        configureACL();
+    }
+
+    /**
+     * Registra las subclases de parse que vamos a utilizar en la aplicación.
+     * Conforme se vayan agregando clases al modelo será necesario añadirlas en este método
+     */
+    private void registerSubclasses() {
+        ParseObject.registerSubclass(DeviceInfo.class);
+        ParseObject.registerSubclass(SensorInfo.class);
+        ParseObject.registerSubclass(SensorData.class);
+        ParseObject.registerSubclass(TemperatureData.class);
+        ParseObject.registerSubclass(TemperatureIRData.class);
+        ParseObject.registerSubclass(BarometerData.class);
+        ParseObject.registerSubclass(HumidityData.class);
+        ParseObject.registerSubclass(LuxometerData.class);
+        ParseObject.registerSubclass(DucksboardSettings.class);
+    }
 ```
 ##### *Código 5.7.2: Dependencias del SDK de Parse en build.gradle*
 
