@@ -15,7 +15,7 @@ Ya conseguimos listar los sensores disponibles, el siguiente paso será conectar
 
 El primer paso en la interacción con un dispositivo BLE es conectarnos a él, aunque, más específicamente, conectarnos al servidor GATT de el dispositivo. Para ello tendremos que hacer uso del método ```connectGatt()```:
 
-```
+```java
 mBluetoothGatt = device.connectGatt(this, false, mGattCallback);
 ```
 
