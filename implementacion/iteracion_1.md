@@ -162,7 +162,7 @@ public class DeviceScanActivity extends ListActivity {
 ```
 ##### *Código 5.3.5: Escaneao de dispositivos en DeviceScanActivity.java*
 
-Este método será el que se invoque cada vez que pulsemos a nuestro botón 'Escanear'. Ya sólo nos quedaría implementar el *callback* que añadirá los sensores a nuestra clase ```DeviceListAdapter``` que es la encargada de listar los sensores en la pantalla. El código que tendremos que añadir es el siguiente:
+Este método será el que se invoque cada vez que pulsemos a nuestro botón 'Escanear'. Ya sólo nos quedaría implementar el *callback* que añadirá los sensores a nuestra clase ```DeviceListAdapter``` que es la encargada de listar los sensores en la pantalla. El Código 5.3.6  indica que tendremos que añadir.
 
 ```
 private DeviceListAdapter mDeviceAdapter;
