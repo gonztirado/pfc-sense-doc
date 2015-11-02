@@ -11,24 +11,26 @@ Ya que hemos conseguido monitorizar los sensores, el siguiente paso sería poder
 
 ## 5.5.1 Enviar configuración a los sensores
 
+Nuestra clase ```GenericBluetoothProfile``` de la que heredan todos nuestros perfiles GATT tiene varias carácterísticas, una es la de datos que usamos para recuperar los valores de los sensores, tiene una de configuración que es de lectura/escritura, donde podemos habilitar y deshabilitar el perfil, y una de periodo donde se puede escribir el valor de refresco del sensor que tiene asociado dicho perfil GATT. Para leer y escribir dichas características hemos implementado los métodos que vemos en Código 5.5.1 en ```BluetoothLeService```
+
+
 ```
-public void deConfigureService() {
-        int error = this.mBTLeService.setCharacteristicNotification(this.dataC, false);
-        if (error != 0) {
-            if (this.dataC != null)
-                printError("Sensor notification disable failed: ",this.dataC,error);
-        }
-        this.isConfigured = false;
-	}
-	public void enableService () {
-        int error = mBTLeService.writeCharacteristic(this.configC, (byte)0x01);
-        if (error != 0) {
-            if (this.configC != null)
-                printError("Sensor enable failed: ",this.configC,error);
-        }
-        //this.periodWasUpdated(1000);
-        this.isEnabled = true;
-	}
+public void enableService () {
+    int error = mBTLeService.writeCharacteristic(this.configCharacteristic, (byte)0x01);
+    if (error != 0) {
+        if (this.configCharacteristic != null)
+            printError("Sensor enable failed: ",this.configCharacteristic,error);
+    }
+    this.isEnabled = true;
+}
+
+public void disableService () {
+    int error = mBTLeService.writeCharacteristic(this.configCharacteristic, (byte)0x00);
+    if (error != 0) {
+        if (this.configCharacteristic != null)
+            printError("Sensor disable failed: ",this.configCharacteristic,error);
+    }
+    this.isConfigured = false;
 }
 ```
 ##### *Código 5.5.1: Activación/Desactivación de una característica GenericBluetoothProfile.java*
