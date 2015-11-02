@@ -40,7 +40,7 @@ Ya teniendo configurada la plataforma con los widgets que nosotros queremos most
 ![](./imagenes/diagrama_ducksboard_controller.jpg)
 ##### *Figura 5.6.1: Diagrama de diseño de DucksboardController*
 
-Para hacer push de los valores, hemos creado un método llamado ```pushDashboardRequest()``` en el que se hace la petición de envío de valores haciendo uso de la API que nos proporciona Ducksboard. La implementación de este método se aprecia en el Código 5.6.2. Como se puede apreciar, se han añadido parámetros de intervalos configurables para hacer push a cada widget para evitar hacer un abuso de la plataforma.
+Para hacer push de los valores, hemos creado un método llamado ```pushDashboardRequest()``` en el que se hace la petición de envío de valores haciendo uso de la API que nos proporciona Ducksboard. La implementación de este método se aprecia en el Código 5.6.2. 
 
 ```java
 private long pushDashboardRequest(final String widgetID, final String 
@@ -81,3 +81,7 @@ private long pushDashboardRequest(final String widgetID, final String
 }
 ```
 ##### *Código 5.6.2: Push de valores a widgets en DucksboardController.java*
+
+
+Para cada valor recuparado de los servicios GATT se intentará hacer un push al dashboard. Aunque, como se puede apreciar en el código 5.6.2, se han añadido parámetros de intervalos configurables para hacer push a cada widget para evitar hacer un abuso de la plataforma. Un ejemplo de envío push al panel para el valor de temperatura se puede observar en el Código 5.6.3.
+
