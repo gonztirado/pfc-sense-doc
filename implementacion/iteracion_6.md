@@ -4,8 +4,9 @@ Ya tenemos el dashboard de monitorización creado, pero este tiene un problema, 
 
 | Tarea | Descripción |
 | -- | -- |
-| 6.1 | Envio de datos de sensores desde aplicación móvil|
-| 6.2 | Consulta y filtrado de datos |
+| 6.1 | Envío de datos de sensores desde aplicación móvil|
+| 6.2 | Consulta y filtrado de datos|
+| 6.3 | Creación de copias de seguridad|
 ##### *Tabla 5.8.1: Tareas de la iteración 5* 
 
 ## 5.8.1. Creación de modelo de configuración de Ducksboard
