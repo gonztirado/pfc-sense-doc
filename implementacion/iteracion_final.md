@@ -9,4 +9,8 @@ Para rematar la aplicación se ha decidido añadir algunas funcionalidades que, 
 | F.3 | Incluir enlaces de interés|
 ##### *Tabla 5.9.1: Tareas de la iteración final * 
 
-## 5.9.1. Envío de datos de sensores desde aplicación móvil
+## 5.9.1. Incluir ayuda en la aplicación
+
+## 5.9.2. Añadir menú de configuración
+
+## 5.9.3. Incluir enlaces de interés
