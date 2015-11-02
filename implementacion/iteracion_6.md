@@ -13,7 +13,20 @@ Para el envío de datos haremos uso de la plataforma web de Parse. Como ya confi
 
 Cómo ya tenemos el SDK de Parse totalmente configurado, para guardar los datos de los sensores sólo hará falta registrar en ParseController las subclases que queremos utilizar como se puede observar en el Código 5.8.1. Además, todas estas clases las haremos que hereden de ```ParseObject``` para que la aplicación funcione correctamente.
 
-
+```java
+private void registerSubclasses() {
+    ParseObject.registerSubclass(DeviceInfo.class);
+    ParseObject.registerSubclass(SensorInfo.class);
+    ParseObject.registerSubclass(SensorData.class);
+    ParseObject.registerSubclass(TemperatureData.class);
+    ParseObject.registerSubclass(TemperatureIRData.class);
+    ParseObject.registerSubclass(BarometerData.class);
+    ParseObject.registerSubclass(HumidityData.class);
+    ParseObject.registerSubclass(LuxometerData.class);
+    ParseObject.registerSubclass(DucksboardSettings.class);
+}
+```
+##### *Código 5.8.1: Registros de clases del modelo en ParseController.java*
 
 
 
