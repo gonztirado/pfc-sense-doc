@@ -32,3 +32,6 @@ Posteriormente, sólo hará falta ir añadiendo columnas a la tabla con el nombr
 
 ![](./imagenes/parse_ducksboard_settings_column.jpg)
 ##### *Figura 5.7.3: Creación en columnas de la clase DucksboardSettings*
+
+
+## 5.7.3. Configuración de dashboards personalizados para un supervisor
