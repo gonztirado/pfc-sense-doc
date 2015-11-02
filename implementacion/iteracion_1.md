@@ -126,9 +126,6 @@ Debido a que el escaneo de dispositivos es un procedimiento que drena bastante l
 El Código 5.3.5 muestra como arrancar y parar el proceso de escaneo:
 
 ```java
-/**
- * Activity for scanning and displaying available BLE devices.
- */
 public class DeviceScanActivity extends ListActivity {
 
     private BluetoothAdapter mBluetoothAdapter;
