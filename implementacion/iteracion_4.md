@@ -7,3 +7,9 @@ Como ya comentamos en la elección de herramientas del Capítulo 3, vamos a util
 | 4.1 | Configuración de gráficas en Ducksboard |
 | 4.2 | Envío de datos al dashboard |
 ##### *Tabla 5.6.1: Tareas de la iteración 4* 
+
+
+## 5.6.1. Configuración de gráficas en Ducksboard
+
+Para ceñirnos al análisis que del diseño del panel de monitorización web que definimos en el Capítulo 4
+
