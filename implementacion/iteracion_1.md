@@ -65,7 +65,7 @@ Por ultimo nos quedaría configurar un repositorio Git para nuestro control de v
 ### Configuración de permisos
 Según la documentación de Android, para utilizar las funcionalidad de Bluetooth LE es necesario declarar en nuestro archivo *manifest* una serie de permisos y *features*, lo mostramos en el Código 5.3.1 que vemos a continuación:
 
-```
+```xml
 <uses-permission android:name="android.permission.BLUETOOTH"/>
 <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
 
@@ -79,7 +79,7 @@ Estos permisos nos permitirán interaccionar con dispositivos Bluetooth y poder 
 ### Configuración en controlador de la aplicación
 El siguiente paso será añadir en nuestra *Activity* principal un manejador que consulte si nuestro terminal dispone de conectividad Bluetooth LE y en caso contrario se salga de la aplicación. Para ello añadiremos las lineas que vemos en Código 5.3.2.
 
-```
+```java
 // Use this check to determine whether BLE is supported on the device. Then
 // you can selectively disable BLE-related features.
 if (!getPackageManager().hasSystemFeature(PackageManager.FEATURE_BLUETOOTH_LE)) {
@@ -92,7 +92,7 @@ if (!getPackageManager().hasSystemFeature(PackageManager.FEATURE_BLUETOOTH_LE)) 
 Una vez que nos hemos cerciorado de que nuestro teléfono tiene conectividad Bluetooth LE añadiremos otra porción de código que se encargue de activar el Bluetooth por nosotros si este estaba deshabilitado, para ello haremos uso de la clase ```BluetoothAdapter``` de la API de Android. El proceso se hace en dos pasos:
 
 1. Recuperar el ```BluetoothAdapter```
-```
+```java
 // Initializes Bluetooth adapter.
 final BluetoothManager bluetoothManager =
         (BluetoothManager) getSystemService(Context.BLUETOOTH_SERVICE);
@@ -100,7 +100,7 @@ mBluetoothAdapter = bluetoothManager.getAdapter();
 ```
 ##### *Código 5.3.3: Recuperación de BluetoothAdapter en MainActivity.java*
 2. Habilitar la conectividad Bluetooth
-```
+```java
 private BluetoothAdapter mBluetoothAdapter;
 ...
 // Ensures Bluetooth is available on the device and it is enabled. If not,
@@ -125,10 +125,7 @@ Debido a que el escaneo de dispositivos es un procedimiento que drena bastante l
 
 El Código 5.3.5 muestra como arrancar y parar el proceso de escaneo:
 
-```
-/**
- * Activity for scanning and displaying available BLE devices.
- */
+```java
 public class DeviceScanActivity extends ListActivity {
 
     private BluetoothAdapter mBluetoothAdapter;
@@ -164,7 +161,7 @@ public class DeviceScanActivity extends ListActivity {
 
 Este método será el que se invoque cada vez que pulsemos a nuestro botón 'Escanear'. Ya sólo nos quedaría implementar el *callback* que añadirá los sensores a nuestra clase ```DeviceListAdapter``` que es la encargada de listar los sensores en la pantalla. El Código 5.3.6  indica que tendremos que añadir.
 
-```
+```java
 private DeviceListAdapter mDeviceAdapter;
 ...
 // Device scan callback.
