@@ -139,7 +139,40 @@ Para consultar los UUID de los servicios que nos interesan hemos consultado la d
 ![](./imagenes/gatt_commands_temperature.jpg)
 ##### *Figura 5.4.1: UUIDs de los servicios GATT de Temperatura*
 
-Para la gestión de los diferentes perfiles GATT crearemos una clase para controlar cada uno de ellos que heredarán de una cláse genérica con métodos comunes llamada ```GenericBluetoothProfile```. El diseño de esta clase y de los controladores de cada perfil puede observarse en la Figura 5.4.2. En cada controlador de perfil gestionaremos si el valor de la característica leida se debe tratar en dicho controlador y si es así, como recuperar y manejar cada valor. 
+Para la gestión de los diferentes perfiles GATT crearemos una clase para controlar cada uno de ellos que heredarán de una cláse genérica con métodos comunes llamada ```GenericBluetoothProfile```. El diseño de esta clase y de los controladores de cada perfil puede observarse en la Figura 5.4.2. En cada controlador de perfil gestionaremos si el valor de la característica leída se debe tratar en dicho controlador y si es así, como recuperar y manejar cada valor. 
 
 ![](./imagenes/diagrama_clase_gatt_profiles.jpg)
 ##### *Figura 5.4.2: Diagrama de clases para los controladores de perfiles GATT*
+
+En el siguiente trozo de código de ```SensorTagAmbientTemperatureProfile``` vemos como consultar que se trata del perfil correcto y cómo extraer el valor de su característica:
+
+```
+public static boolean isCorrectService(BluetoothGattService service) {
+	if ((service.getUuid().toString().compareTo(SensorTagGatt.UUID_IRT_SERV.toString())) == 0) {
+		return true;
+	} else {
+	    return false;
+	}    
+}
+
+@Override
+public void didUpdateValueForCharacteristic(BluetoothGattCharacteristic c) {
+    byte[] value = c.getValue();
+	if (c.equals(this.dataC)){
+		Point3D v = Sensor.IR_TEMPERATURE.convert(value);
+        double temperatureValue = v.x;
+
+		if (this.tRow.config == false) { 
+			if ((this.isEnabledByPrefs("imperial")) == true)      
+			    this.tRow.value.setText(String.format("%.1f'F", (temperatureValue * 1.8) + 32));
+			else 
+			    this.tRow.value.setText(String.format("%.1f'C", temperatureValue));
+		}
+		this.tRow.sl1.addValue((float)temperatureValue);
+
+        /* Añadimos valor de temperatura al controlador */
+		SensorDataController.getInstance().addTemperatureValue(temperatureValue);
+	}
+}
+```
+
