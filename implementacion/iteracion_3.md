@@ -59,7 +59,7 @@ public int writeCharacteristic(
 
 Ya teniendo implementados los métodos de lectura y escritura de las características de un perfil GATT, quedaría implementar los métodos de alto nivel en ```GenericBluetoothProfile``` para activar/desactivar notificación de los servicios como se ven en el Código 5.5.2.
 
-```
+```java
 public void enableService () {
     int error = mBTLeService.writeCharacteristic(this.configCharacteristic, (byte)0x01);
     if (error != 0) {
