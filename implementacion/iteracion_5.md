@@ -51,7 +51,7 @@ Para recuperar desde la aplicación móvil la configuración creada en Parse es 
 <uses-permission android:name="android.permission.INTERNET" />
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 ```
-##### *Código 5.7.1: Configuración de uso de Parse en AndroidManifest.xml*
+##### *Código 5.7.2: Dependencias del SDK de Parse en build.gradle*
 
 
 Además, crearmos un método ```initApp()``` en un nuevo controlador ```ParseController``` para inicializar ciertos parámetros necesarios para hacer uso del SDK de Parse 
