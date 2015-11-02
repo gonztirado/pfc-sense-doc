@@ -24,7 +24,6 @@ public int readCharacteristic(BluetoothGattCharacteristic characteristic) {
         while (!finished) {
             bleRequestStatus stat = pollForStatusofRequest(req);
             if (stat == bleRequestStatus.done) {
-                
                 return 0;
             } else if (stat == bleRequestStatus.timeout) {
                 return -3;
