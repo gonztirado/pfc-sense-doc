@@ -35,3 +35,9 @@ Posteriormente, sólo hará falta ir añadiendo columnas a la tabla con el nombr
 
 
 ## 5.7.2. Consulta de configuración en aplicación móvil
+
+
+
+
+
+## 5.7.3. Configuración de dashboards personalizados para un supervisor
