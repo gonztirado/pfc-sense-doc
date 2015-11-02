@@ -139,6 +139,7 @@ Para consultar los UUID de los servicios que nos interesan hemos consultado la d
 ![](./imagenes/gatt_commands_temperature.jpg)
 ##### *Figura 5.4.1: UUIDs de los servicios GATT de Temperatura*
 
+Crearemos un controlador para cada perfil para controlar lo
 
-
-
+![](./imagenes/gatt_commands_temperature.jpg)
+##### *Figura 5.4.1: UUIDs de los servicios GATT de Temperatura*
