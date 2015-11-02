@@ -15,21 +15,21 @@ Nuestra clase ```GenericBluetoothProfile``` de la que heredan todos nuestros per
 
 ```java
 public int readCharacteristic(BluetoothGattCharacteristic characteristic) {
-        bleRequest req = new bleRequest();
-        req.status = bleRequestStatus.not_queued;
-        req.characteristic = characteristic;
-        req.operation = bleRequestOperation.rdBlocking;
-        addRequestToQueue(req);
-        boolean finished = false;
-        while (!finished) {
-            bleRequestStatus stat = pollForStatusofRequest(req);
-            if (stat == bleRequestStatus.done) {
-                return 0;
-            } else if (stat == bleRequestStatus.timeout) {
-                return -3;
-            }
+    bleRequest req = new bleRequest();
+    req.status = bleRequestStatus.not_queued;
+    req.characteristic = characteristic;
+    req.operation = bleRequestOperation.rdBlocking;
+    addRequestToQueue(req);
+    boolean finished = false;
+    while (!finished) {
+        bleRequestStatus stat = pollForStatusofRequest(req);
+        if (stat == bleRequestStatus.done) {
+            return 0;
+        } else if (stat == bleRequestStatus.timeout) {
+            return -3;
         }
-        return -2;
+    }
+    return -2;
 }
 
 public int writeCharacteristic(
