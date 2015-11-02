@@ -23,6 +23,4 @@ Se ha incluido una pantalla de configuración accesible desde la pantalla de mon
 ![](./imagenes/captura_pantalla_configuracion.png)
 ##### *Figura 5.9.2: Pantalla de configuracion* 
 
-
-
 ## 5.9.3. Incluir enlaces de interés
