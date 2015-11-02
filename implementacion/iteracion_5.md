@@ -23,3 +23,5 @@ Por lo tanto, el diseño del modelo tendría la forma que se observa en la Figur
 ![](./imagenes/diagrama_clase_ducksboard_settings.jpg)
 ##### *Figura 5.7.1: Diagrama del modelo de DucksboardSettings*
 
+Este modelo tiene que tener su correspondencia en un entorno web configurable por el administrador. Para ello, haremos uso de la plataforma de Parse para su creación
+
