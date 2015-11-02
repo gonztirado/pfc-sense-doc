@@ -13,17 +13,18 @@ Ya conseguimos listar los sensores disponibles, el siguiente paso será conectar
 
 ## 5.4.1. Conectar con un sensor y recuperar sus perfiles GATT
 
-El primer paso en la interacción con un dispositivo BLE es conectarnos a él, aunque, más específicamente, conectarnos al servidor GATT de el dispositivo. Para ello tendremos que hacer uso del método ```connectGatt()```:
+El primer paso en la interacción con un dispositivo BLE es conectarnos a él, aunque, más específicamente, conectarnos al servidor GATT de el dispositivo. Para ello tendremos que hacer uso del método ```connectGatt()``` que vemos en Código 5.4.1.
 
-```
+```java
 mBluetoothGatt = device.connectGatt(this, false, mGattCallback);
 ```
+##### *Código 5.4.1: Implementación inicial de BluetoothLeService.java*
 
 Al conectarnos al servidor GATT nos devuelve una instancia de un objeto ```BluetoothGatt``` con el cual podremos hacer uso y conectarnos como cliente. El parámetro de tipo ```BluetoothGattCallback``` es usado para recuperar resultados por parte del cliente, como son el estado de la conexión así como más operaciones GATT de los clientes.
 
-Para hacer la implementación crearemos un ```Service``` llamado ```BluetoothLeService``` que interactuará con nuestra ```Activity```. El servicio tendrá la siguiente forma que se ve en Código 5.4.1.
+Para hacer la implementación crearemos un ```Service``` llamado ```BluetoothLeService``` que interactuará con nuestra ```Activity```. El servicio tendrá la siguiente forma que se ve en Código 5.4.2.
 
-```
+```java
 // A service that interacts with the BLE device via the Android BLE API.
 public class BluetoothLeService extends Service {
     private final static String TAG = BluetoothLeService.class.getSimpleName();
@@ -102,11 +103,11 @@ public class BluetoothLeService extends Service {
 ...
 }
 ```
-##### *Código 5.4.1: Implementación inicial de BluetoothLeService.java*
+##### *Código 5.4.2: Implementación inicial de BluetoothLeService.java*
 
-Cuando un determinado *callback* es accionado, este llama a su método apropiado ```broadcastUpdate()``` que lanza la acción que le determinemos. Por ejemplo, nosotros propagaremos las acciones de conexión y desconexión, cuando descubramos un nuevo servicio y cuando nos llegue el valor de una característica como vemos en el Código 5.4.2.
+Cuando un determinado *callback* es accionado, este llama a su método apropiado ```broadcastUpdate()``` que lanza la acción que le determinemos. Por ejemplo, nosotros propagaremos las acciones de conexión y desconexión, cuando descubramos un nuevo servicio y cuando nos llegue el valor de una característica como vemos en el Código 5.4.3.
 
-```
+```java
 private void broadcastUpdate(final String action, final String address,
     final int status) {
 	final Intent intent = new Intent(action);
@@ -124,7 +125,7 @@ private void broadcastUpdate(final String action,
 	sendBroadcast(intent);
 }
 ```
-##### *Código 5.4.2: Implementación de método broadcastUpdate() de BluetoothLeService.java*
+##### *Código 5.4.3: Implementación de método broadcastUpdate() de BluetoothLeService.java*
 
 ## 5.4.2. Filtrar los perfiles GATT que nos interesan y extraer sus valores
 
@@ -146,9 +147,9 @@ Para la gestión de los diferentes perfiles GATT crearemos una clase para contro
 ![](./imagenes/diagrama_clase_gatt_profiles.jpg)
 ##### *Figura 5.4.2: Diagrama de clases para los controladores de perfiles GATT*
 
-En el Código 5.4.3 del controlador  ```SensorTagAmbientTemperatureProfile``` vemos como consultar que se trata del perfil correcto y cómo extraer el valor de su característica:
+En el Código 5.4.4 del controlador  ```SensorTagAmbientTemperatureProfile``` vemos como consultar que se trata del perfil correcto y cómo extraer el valor de su característica:
 
-```
+```java
 public static boolean isCorrectService(BluetoothGattService service) {
 	if ((service.getUuid().toString().compareTo(SensorTagGatt.UUID_IRT_SERV.toString())) == 0) {
 		return true;
@@ -176,7 +177,7 @@ public void didUpdateValueForCharacteristic(BluetoothGattCharacteristic c) {
 	}
 }
 ```
-##### *Código 5.4.3: Actualización de temperatura en SensorTagAmbientTemperatureProfile.java*
+##### *Código 5.4.4: Actualización de temperatura en SensorTagAmbientTemperatureProfile.java*
 
 ## 5.4.3. Crear controlador para añadir los valores de los sensores
 

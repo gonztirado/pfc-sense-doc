@@ -13,7 +13,7 @@ Ya que hemos conseguido monitorizar los sensores, el siguiente paso sería poder
 
 Nuestra clase ```GenericBluetoothProfile``` de la que heredan todos nuestros perfiles GATT tiene varias carácterísticas, una es la de datos que usamos para recuperar los valores de los sensores, tiene una de configuración que es de lectura/escritura, donde podemos habilitar y deshabilitar el perfil, y una de periodo donde se puede escribir el valor de refresco del sensor que tiene asociado dicho perfil GATT. Para leer y escribir dichas características hemos implementado los métodos en ```BluetoothLeService``` que vemos en Código 5.5.1.
 
-```
+```java
 public int readCharacteristic(BluetoothGattCharacteristic characteristic) {
         bleRequest req = new bleRequest();
         req.status = bleRequestStatus.not_queued;
@@ -59,7 +59,7 @@ public int writeCharacteristic(
 
 Ya teniendo implementados los métodos de lectura y escritura de las características de un perfil GATT, quedaría implementar los métodos de alto nivel en ```GenericBluetoothProfile``` para activar/desactivar notificación de los servicios como se ven en el Código 5.5.2.
 
-```
+```java
 public void enableService () {
     int error = mBTLeService.writeCharacteristic(this.configCharacteristic, (byte)0x01);
     if (error != 0) {
@@ -86,7 +86,7 @@ public void disableService () {
 
 Cuando detectamos desde la UI que se cambian el periodo de los sensores invocamos a nuestro ```GenericBluetoothProfile```, que es la clase de la que heredan todos los controladores de los diferentes perfiles GATT, que a su vez llama a nuestro ```BluetoothLeService``` ya preparado con los métodos para habilitar/deshabilitar un determinado perfil GATT o cambiar su periodo. Como los umbrales que nos da el fabricantes de periodos de actualización varían entre los 100 ms y los 2450 ms, los usaremos como límites en nuestro slider de configuración. En el Código 5.5.3 se detallan los métodos implementados para invocar estas actualizaciones de configuración.
 
-```
+```java
 public void onOffWasUpdated(boolean on) {
 	Log.d("GenericBluetoothProfile","Config characteristic set to :" + on);
 	if (on) {
