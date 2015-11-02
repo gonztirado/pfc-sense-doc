@@ -17,7 +17,7 @@ Ya se introdujeron en el diseño inicial realizado en el Capítulo 4 unos menú 
 ##### *Figura 5.9.1: Pantallas de ayuda* 
 
 
-## 5.9.2. Añadir menú de configuración
+## 5.9.2. Añadir pantalla de configuración
 
 
 
