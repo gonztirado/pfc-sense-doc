@@ -177,3 +177,8 @@ public void didUpdateValueForCharacteristic(BluetoothGattCharacteristic c) {
 
 ## 5.4.3. Crear controlador para añadir los valores de los sensores
 
+Para la gestión interna de nuestros datos de sensores, sería conveniente controlar cierta información de los sensores con los que estamos conectados. Para ello implementaremos los modelos que ya analizamos en el Capítulo 4, por un lado implementaremos los modelos para guardar la información de nuestro smartphone y del sensor actual con el que estamos conectados, el diseño para las clases ```DeviceInfo``` y ```SensorInfo``` lo podemos apreciar en la Figura 5.4.3.
+
+![](./imagenes/diagrama_clase_deviceinfo_sensorinfo.jpg)
+##### *Figura 5.4.2: Diagrama de clases para el modelo de DeviceInfo y SensorInfo*
+
