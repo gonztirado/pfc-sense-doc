@@ -80,10 +80,11 @@ public void disableService () {
 ```
 ##### *Código 5.5.2: Activación/Desactivación de un servicios en GenericBluetoothProfile.java*
 
+
+
 ## 5.5.2 UI de configuración de sensores
 
-
-Cuando detectamos desde la UI que se cambian el periodo de los sensores invocamos a nuestro ```GenericBluetoothProfile```, que es la clase de la que heredan todos los controladores de los diferentes perfiles GATT, que a su vez llama a nuestro ```BluetoothLeService``` ya preparado con los métodos para habilitar/deshabilitar un determinado perfil GATT o cambiar su periodo. Como los umbrales que nos da el fabricantes de periodos de actualización varían entre los 100 ms y los 2450 ms, los usaremos como límites en nuestro slider de configuración. En el Código 5.5.2 se detallan los métodos implementados para invocar estas actualizaciones de configuración.
+Cuando detectamos desde la UI que se cambian el periodo de los sensores invocamos a nuestro ```GenericBluetoothProfile```, que es la clase de la que heredan todos los controladores de los diferentes perfiles GATT, que a su vez llama a nuestro ```BluetoothLeService``` ya preparado con los métodos para habilitar/deshabilitar un determinado perfil GATT o cambiar su periodo. Como los umbrales que nos da el fabricantes de periodos de actualización varían entre los 100 ms y los 2450 ms, los usaremos como límites en nuestro slider de configuración. En el Código 5.5.3 se detallan los métodos implementados para invocar estas actualizaciones de configuración.
 
 ```
 public void onOffWasUpdated(boolean on) {
@@ -116,4 +117,4 @@ public void periodWasUpdated(int period) {
 	this.tRow.periodLegend.setText("Periodo actualización (actualmente : " + period + "ms)");
 }
 ```
-##### *Código 5.5.2: Métodos de configuración de servicios GATT en GenericBluetoothProfile.java*
+##### *Código 5.5.3: Métodos de configuración de servicios GATT en GenericBluetoothProfile.java*
