@@ -30,7 +30,7 @@ private static final String DEFAULT_WIDGET_GRAPHIC_HUMIDITY = "730988";
 private static final String DEFAULT_WIDGET_GRAPHIC_BAROMETER = "730989";
 private static final String DEFAULT_WIDGET_GRAPHIC_LUXOMETER = "730990";
 ```
-##### *Figura 5.6.1: Identificadores de los widget por defecto en DucksboardController.java*
+##### *Código 5.6.1: Identificadores de los widget por defecto en DucksboardController.java*
 
 
 ## 5.6.2. Push de datos de sensores al dashboard
@@ -40,3 +40,44 @@ Ya teniendo configurada la plataforma con los widgets que nosotros queremos most
 ![](./imagenes/diagrama_ducksboard_controller.jpg)
 ##### *Figura 5.6.1: Diagrama de diseño de DucksboardController*
 
+Para hacer push de los valores, hemos creado un método llamado ```pushDashboardRequest()``` en el que se hace la petición de envío de valores haciendo uso de la API que nos proporciona Ducksboard. La implementación de este método se aprecia en el Código 5.6.2. Como se puede apreciar, se han añadido parametros de intervalos configurables para hacer push a cada widget para evitar hacer un abuso de la plataforma.
+
+```java
+private long pushDashboardRequest(final String widgetID, final String 
+        jsonRequest, long lastPushTimestamp, long pushInterval) {
+    long currentTime = System.currentTimeMillis();
+    long nextPutAllowed = lastPushTimestamp + pushInterval;
+
+    if ((currentTime >= nextPutAllowed) 
+            && (_settings != null) 
+            && (_settings.getApiKey() != null) 
+            && !_settings.getApiKey().isEmpty()) {
+            
+        final String apiKey = _settings.getApiKey();
+        Thread sendThread = new Thread(new Runnable() {
+            @Override
+            public void run() {
+                try {
+                    String url = API_PUSH_URL + widgetID;
+                    OkHttpClient httpClient = new OkHttpClient();
+                    RequestBody body = RequestBody.create(JSON, jsonRequest);
+                    Request request = new Request.Builder()
+                            .url(url)
+                            .post(body)
+                            .header("Authorization", "Basic " + apiKey)
+                            .build();
+
+                    httpClient.newCall(request).execute();
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+            }
+        });
+        sendThread.start();
+        return currentTime;
+    } else {
+        return lastPushTimestamp;
+    }
+}
+```
+##### *Código 5.6.2: Push de valores a widgets en DucksboardController.java*
