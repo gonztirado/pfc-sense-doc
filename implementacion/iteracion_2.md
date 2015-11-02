@@ -180,5 +180,10 @@ public void didUpdateValueForCharacteristic(BluetoothGattCharacteristic c) {
 Para la gestión interna de nuestros datos de sensores, sería conveniente controlar cierta información de los sensores con los que estamos conectados. Para ello implementaremos los modelos que ya analizamos en el Capítulo 4, por un lado implementaremos los modelos para guardar la información de nuestro smartphone y del sensor actual con el que estamos conectados, el diseño para las clases ```DeviceInfo``` y ```SensorInfo``` lo podemos apreciar en la Figura 5.4.3.
 
 ![](./imagenes/diagrama_clase_deviceinfo_sensorinfo.jpg)
-##### *Figura 5.4.2: Diagrama de clases para el modelo de DeviceInfo y SensorInfo*
+##### *Figura 5.4.3: Diagrama de clases para el modelo de DeviceInfo y SensorInfo*
+
+Además, nos hará falta los modelos para los valores de los diferentes sensores vayan recuperando, para ello implementaremos la clase SensorData genérica de la que heredaran los datos de los diferentes servicios GATT a los que nos conectaremos. El diseño de dichos modelos los podemos observar en la Figura 5.4.4.
+
+![](./imagenes/diagrama_clase_deviceinfo_sensorinfo.jpg)
+##### *Figura 5.4.4: Diagrama de clases para el modelo de DeviceInfo y SensorInfo*
 
