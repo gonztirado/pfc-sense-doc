@@ -55,7 +55,7 @@ public int writeCharacteristic(
     return -2;
 }
 ```
-##### *Código 5.5.1: Lectura/Escritura de una característica BluetoothLeService.java*
+##### *Código 5.5.1: Lectura/Escritura de una característica en BluetoothLeService.java*
 
 ```
 public void enableService () {
