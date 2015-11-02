@@ -4,6 +4,6 @@ Ya tenemos el dashboard de monitorización creado, pero este tiene un problema, 
 
 | Tarea | Descripción |
 | -- | -- |
-| 4.1 | Configuración de gráficas en Ducksboard |
-| 4.2 | Push de datos de sensores al dashboard |
+| 5.1 | Creación de modelo de configuración de Ducksboard |
+| 5.2 | Configuración de proyecto en Parse.com |
 ##### *Tabla 5.6.1: Tareas de la iteración 4* 
