@@ -30,3 +30,4 @@ private static final String DEFAULT_WIDGET_GRAPHIC_HUMIDITY = "730988";
 private static final String DEFAULT_WIDGET_GRAPHIC_BAROMETER = "730989";
 private static final String DEFAULT_WIDGET_GRAPHIC_LUXOMETER = "730990";
 ```
+##### *Figura 5.6.1: Identificadores de los widget por defecto en DucksboardController.java*
