@@ -67,7 +67,7 @@ public void initApp(Context context) {
 }
 
 private void registerSubclasses() {
-    ParseObject.registerSubclass(DeviceInfo.class);
+    ParseObject.registerSubclass(DucksboardSettings.class);
 }
 ```
 ##### *Código 5.7.2: Iniciación de aplicación para el uso de Parse en ParseController.java*
