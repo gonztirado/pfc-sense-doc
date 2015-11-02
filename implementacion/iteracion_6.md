@@ -53,9 +53,8 @@ private void addSensorValue(SensorData sensorData, double value) {
 
 Una vez realizado el envío de datos desde la aplicación móvil, la consulta de los mismos en la plataforma de Parse resulta muy sencilla, basta con acceder a la sección *Data* y seleccionar la clase que queremos visualizar. Una vez ahí podemos filtrar los datos por los campos que deseemos tal y como se muestra en la Figura 5.8.1.
 
-
-
-
+![](./imagenes/parse_consulta_datos.jpg)
+##### *Figura 5.8.1: Consulta de datos en Parse.com*
 
 
 
