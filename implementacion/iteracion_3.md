@@ -118,3 +118,5 @@ public void periodWasUpdated(int period) {
 }
 ```
 ##### *Código 5.5.3: Métodos de configuración de servicios GATT en GenericBluetoothProfile.java*
+
+
