@@ -187,3 +187,6 @@ Además, nos hará falta los modelos para los valores de los diferentes sensores
 ![](./imagenes/diagrama_clase_sensordata.jpg)
 ##### *Figura 5.4.4: Diagrama de clases para los valores SensorData*
 
+Una vez implementados los módelos, el siguiente paso será implementar el controlador con el cual gestionemos el uso de los diferentes datos en la aplicación. Crearemos por tanto la clase SensorDataController que  podemos observar en la Figura 5.4.5. Por ahora nos servirá para consultar los valores actuales, pero más adelante será la que modifiquemos para persistir los valores, almacenarlos en servidor y comunicarnos con nuestro dashboard de monitorización remota.  
+![](./imagenes/diagrama_sensordata_controller.jpg)
+##### *Figura 5.4.4: Diagrama del controlador SensorDataController*
