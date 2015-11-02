@@ -199,12 +199,12 @@ Para la visualización de los datos de temperatura, la humedad relativa, la pres
 Para la conexión y recuperación de los diferentes perfiles GATT activos en la aplicación mostraremos un dialogo con el progreso en la recuperación de los mismos como se aprecia en la Figura 5.4.6.
 
 ![](./imagenes/captura_recuperacion_caracteristicas.png)
-##### *Figura 5.4.5: Recuperación de características del sensor*
+##### *Figura 5.4.6: Recuperación de características del sensor*
 
-Finalmente, en la Figura 5.4.6 podemos observar la diferencia de entre el diseño inicial de la interfaz de monitorización de temperaturas y como realmente se ha implementado.
+Finalmente, en la Figura 5.4.7 podemos observar la diferencia de entre el diseño inicial de la interfaz de monitorización de temperaturas y como realmente se ha implementado.
 
 ![](./imagenes/mockup_vs_sensores_real.jpg)
-##### *Figura 5.4.6: Comparación diseño del monitorizado con UI final*
+##### *Figura 5.4.7: Comparación diseño del monitorizado con UI final*
 
 
 
