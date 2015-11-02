@@ -21,7 +21,7 @@ mBluetoothGatt = device.connectGatt(this, false, mGattCallback);
 
 Al conectarnos al servidor GATT nos devuelve una instancia de un objeto ```BluetoothGatt``` con el cual podremos hacer uso y conectarnos como cliente. El parámetro de tipo ```BluetoothGattCallback``` es usado para recuperar resultados por parte del cliente, como son el estado de la conexión así como más operaciones GATT de los clientes.
 
-Para hacer la implementación crearemos un ```Service``` llamado ```BluetoothLeService``` que interactuará con nuestra ```Activity```. El servicio tendrá la siguiente forma:
+Para hacer la implementación crearemos un ```Service``` llamado ```BluetoothLeService``` que interactuará con nuestra ```Activity```. El servicio tendrá la siguiente forma que se ve en Código 5.4.1.
 
 ```
 // A service that interacts with the BLE device via the Android BLE API.
@@ -102,8 +102,9 @@ public class BluetoothLeService extends Service {
 ...
 }
 ```
+##### *Código 5.4.1: Implementación inicial de BluetoothLeService.java*
 
-Cuando un determinado *callback* es accionado, este llama a su método apropiado ```broadcastUpdate()``` que lanza la acción que le determinemos. Por ejemplo, nosotros propagaremos las acciones de conexión y desconexión, cuando descubramos un nuevo servicio y cuando nos llegue el valor de una característica:
+Cuando un determinado *callback* es accionado, este llama a su método apropiado ```broadcastUpdate()``` que lanza la acción que le determinemos. Por ejemplo, nosotros propagaremos las acciones de conexión y desconexión, cuando descubramos un nuevo servicio y cuando nos llegue el valor de una característica como vemos en el Código 5.4.2.
 
 ```
 private void broadcastUpdate(final String action, final String address,
@@ -123,6 +124,7 @@ private void broadcastUpdate(final String action,
 	sendBroadcast(intent);
 }
 ```
+##### *Código 5.4.2: Implementación de método broadcastUpdate() de BluetoothLeService.java*
 
 ## 5.4.2. Filtrar los perfiles GATT que nos interesan y extraer sus valores
 
@@ -144,7 +146,7 @@ Para la gestión de los diferentes perfiles GATT crearemos una clase para contro
 ![](./imagenes/diagrama_clase_gatt_profiles.jpg)
 ##### *Figura 5.4.2: Diagrama de clases para los controladores de perfiles GATT*
 
-En el siguiente trozo de código del controlador  ```SensorTagAmbientTemperatureProfile``` vemos como consultar que se trata del perfil correcto y cómo extraer el valor de su característica:
+En el Código 5.4.3 del controlador  ```SensorTagAmbientTemperatureProfile``` vemos como consultar que se trata del perfil correcto y cómo extraer el valor de su característica:
 
 ```
 public static boolean isCorrectService(BluetoothGattService service) {
@@ -174,6 +176,7 @@ public void didUpdateValueForCharacteristic(BluetoothGattCharacteristic c) {
 	}
 }
 ```
+##### *Código 5.4.3: Actualización de temperatura en SensorTagAmbientTemperatureProfile.java*
 
 ## 5.4.3. Crear controlador para añadir los valores de los sensores
 
