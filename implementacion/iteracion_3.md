@@ -43,6 +43,7 @@ public int setCharacteristicNotification(
     return -2;
 }
 ```
+##### *Código 5.5.1: Activación/Desactivación de una característica BluetoothLeService.java*
 
 ## 5.5.2 UI de configuración de sensores
 
