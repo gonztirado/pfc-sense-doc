@@ -13,6 +13,7 @@ Como ya comentamos en la elección de herramientas del Capítulo 3, vamos a util
 
 Para ceñirnos al análisis que del diseño del panel de monitorización web que definimos en el Capítulo 4, crearemos una gráfica con los valores actuales por cada perfil GATT de los sensores y una gráfica de lineas para ir almacenando los valores históricos de los diferentes sensores. El resultado del panel creado se puede observar en la Figura 5.6.1.
 
+![](./imagenes/ducksboard_empty.jpg)
+##### *Figura 5.6.1: Diseño de panel en Ducksboard*
 
-
-
+Cada una de estas gráficas tiene asociado un widgetID para hacer push a las mismas, lo que haremos será guardar estos identificadores en nuestro código y asignar un widgetID por defecto a los valores de cada perfil GATT como vemos en Código 5.6.1.
