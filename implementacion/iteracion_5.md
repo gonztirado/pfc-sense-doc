@@ -99,3 +99,8 @@ public void initDuckboardSettings(final SensorInfo sensorInfo) {
 Como se puede observar en el Código 5.7.4, haciendo uso del SDK de Parse, la consulta y guardado de parámetros de objetos es muy sencilla de usar. Provee métodos asíncronos tanto para la recuperación de datos como para su persistencia en la plataforma web.
 
 ## 5.7.3. Configuración de dashboards personalizados para un supervisor
+
+Una vez ya construido el entorno necesario tanto en Parse como en la aplicación móvil, generar la configuración para añadir un nuevo panel dahsboard personalizado para las necesidades de un supervisor en particular es muy sencillo. Bastará con ir a Ducksboard, crear un nuevo panel y añadir los widgets que el supervisor necesite, luego iremos a Parse y editaremos las tuplas de los sensores relacionados asociandoles los widgetID oportunos. Además podremos cambiar desde dicha tupla el intervalo de monitorización de los widgets asociados, según sean las necesidades del supervisor. En la Figura 5.7.4 vemos un ejemplo de un panel de monitorización de un invernadero, pero podría configurarse para infinidad de usos, tantos como necesidades indiquen los supervisores que van a utilizar la aplicación.
+
+
+
