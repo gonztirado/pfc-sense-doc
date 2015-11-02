@@ -193,3 +193,10 @@ Una vez implementados los módelos, el siguiente paso será implementar el contr
 
 
 ## 5.4.4. UI que muestre los valores actuales y las gráficas
+
+Para la visualización de los datos de temperatura, la humedad relativa, la presión atmosférica y la luminosidad ambiental nos fijaremos en el diseño que analizamos en el Capítulo 4. Este nos servirá de referencia para la creación de la interfaz de usuario.
+
+Para la conexión y recuperación de los diferentes perfiles GATT activos en la aplicación mostraremos un dialogo con el progreso en la recuperación de los mismos como se aprecia en la Figura 5.4.6.
+
+![](./imagenes/captura_recuperacion_caracteristicas.png)
+##### *Figura 5.4.5: Diagrama del controlador SensorDataController*
