@@ -149,7 +149,7 @@ Para la gestión de los diferentes perfiles GATT crearemos una clase para contro
 
 En el Código 5.4.4 del controlador  ```SensorTagAmbientTemperatureProfile``` vemos como consultar que se trata del perfil correcto y cómo extraer el valor de su característica:
 
-```
+```java
 public static boolean isCorrectService(BluetoothGattService service) {
 	if ((service.getUuid().toString().compareTo(SensorTagGatt.UUID_IRT_SERV.toString())) == 0) {
 		return true;
