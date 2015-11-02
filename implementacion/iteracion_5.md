@@ -47,7 +47,7 @@ Para recuperar desde la aplicación móvil la configuración creada en Parse es 
 ```
 ##### *Código 5.7.1: Configuración de uso de Parse en AndroidManifest.xml*
 
-```json
+```javascript
 dependencies {
     compile 'com.parse.bolts:bolts-android:1.+'
     compile 'com.parse:parse-android:1.+'
