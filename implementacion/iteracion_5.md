@@ -78,17 +78,9 @@ Además, crearemos un método ```initApp()``` en un nuevo controlador ```ParseCo
      */
     private void registerSubclasses() {
         ParseObject.registerSubclass(DeviceInfo.class);
-        ParseObject.registerSubclass(SensorInfo.class);
-        ParseObject.registerSubclass(SensorData.class);
-        ParseObject.registerSubclass(TemperatureData.class);
-        ParseObject.registerSubclass(TemperatureIRData.class);
-        ParseObject.registerSubclass(BarometerData.class);
-        ParseObject.registerSubclass(HumidityData.class);
-        ParseObject.registerSubclass(LuxometerData.class);
-        ParseObject.registerSubclass(DucksboardSettings.class);
     }
 ```
-##### *Código 5.7.2: Dependencias del SDK de Parse en build.gradle*
+##### *Código 5.7.2: Iniciación de aplicación para el uso de Parse en ParseController.java*
 
 
 ## 5.7.3. Configuración de dashboards personalizados para un supervisor
