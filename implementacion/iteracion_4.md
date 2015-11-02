@@ -1,6 +1,6 @@
 # 5.6. Iteración 4: Monitorización remota de los valores de los sensores
 
-Cómo ya comentamos en la elección de herramientas del Capítulo 3
+Como ya comentamos en la elección de herramientas del Capítulo 3, vamos a utilizar la plataforma web Ducksboard para la monitorización web de los datos de los sensores de temperatura. 
 
 | Tarea | Descripción |
 | -- | -- |
