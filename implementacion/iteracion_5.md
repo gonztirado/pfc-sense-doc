@@ -21,5 +21,5 @@ El modelo que necesitamos crear para la configuración del panel para que sea to
 Por lo tanto, el diseño del modelo tendría la forma que se observa en la Figura 5.7.1.
 
 ![](./imagenes/diagrama_clase_ducksboard_settings.jpg)
-##### *Figura 5.7.1: Diagrama del modelo de DucksboardSettings *
+##### *Figura 5.7.1: Diagrama del modelo de DucksboardSettings*
 
