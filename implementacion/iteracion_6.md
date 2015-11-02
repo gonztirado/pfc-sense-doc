@@ -54,7 +54,7 @@ private void addSensorValue(SensorData sensorData, double value) {
 Una vez realizado el envío de datos desde la aplicación móvil, la consulta de los mismos en la plataforma de Parse resulta muy sencilla, basta con acceder a la sección *Data* y seleccionar la clase que queremos visualizar. Una vez ahí podemos filtrar los datos por los campos que deseemos tal y como se muestra en la Figura 5.8.1.
 
 ![](./imagenes/parse_consulta_datos.jpg)
-##### *Figura 5.8.1: Consulta de datos en Parse.com*
+##### *Figura 5.8.1: Consulta de datos en Parse*
 
 
 ## 5.8.3. Creación de copias de seguridad
@@ -64,7 +64,7 @@ Realizar copias de seguridad resulta igual de sencillo, basta con aplicar el fil
 Igualmente, el proceso de importar una copia de seguridad resulta sumamente fácil. Sólo será necesario seleccionar la opción *Import* y cargar el archivo JSON previamente guardado como puede observarse en la Figura 5.8.2.
 
 ![](./imagenes/parse_importar_datos.jpg)
-##### *Figura 5.8.1: Importación de datos en Parse.com*
+##### *Figura 5.8.1: Importación de datos en Parse*
 
 
 
