@@ -56,15 +56,9 @@ dependencies {
 ##### *Código 5.7.2: Dependencias del SDK de Parse en build.gradle*
 
 
-Además, crearemos un método ```initApp()``` en un nuevo controlador ```ParseController``` para iniciar ciertos parámetros necesarios para hacer uso del SDK de Parse como son la API key y el registro de subclases de Parse como muestra el Código 5.7.3.
+Además, crearemos un método ```initApp()``` en un nuevo controlador ```ParseController``` para iniciar ciertos parámetros necesarios para hacer uso del SDK de Parse como son la API key y el registro de subclases de Parse como muestra el Código 5.7.3. Conforme se vayan agregando clases al modelo será necesario añadirlas en el método ```registerSubclasses()```.
 
 ```java
-/**
- * Inicializa la aplicación para que funcione Parse.
- * Este método debe ser invocado en nuestra clase Application en el método 'onCreate()'
- *
- * @param context contexto de la aplicación
- */
 public void initApp(Context context) {
     registerSubclasses();
     Parse.enableLocalDatastore(context);
@@ -72,10 +66,6 @@ public void initApp(Context context) {
     configureACL();
 }
 
-/**
- * Registra las subclases de parse que vamos a utilizar en la aplicación.
- * Conforme se vayan agregando clases al modelo será necesario añadirlas en este método
- */
 private void registerSubclasses() {
     ParseObject.registerSubclass(DeviceInfo.class);
 }
