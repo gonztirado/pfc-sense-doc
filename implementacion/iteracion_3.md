@@ -11,7 +11,38 @@ Ya que hemos conseguido monitorizar los sensores, el siguiente paso sería poder
 
 ## 5.5.1 Enviar configuración a los sensores
 
-
+```
+/**
+ * Enables or disables notification on a give characteristic.
+ * 
+ * @param characteristic
+ *          Characteristic to act on.
+ * @param enabled
+ *          If true, enable notification. False otherwise.
+ */
+public int setCharacteristicNotification(
+    BluetoothGattCharacteristic characteristic, boolean enable) {
+    bleRequest req = new bleRequest();
+    req.status = bleRequestStatus.not_queued;
+    req.characteristic = characteristic;
+    req.operation = bleRequestOperation.nsBlocking;
+    req.notifyenable = enable;
+    addRequestToQueue(req);
+    boolean finished = false;
+    while (!finished) {
+        bleRequestStatus stat = pollForStatusofRequest(req);
+        if (stat == bleRequestStatus.done) {
+            finished = true;
+            return 0;
+        }
+        else if (stat == bleRequestStatus.timeout) {
+            finished = true;
+            return -3;
+        }
+    }
+    return -2;
+}
+```
 
 ## 5.5.2 UI de configuración de sensores
 
