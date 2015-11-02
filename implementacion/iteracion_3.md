@@ -110,7 +110,6 @@ public void periodWasUpdated(int period) {
         if (this.periodC != null)
             printError("Sensor period failed: ", this.periodCharacteristic, error);
     }
-    
 	this.tRow.periodLegend.setText("Periodo actualización (actualmente : " + period + "ms)");
 }
 ```
