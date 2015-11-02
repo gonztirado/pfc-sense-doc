@@ -57,6 +57,8 @@ public int writeCharacteristic(
 ```
 ##### *Código 5.5.1: Lectura/Escritura de una característica en BluetoothLeService.java*
 
+Ya teniendo implementados los métodos de lectura y escritura de las características de un perfil GATT, quedaría implementar los métodos de alto nivel en ```GenericBluetoothProfile``` 
+
 ```
 public void enableService () {
     int error = mBTLeService.writeCharacteristic(this.configCharacteristic, (byte)0x01);
@@ -76,7 +78,7 @@ public void disableService () {
     this.isConfigured = false;
 }
 ```
-##### *Código 5.5.1: Activación/Desactivación de un perfil GATT en GenericBluetoothProfile.java*
+##### *Código 5.5.2: Activación/Desactivación de un perfil GATT en GenericBluetoothProfile.java*
 
 ## 5.5.2 UI de configuración de sensores
 
