@@ -1,9 +1,13 @@
 # 5.5. Iteración 3: Configurar sensores
 
-Ya conseguimos listar los sensores disponibles, el siguiente paso será conectarnos con uno de ellos, recuperar sus perfiles GATT, filtrar los que no son necesarios para monitorizar la temperatura y crear una interfaz atractiva que muestre los valores actuales y una gráfica con las últimas temperaturas enviadas para poder visualizar de un vistazo si han ocurrido cambios en la misma. El desglose de las tareas que vamos a realizar podemos observarla en la Tabla 5.4.1.
+Ya que hemos conseguido monitorizar los sensores, el siguiente paso sería poder configurarlos convenientemente, los sensores disponen de servicios para habilitar/deshabilitar un sensor en particular además de para configurar el periodo en el que se consultan los valores de los mismos. El poder configurar convenientemente estos sensores nos ayudará a ahorrar batería de los mismos para sólo hacer la consulta de aquellos que necesitemos y con la frecuencia que necesitemos. El desglose de las tareas para esta iteración se puede observar en la Tabla 5.5.1.
 
 | Tarea | Descripción |
 | -- | -- |
 | 3.1 | Enviar configuración a los sensores |
 | 3.2 | UI de configuración de sensores |
 ##### *Tabla 5.5.1: Tareas de la iteración 3* 
+
+
+## 5.5.1 Enviar configuración a los sensores
+
