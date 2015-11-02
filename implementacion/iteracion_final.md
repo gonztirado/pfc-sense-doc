@@ -11,7 +11,8 @@ Para rematar la aplicación se ha decidido añadir algunas funcionalidades que, 
 
 ## 5.9.1. Incluir ayuda en la aplicación
 
-
+![](./imagenes/captura_pantallas_ayuda.png)
+##### *Figura 5.9.1: Pantallas de ayuda* 
 
 
 ## 5.9.2. Añadir menú de configuración
