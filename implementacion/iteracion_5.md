@@ -105,5 +105,7 @@ Una vez ya construido el entorno necesario tanto en Parse como en la aplicación
 ![](./imagenes/ducksboard_invernadero.jpg)
 ##### *Figura 5.7.: Ejemplo de dashboard para control de un invernadero *
 
+Los *dashboards* también pueden ser exportables mediante la creación de una url pública sin tener que hacer uso de password y usuario para entrar en el entorno de Ducksboard. Además la plataforma también permite exportar los widgets de forma individual como *iframes* y así incluirlos en cualquier página html si fuera necesario.
+
 
 
