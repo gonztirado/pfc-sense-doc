@@ -70,6 +70,12 @@ private void registerSubclasses() {
     ParseObject.registerSubclass(DucksboardSettings.class);
 }
 ```
+##### *Código 5.7.3: Inicio de applicación para uso de Parse en ParseController.java*
+
+Una vez configurado la aplicación para hacer uso de Parse ya podemos consultar cual es la configuración para nuestro sensor activo. Para ello agregaremos un método en ```DucksboardController``` tal y como podemos ver en Código 5.7.4 para recuperar e iniciar los parámetros de Ducksboard asociados a este sensor.
+
+
+
 ##### *Código 5.7.2: Iniciación de aplicación para el uso de Parse en ParseController.java*
 
 
