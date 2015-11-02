@@ -5,5 +5,6 @@ Ya tenemos el dashboard de monitorización creado, pero este tiene un problema, 
 | Tarea | Descripción |
 | -- | -- |
 | 5.1 | Creación de modelo de configuración de Ducksboard |
-| 5.2 | Configuración de proyecto en Parse.com |
+| 5.2 | Configuración de modelo en Parse.com |
+
 ##### *Tabla 5.6.1: Tareas de la iteración 4* 
