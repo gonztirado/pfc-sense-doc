@@ -49,4 +49,4 @@ public void periodWasUpdated(int period) {
 	this.tRow.periodLegend.setText("Periodo actualización (actualmente : " + period + "ms)");
 }
 ```
-##### Código 5.5.2: Métodos de configuración de servicios GATT en GenericBluetoothProfile.java
+##### *Código 5.5.2: Métodos de configuración de servicios GATT en GenericBluetoothProfile.java*
