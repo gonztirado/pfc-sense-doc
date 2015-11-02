@@ -170,7 +170,6 @@ public void didUpdateValueForCharacteristic(BluetoothGattCharacteristic c) {
 		}
 		this.tRow.sl1.addValue((float)temperatureValue);
 
-        /* Añadimos valor de temperatura al controlador */
 		SensorDataController.getInstance().addTemperatureValue(temperatureValue);
 	}
 }
