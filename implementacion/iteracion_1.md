@@ -110,7 +110,7 @@ if (mBluetoothAdapter == null || !mBluetoothAdapter.isEnabled()) {
     startActivityForResult(enableBtIntent, REQUEST_ENABLE_BT);
 }
 ```
-##### *Código 5.3.4: Recuperación de BluetoothAdapter en MainActivity.java*
+##### *Código 5.3.4: Activación de Bluetooth en MainActivity.java*
 
 
 ## 5.3.4. Crear controlador para detectar dispositivos Bluetooth disponibles
