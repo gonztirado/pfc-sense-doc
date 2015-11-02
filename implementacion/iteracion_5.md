@@ -70,13 +70,32 @@ private void registerSubclasses() {
     ParseObject.registerSubclass(DucksboardSettings.class);
 }
 ```
-##### *Código 5.7.3: Inicio de applicación para uso de Parse en ParseController.java*
+##### *Código 5.7.3: Inicio de aplicación para el uso de Parse en ParseController.java*
 
-Una vez configurado la aplicación para hacer uso de Parse ya podemos consultar cual es la configuración para nuestro sensor activo. Para ello agregaremos un método en ```DucksboardController``` tal y como podemos ver en Código 5.7.4 para recuperar e iniciar los parámetros de Ducksboard asociados a este sensor.
+Una vez configurado la aplicación para hacer uso de Parse ya podemos consultar cual es la configuración para nuestro sensor activo. Para ello agregaremos un método en ```DucksboardController``` tal y como podemos ver en Código 5.7.4 para recuperar e iniciar los parámetros de Ducksboard asociados a este sensor. Si no tiene asociado ninguna configuración, le asignaremos la del panel por defecto y la guardaremos en servidor para que sea más fácil editarla por el administrador.
 
+```java
+public void initDuckboardSettings(final SensorInfo sensorInfo) {
+    ParseQuery<DucksboardSettings> query = ParseQuery.getQuery(DucksboardSettings.class);
+    query.whereEqualTo(DucksboardSettings.PROPERTY_SENSOR_ID, sensorInfo.getSensorId());
+    query.findInBackground(new FindCallback<DucksboardSettings>() {
+        @Override
+        public void done(List<DucksboardSettings> results, ParseException e) {
+            if (results != null && !results.isEmpty()) {
+                _settings = results.get(0);
+            } else {
+                _settings = new DucksboardSettings();
+                _settings.setSensorId(sensorInfo.getSensorId());
+                _settings.setSensorName(sensorInfo.getSensorName());
+                _settings.setDefaultValues();
+                _settings.saveInBackground();
+            }
+        }
+    });
+}
+```
+##### *Código 5.7.4: Inicio de applicación para uso de Parse en ParseController.java*
 
-
-##### *Código 5.7.2: Iniciación de aplicación para el uso de Parse en ParseController.java*
 
 
 ## 5.7.3. Configuración de dashboards personalizados para un supervisor
