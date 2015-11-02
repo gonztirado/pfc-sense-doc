@@ -57,7 +57,7 @@ public int writeCharacteristic(
 ```
 ##### *Código 5.5.1: Lectura/Escritura de una característica en BluetoothLeService.java*
 
-Ya teniendo implementados los métodos de lectura y escritura de las características de un perfil GATT, quedaría implementar los métodos de alto nivel en ```GenericBluetoothProfile``` para habilitar
+Ya teniendo implementados los métodos de lectura y escritura de las características de un perfil GATT, quedaría implementar los métodos de alto nivel en ```GenericBluetoothProfile``` para activar/desactivar notificación de los servicios
 
 ```
 public void enableService () {
@@ -107,10 +107,10 @@ public void periodWasUpdated(int period) {
 	byte p = (byte)((period / 10) + 10);
 	Log.d("GenericBluetoothProfile","Period characteristic set to :" + period);
    
-    int error = mBTLeService.writeCharacteristic(this.periodC, p);
+    int error = mBTLeService.writeCharacteristic(this.periodCharacteristic, p);
     if (error != 0) {
         if (this.periodC != null)
-            printError("Sensor period failed: ",this.periodC,error);
+            printError("Sensor period failed: ", this.periodCharacteristic, error);
     }
     
 	this.tRow.periodLegend.setText("Periodo actualización (actualmente : " + period + "ms)");
