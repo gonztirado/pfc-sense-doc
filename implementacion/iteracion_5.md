@@ -45,7 +45,7 @@ Para recuperar desde la aplicación móvil la configuración creada en Parse es 
 <uses-permission android:name="android.permission.INTERNET" />
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 ```
-
+##### *Código 5.7.1: Creación en columnas de la clase DucksboardSettings*
 
 
 
