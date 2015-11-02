@@ -9,4 +9,21 @@ Para el envío de datos haremos uso de la plataforma web de Parse. Cómo ya conf
 | 6.3 | Creación de copias de seguridad|
 ##### *Tabla 5.8.1: Tareas de la iteración 6* 
 
-## 5.8.1. Creación de modelo de configuración de Ducksboard
+## 5.8.1. Envío de datos de sensores desde aplicación móvil
+
+
+
+
+
+
+## 5.8.2. Consulta y filtrado de datos
+
+
+
+
+
+
+
+
+## 5.8.3. Creación de copias de seguridad
+
