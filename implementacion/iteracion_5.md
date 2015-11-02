@@ -47,9 +47,11 @@ Para recuperar desde la aplicación móvil la configuración creada en Parse es 
 ```
 ##### *Código 5.7.1: Configuración de uso de Parse en AndroidManifest.xml*
 
-```xml
-<uses-permission android:name="android.permission.INTERNET" />
-<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+```javascript
+dependencies {
+    compile 'com.parse.bolts:bolts-android:1.+'
+    compile 'com.parse:parse-android:1.+'
+}
 ```
 ##### *Código 5.7.2: Dependencias del SDK de Parse en build.gradle*
 
