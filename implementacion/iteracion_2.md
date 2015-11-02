@@ -139,7 +139,7 @@ Para consultar los UUID de los servicios que nos interesan hemos consultado la d
 ![](./imagenes/gatt_commands_temperature.jpg)
 ##### *Figura 5.4.1: UUIDs de los servicios GATT de Temperatura*
 
-Crearemos un controlador para cada perfil para controlar lo
+Para la gestión de los diferentes perfiles GATT crearemos una clase para controlar cada uno de ellos que heredarán de una cláse genérica con métodos comunes llamada ```GenericBluetoothProfile```. El diseño de esta clase y de los controladores de cada perfil puede observarse en la Figura 5.4.2. 
 
 ![](./imagenes/diagrama_clase_gatt_profiles.jpg)
-##### *Figura 5.4.1: Diagrama de clases para los controladores de perfiles GATT*
+##### *Figura 5.4.2: Diagrama de clases para los controladores de perfiles GATT*
