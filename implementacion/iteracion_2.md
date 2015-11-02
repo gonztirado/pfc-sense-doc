@@ -177,7 +177,7 @@ public void didUpdateValueForCharacteristic(BluetoothGattCharacteristic c) {
 	}
 }
 ```
-##### *Código 5.4.3: Actualización de temperatura en SensorTagAmbientTemperatureProfile.java*
+##### *Código 5.4.4: Actualización de temperatura en SensorTagAmbientTemperatureProfile.java*
 
 ## 5.4.3. Crear controlador para añadir los valores de los sensores
 
