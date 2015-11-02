@@ -11,5 +11,8 @@ Como ya comentamos en la elección de herramientas del Capítulo 3, vamos a util
 
 ## 5.6.1. Configuración de gráficas en Ducksboard
 
-Para ceñirnos al análisis que del diseño del panel de monitorización web que definimos en el Capítulo 4
+Para ceñirnos al análisis que del diseño del panel de monitorización web que definimos en el Capítulo 4, crearemos una gráfica con los valores actuales por cada perfil GATT de los sensores y una gráfica de lineas para ir almacenando los valores históricos de los diferentes sensores. El resultado del panel creado se puede observar en la Figura 5.6.1.
+
+
+
 
