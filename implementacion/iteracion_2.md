@@ -175,3 +175,5 @@ public void didUpdateValueForCharacteristic(BluetoothGattCharacteristic c) {
 }
 ```
 
+## 5.4.3. Crear controlador para añadir los valores de los sensores
+
