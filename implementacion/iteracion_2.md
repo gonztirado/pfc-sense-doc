@@ -27,7 +27,7 @@ Para hacer la implementación crearemos un ```Service``` llamado ```BluetoothLeS
 ```java
 // A service that interacts with the BLE device via the Android BLE API.
 public class BluetoothLeService extends Service {
-    
+
     ...
     
     private final BluetoothGattCallback mGattCallback =
