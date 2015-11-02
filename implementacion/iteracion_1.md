@@ -71,6 +71,7 @@ Según la documentación de Android, para utilizar las funcionalidad de Bluetoot
 
 <uses-feature android:name="android.hardware.bluetooth_le" android:required="true"/>
 ```
+##### *Código 5.3.1: Permisos y features necesarias en AndroidManifest.xml*
 
 Estos permisos nos permitirán interaccionar con dispositivos Bluetooth y poder configurar el teléfono para el emparejamiento con los diferentes sensores.
 
