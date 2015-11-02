@@ -1,6 +1,6 @@
 # 5.9. Iteración Final: Revisión de aplicación y últimas mejoras
 
-Para rematar la aplicación se ha decidido añadir algunas funcionalidades que, aunque no son de vital importancia para el comportamiento de la misma, si tienen valor en cuanto a la experiencia de usuario que la use.
+Para rematar la aplicación se ha decidido añadir algunas funcionalidades que, aunque no son de vital importancia para el comportamiento de la misma, si tienen valor en cuanto a la experiencia del usuario que la use.
 
 | Tarea | Descripción |
 | -- | -- |
