@@ -13,7 +13,7 @@ Ya que hemos conseguido monitorizar los sensores, el siguiente paso sería poder
 
 Nuestra clase ```GenericBluetoothProfile``` de la que heredan todos nuestros perfiles GATT tiene varias carácterísticas, una es la de datos que usamos para recuperar los valores de los sensores, tiene una de configuración que es de lectura/escritura, donde podemos habilitar y deshabilitar el perfil, y una de periodo donde se puede escribir el valor de refresco del sensor que tiene asociado dicho perfil GATT. Para leer y escribir dichas características hemos implementado los métodos en ```BluetoothLeService``` que vemos en Código 5.5.1.
 
-```
+```java
 public int readCharacteristic(BluetoothGattCharacteristic characteristic) {
         bleRequest req = new bleRequest();
         req.status = bleRequestStatus.not_queued;
