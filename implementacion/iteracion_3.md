@@ -92,8 +92,7 @@ public void onOffWasUpdated(boolean on) {
 		this.configureService();
 		this.enableService();
 		this.tRow.grayedOut(false);
-	}
-	else {
+	} else {
 		this.deConfigureService();
 		this.disableService();
 		this.tRow.grayedOut(true);
