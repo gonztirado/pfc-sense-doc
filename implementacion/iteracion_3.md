@@ -57,7 +57,7 @@ public int writeCharacteristic(
 ```
 ##### *Código 5.5.1: Lectura/Escritura de una característica en BluetoothLeService.java*
 
-Ya teniendo implementados los métodos de lectura y escritura de las características de un perfil GATT, quedaría implementar los métodos de alto nivel en ```GenericBluetoothProfile``` para activar/desactivar notificación de los servicios.
+Ya teniendo implementados los métodos de lectura y escritura de las características de un perfil GATT, quedaría implementar los métodos de alto nivel en ```GenericBluetoothProfile``` para activar/desactivar notificación de los servicios como se ven en el Código 5.5.2.
 
 ```
 public void enableService () {
