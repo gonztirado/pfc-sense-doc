@@ -24,3 +24,9 @@ Se ha incluido una pantalla de configuración accesible desde la pantalla de mon
 ##### *Figura 5.9.2: Pantalla de configuracion* 
 
 ## 5.9.3. Incluir enlaces de interés
+
+Finalmente se ha incluido un menú en la barra de título con enlaces de interés de la aplicación como puede observarse en la Figura 5.9.3. Los enlaces que se han añadido son:
+
+
+![](./imagenes/captura_enlaces_interes.png)
+##### *Figura 5.9.3: Enlaces de interés* 
