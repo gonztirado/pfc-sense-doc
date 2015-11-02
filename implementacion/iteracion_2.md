@@ -125,3 +125,12 @@ private void broadcastUpdate(final String action,
 ```
 
 ## 5.4.2. Filtrar los perfiles GATT que nos interesan y extraer sus valores
+
+Ya hemos conseguido conectarnos a un sensor y recuperar los valores de sus características, ahora nos quedaría recuperar esos valores y el tipo de característica enviada y quedarnos solo con la de aquellos perfiles GATT que nos interese. En nuestro caso los perfiles que nos interesan son:
+
+- Temperatura
+- Barómetro
+- Luxómetro
+- Humedad
+
+Para consultar los UUID de los servicios que nos interesan hemos consultado la documentación que nos ofrece Texas Instruments acerca de los perfiles GATT de su dispositivo Sensor Tag, podemos ver un ejemplo de la documentación para el sensor de temperatura en la Figura 5.4.1.
