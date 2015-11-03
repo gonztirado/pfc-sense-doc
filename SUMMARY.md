@@ -37,7 +37,7 @@
    * [Administración web](manual/administracion_web.md)
    * [Monitorización remota](manual/monitorizacion_remota.md)
 * [Pruebas](pruebas/pruebas.md)
-   * Depuración y busqueda de errores
+   * [Depuración y busqueda de errores](pruebas/depuracion_y_busqueda_de_errores.md)
    * Desempeño del sensor
 * [Conclusiones y mejoras futuras](conclusiones/conclusiones_y_mejoras_futuras.md)
 * [Agradecimientos](agradecimientos/agradecimientos.md)
