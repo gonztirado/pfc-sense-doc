@@ -12,16 +12,13 @@ Realizamos un estudio de las tecnologías y herramientas existentes, comparándo
 Concretamos la toma de requisitos, funcionales y no funcionales, detallando los casos de usos detectados. También analizamos el modelo, los controladores y la interfaz de usuario.
 
 * **Capítulo 5.	Implementación y desarrollo**:
-En este capítulo se  explicará la metodología de trabajo aplicada, los patrones de diseño usados y detallaremos cada una de las iteraciones realizadas para desarrollar la solución propuesta.
+En este capítulo se  explicará la metodología de trabajo aplicada y detallaremos cada una de las iteraciones realizadas para desarrollar la solución propuesta.
 
 * **Capítulo 6.	Manual de usuario**:
 Documentamos como se debe usar tanto la aplicación móvil como la configuración del entorno web y el panel de monitorización remota.
 
 * **Capítulo 7.	Pruebas**:
-Detallamos las herramientas utilizadas para realizar las distintas pruebas ejecutadas en el proyecto y mostramos un ejemplo explicando las partes más destacadas.
+Detallamos las herramientas utilizadas para realizar las distintas pruebas ejecutadas en el proyecto y evaluamos el desempeño del sensor elegido.
 
 * **Capítulo 8.	Conclusiones y mejoras futuras**:
-En este último capítulo explicaremos las conclusiones y los resultados a los que hemos llegado tras desarrollar la aplicación web. También detallaremos futuros desarrollos que mejorarían la aplicación y su uso.
-
-
-**// TODO Revisar los capítulos y reescribir la descripción de los mismos una vez terminada**
+En este último capítulo explicaremos las conclusiones a los que hemos llegado tras desarrollar la solución propuesta. También detallaremos futuros desarrollos que mejorarían la aplicación y su uso.
