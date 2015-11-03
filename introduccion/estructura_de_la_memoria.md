@@ -22,6 +22,3 @@ Detallamos las herramientas utilizadas para realizar las distintas pruebas ejecu
 
 * **Capítulo 8.	Conclusiones y mejoras futuras**:
 En este último capítulo explicaremos las conclusiones a los que hemos llegado tras desarrollar la solución propuesta. También detallaremos futuros desarrollos que mejorarían la aplicación y su uso.
-
-
-**// TODO Revisar los capítulos y reescribir la descripción de los mismos una vez terminada**
