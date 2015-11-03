@@ -1,6 +1,5 @@
 # Glosario
 
-## Glosario
 
 
 
