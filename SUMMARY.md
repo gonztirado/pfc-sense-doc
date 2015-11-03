@@ -38,6 +38,7 @@
    * [Monitorización remota](manual/monitorizacion_remota.md)
 * [Pruebas](pruebas/pruebas.md)
    * Depuración y busqueda de errores
+   * Desempeño del sensor
 * [Conclusiones y mejoras futuras](conclusiones/conclusiones_y_mejoras_futuras.md)
 * [Agradecimientos](agradecimientos/agradecimientos.md)
 * [Bibliografía](bibliografia/bibliografia.md)
