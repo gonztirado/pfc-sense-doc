@@ -33,6 +33,7 @@
    * [Iteración 6: Consulta y exportación de datos históricos](implementacion/iteracion_6.md)
    * [Iteración Final: Revisión de aplicación y últimas mejoras](implementacion/iteracion_final.md)
 * [Manual de usuario](manual/manual_de_usuario.md)
+   * Aplicación móvil
 * [Pruebas](pruebas/pruebas.md)
 * [Conclusiones y mejoras futuras](conclusiones/conclusiones_y_mejoras_futuras.md)
 * [Agradecimientos](agradecimientos/agradecimientos.md)
