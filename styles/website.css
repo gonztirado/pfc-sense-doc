@@ -8,3 +8,7 @@ table,
 pre {
   text-align: justify;
 }
+
+ul.glossary-index {
+	text-align: left;
+}
