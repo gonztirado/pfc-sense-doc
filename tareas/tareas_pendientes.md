@@ -23,11 +23,7 @@
 		    -  http://www.highcharts.com/
 		    -  http://www.chartjs.org/
 		- Informes
-		- Exportación a diferentes formatos (Excel, CVS, JSON, XML, etc)
-- Mejoras opcionales
-	- Visualización de rutas con las tomas de temperaturas geoposicionadas en [cartodb.com](http://cartodb.com/)
-	- Dashboard web con monitorización de datos en tiempo real usando [ducksboard.com](https://ducksboard.com)
-	- Integración con [spark](https://www.spark.io/)
+
 
 ### Memoria ###
 - Introducción
