@@ -14,5 +14,5 @@ Puede ocurrir que el despositivo no permita instalar aplicaciones que provengan 
 
 ## 6.1.2. Sincronización de sensores
 
-Nada más arrancar, el técnico 
+Nada más arrancar, el técnico tiene acceso a la pantalla de sincronización de sensores
 
