@@ -19,7 +19,7 @@ Nada más arrancar, el técnico tiene acceso a la pantalla de sincronización de
 ![](./imagenes/pantalla_sincronizacion_sensores.png)
 ##### Figura 6.1.2: Pantalla de sincronización de sensores
 
-Si no aparece el sensor al que se quiere conectar en la lista de dispositivos disponibles es posible que sea porque se ha puesto en *stand-by* para ahorrar batería, en ese caso se puede activar fácilmente pulsando el botón de encendido que se observa en la Figura 6.1.3.
+Si no aparece el sensor al que se quiere conectar en la lista de dispositivos disponibles es posible que sea porque se ha puesto en *stand-by* para ahorrar batería, en ese caso se puede activar fácilmente pulsando el botón de encendido que muestra la Figura 6.1.3.
 
 ![](./imagenes/sensortag_detalle_boton.jpg)
 ##### Figura 6.1.3: Detalle de botón de encendido
