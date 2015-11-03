@@ -1,4 +1,4 @@
-# Glossary
+# Glosario
 
 ## Glosario
 
