@@ -14,5 +14,7 @@ Una vez creado el panel, darle **acceso a los supervisores** es muy sencillo, ba
 ![](./imagenes/ducksboard_configurar_supervisores.png)
 ##### *Figura 6.2.2: Configurar supervisores en Ducksboard*
 
+Para añadir basta con pulsar el ícono 
+
 
 
