@@ -23,3 +23,6 @@ Si no aparece el sensor al que se quiere conectar en la lista de dispositivos di
 
 ![](./imagenes/sensortag_detalle_boton.jpg)
 ##### Figura 6.1.3: Detalle de botón de encendido
+
+## 6.1.3. Configuración de sensores
+
