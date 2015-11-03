@@ -1,2 +1,4 @@
 # Glosario de términos
 
+GATT
+
