@@ -41,7 +41,7 @@
    * [Desempeño del sensor](pruebas/desempeno_del_sensor.md)
 * [Conclusiones y mejoras futuras](conclusiones/conclusiones_y_mejoras_futuras.md)
    * [Aprendizaje personal](conclusiones/aprendizaje_personal.md)
-   * Dificultades encontradas
+   * [Dificultades encontradas](conclusiones/dificultades_encontradas.md)
 * [Agradecimientos](agradecimientos/agradecimientos.md)
 * [Bibliografía](bibliografia/bibliografia.md)
 * [Tareas pendientes](tareas/tareas_pendientes.md)
