@@ -2,7 +2,7 @@
 
 Esta será la herramienta que use el usuario que tome el rol de administrador, con ella podrá  configurar las pizarras de monitorización, filtrar los datos de los sensores que necesite buscar, realizar copias de seguridad y hacer restauraciones de datos en el caso de que fuera necesario
 
-## 6.2. Configuración de pizarras de monitorización
+## 6.2.1. Configuración de pizarras de monitorización
 
 Cuando sea necesario **crear o editar una pizarra**, habrá que entrar en el entorno de Ducksboard y autenticarse con su usuario y password de administración. Una vez dentro de la plataforma, si se selecciona el menú de selección de panel de la derecha que se ve en la Figura 6.2.1 puede seleccionarse la opción 'Add a new dashboard'.
 
@@ -24,4 +24,4 @@ Una vez seleccionado el widgetID necesitaremos asignarselo a un determinado sens
 ![](./imagenes/parse_configuracion_widget.PNG)
 ##### *Figura 6.2.4: Configuración de widget en Parse*
 
-## 6.3. Filtros de datos
+## 6.2.2 Filtros de datos
