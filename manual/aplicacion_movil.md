@@ -11,3 +11,6 @@ Puede ocurrir que el despositivo no permita instalar aplicaciones que provengan 
 ![](./imagenes/configuracion_origenes_desconocidos.png)
 ##### Figura 6.1.1: Instalación de aplicaciones desde orígenes desconocidos
 
+
+## 6.1.2. Sincronización de sensores
+
