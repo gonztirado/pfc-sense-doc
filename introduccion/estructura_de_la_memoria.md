@@ -12,7 +12,7 @@ Realizamos un estudio de las tecnologías y herramientas existentes, comparándo
 Concretamos la toma de requisitos, funcionales y no funcionales, detallando los casos de usos detectados. También analizamos el modelo, los controladores y la interfaz de usuario.
 
 * **Capítulo 5.	Implementación y desarrollo**:
-En este capítulo se  explicará la metodología de trabajo aplicada, los patrones de diseño usados y detallaremos cada una de las iteraciones realizadas para desarrollar la solución propuesta.
+En este capítulo se  explicará la metodología de trabajo aplicada y detallaremos cada una de las iteraciones realizadas para desarrollar la solución propuesta.
 
 * **Capítulo 6.	Manual de usuario**:
 Documentamos como se debe usar tanto la aplicación móvil como la configuración del entorno web y el panel de monitorización remota.
