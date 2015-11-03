@@ -10,10 +10,7 @@
 	- Configuración de intervalos de captura de datos
 	- Exportación de datos en diferentes formatos (Excel, CVS, JSON, XML, etc)
 	- Envío de datos a servidor en la nube
-- Mejoras opcionales:
-    - Alertas programables cuando se alcancen umbrales críticos
-	- Captura de posición GPS para adjuntar en la toma de temperaturas
-	- Búsqueda de sensor perdido aprovechando la capacidad de usar como iBeacon
+
 
 ### Servicios y backoffice en servidor ###
 - Servidor [parse.com](http://parse.com/)
