@@ -12,6 +12,6 @@ La elaboración de este proyecto ha requerido un gran sacrificio personal y much
 
 **A mis compañeros de trabajo**, por permitirme aprender de ellos cada día, por apoyar las iniciativas que he propuesto y por llevarme la contraria cuando no tenía razón.
 
-** A mis jefes**, por facilitarme el tiempo y los medios para que pudiera llevar a cabo la investigación de este proyecto.
+**A mis jefes**, por facilitarme el tiempo y los medios para que pudiera llevar a cabo la investigación de este proyecto.
 
 A todos os doy las gracias de corazón, porque sin vosotros no lo hubiera conseguido.
