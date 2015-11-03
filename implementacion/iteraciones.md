@@ -18,5 +18,5 @@ En cada iteración definiremos una serie de tareas de menor tamaño que contempl
 Además, para guardar un registro de las iteraciones realizadas utilizaremos JIRA, donde comentaremos como se ha implementado cada de las tareas y el código asociado a la misma. JIRA nos proporciona también la posibilidad de tener una pizarra de planificación para el proyecto, la usaremos también para poder visualizar en cualquier momento el estado de la iteración.
 
 ![](./imagenes/pizarra_planificacion.jpg)
-###### *Figura 5.2.1: Iteraciones a realizar previstas*
+###### *Figura 5.2.1: Pizarra usada para la gestión de tareas*
 
