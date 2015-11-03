@@ -18,7 +18,7 @@ En este capítulo se  explicará la metodología de trabajo aplicada y detallare
 Documentamos como se debe usar tanto la aplicación móvil como la configuración del entorno web y el panel de monitorización remota.
 
 * **Capítulo 7.	Pruebas**:
-Detallamos las herramientas utilizadas para realizar las distintas pruebas ejecutadas en el proyecto y mostramos un ejemplo explicando las partes más destacadas.
+Detallamos las herramientas utilizadas para realizar las distintas pruebas ejecutadas en el proyecto y evaluamos el desempeño del sensor elegido.
 
 * **Capítulo 8.	Conclusiones y mejoras futuras**:
 En este último capítulo explicaremos las conclusiones y los resultados a los que hemos llegado tras desarrollar la aplicación web. También detallaremos futuros desarrollos que mejorarían la aplicación y su uso.
