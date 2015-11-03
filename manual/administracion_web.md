@@ -9,11 +9,10 @@ Cuando sea necesario crear o editar una pizarra, habrá que entrar en el entorno
 ![](./imagenes/ducksboard_crear_dashboard.png)
 ##### *Figura 6.2.1: Crear nuevo dashboard en Ducksboard*
 
-Una vez creado el panel, darle acceso a los supervisores es muy sencillo, basta con pulsar el icono de configuración que se ve arriba a la izquierda en la Figura 6.2.1 y seleccionar la opción "Preferences for this dashboard", una vez hecho esto aparecerá el popup que podemos ver en la Figura 6.2.2.
+Una vez creado el panel, darle acceso a los supervisores es muy sencillo, basta con pulsar el icono de configuración que se ve arriba a la izquierda en la Figura 6.2.1 y seleccionar la opción "Preferences for this dashboard", una vez hecho esto aparecerá el popup que podemos ver en la Figura 6.2.2. Esta pantalla nos permite crear enlaces protegidos con password para cada supervisor que necesite visualizar el panel. Si se deseara bloquear el acceso para un supervisor, bastaría con seleccionar la opción 'Delete'.
 
-
-![](./imagenes/ducksboard_crear_dashboard.png)
-##### *Figura 6.2.2: Crear nuevo dashboard en Ducksboard*
+![](./imagenes/ducksboard_configurar_supervisores.png)
+##### *Figura 6.2.2: Configurar supervisores en Ducksboard*
 
 
 
