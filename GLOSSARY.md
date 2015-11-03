@@ -1,2 +1,2 @@
-# Glosario
+# Glosario de términos
 
