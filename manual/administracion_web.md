@@ -24,4 +24,4 @@ Una vez seleccionado el widgetID necesitaremos asignarselo a un determinado sens
 ![](./imagenes/parse_configuracion_widget.PNG)
 ##### *Figura 6.2.4: Configuración de widget en Parse*
 
-## 6.2. Configuración de pizarras de monitorización
+## 6.3. Filtros de datos
