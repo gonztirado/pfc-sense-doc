@@ -68,5 +68,6 @@ Para la realización del proyecto tomaremos prestada un poco de cada técnica á
 - **Refactorización del código** antes de concluir la iteración.
 - **Generación de un entregable al terminar la iteración**.
 
-No se va a incluir tiempo limite del sprint ni estimaciones en las tareas dado el carácter de investigación que tiene el proyecto y que no se va a realizar el desarrollo en el tiempo libre sin un horario fijo.
+
+No se va a incluir tiempo limite del sprint ni estimaciones en las tareas dado el carácter de investigación que tiene el proyecto y que no se va a realizar en un horario fijo.
 
