@@ -14,3 +14,5 @@ Puede ocurrir que el despositivo no permita instalar aplicaciones que provengan 
 
 ## 6.1.2. Sincronización de sensores
 
+Nada más arrancar, el técnico 
+
