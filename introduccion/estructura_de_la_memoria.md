@@ -21,7 +21,7 @@ Documentamos como se debe usar tanto la aplicación móvil como la configuració
 Detallamos las herramientas utilizadas para realizar las distintas pruebas ejecutadas en el proyecto y evaluamos el desempeño del sensor elegido.
 
 * **Capítulo 8.	Conclusiones y mejoras futuras**:
-En este último capítulo explicaremos las conclusiones y los resultados a los que hemos llegado tras desarrollar la aplicación web. También detallaremos futuros desarrollos que mejorarían la aplicación y su uso.
+En este último capítulo explicaremos las conclusiones a los que hemos llegado tras desarrollar la solución propuesta. También detallaremos futuros desarrollos que mejorarían la aplicación y su uso.
 
 
 **// TODO Revisar los capítulos y reescribir la descripción de los mismos una vez terminada**
