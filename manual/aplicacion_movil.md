@@ -30,3 +30,6 @@ Una vez seleccionado un sensor de la lista, se procederá a la conexión con el 
 
 ![](./imagenes/configuracion_servicio_sensor.png)
 ##### Figura 6.1.4: Configuración de un servicio del sensor
+
+
+Además, existe la posibilidad de cambiar las unidades de medida por unidades imperiales en lugar de las del sistema métrico. Tambien es posible configurar la aplicación en modo *Keep alive* para que no se pierda la conexión con el sensor cuando la aplicación se pausa.
