@@ -40,7 +40,7 @@
    * [Depuración y busqueda de errores](pruebas/depuracion_y_busqueda_de_errores.md)
    * [Desempeño del sensor](pruebas/desempeno_del_sensor.md)
 * [Conclusiones y mejoras futuras](conclusiones/conclusiones_y_mejoras_futuras.md)
-   * Aprendizaje personal
+   * [Aprendizaje personal](conclusiones/aprendizaje_personal.md)
    * Dificultades encontradas
 * [Agradecimientos](agradecimientos/agradecimientos.md)
 * [Bibliografía](bibliografia/bibliografia.md)
