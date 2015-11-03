@@ -27,3 +27,4 @@ Una vez seleccionado el widgetID necesitaremos asignarselo a un determinado sens
 
 ## 6.2.2. Administración de datos
 
+El entorno de administración que proporciona Parse resulta muy intuitivo para todo aquel que ha interaccionado alguna vez con un *backoffice CRUD*
