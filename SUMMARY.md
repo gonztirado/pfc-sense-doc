@@ -35,6 +35,7 @@
 * [Manual de usuario](manual/manual_de_usuario.md)
    * [Aplicación móvil](manual/aplicacion_movil.md)
    * [Administración web](manual/administracion_web.md)
+   * Monitorización remota
 * [Pruebas](pruebas/pruebas.md)
 * [Conclusiones y mejoras futuras](conclusiones/conclusiones_y_mejoras_futuras.md)
 * [Agradecimientos](agradecimientos/agradecimientos.md)
