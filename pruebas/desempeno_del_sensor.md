@@ -4,5 +4,5 @@ Se han realizado varias pruebas para determinar el correcto funcionamiento de lo
 
 | Imágen | Modelo sensor | 2:0 | 3:0 | 4:0 |
 | -- | -- | -- | -- | -- |
-| SensorTag| 1:2 | 2:2 | 3:2 | 4:2 |
-| 0:3 | 1:3 | 2:3 | 3:3 | 4:3 |
+| ![](./imagenes/sensortag_clasico.png)| 1:2 | 2:2 | 3:2 | 4:2 |
+| ![](./imagenes/sensortag_nuevo.png) | 1:3 | 2:3 | 3:3 | 4:3 |
