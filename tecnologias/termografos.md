@@ -39,7 +39,7 @@ Analizadas las diferentes tecnologías inalámbricas disponibles tal y como se o
 
 ## Sensores Bluetooth LE
 
-Una vez tomada la decisión de usar *Bluetooth LE* para la comunicación con los sensores, nos dispusimos a realizar una busqueda de los diferentes fabricantes. Para determinar cual es el la mejor elección tendremos en cuenta los servicios que implementa, el coste de los mismos y si tienen SDK y ejemplos para recuperar la información desde dispositivos Android.
+Una vez tomada la decisión de usar *Bluetooth LE* para la comunicación con los sensores, nos dispusimos a realizar una busqueda de los diferentes fabricantes. Para determinar cual es el la mejor elección tendremos en cuenta los servicios que implementa, el coste de los mismos y si tienen SDK y ejemplos para recuperar la información desde dispositivos *Android*.
 
 ### Texas Instruments SensorTag
  - Pequeño tamaño, 5x6.7x1.4 cm
