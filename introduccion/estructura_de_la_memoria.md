@@ -21,4 +21,4 @@ Comentamos las herramientas utilizadas para realizar las distintas pruebas ejecu
 En este último capítulo explicaremos las conclusiones a los que hemos llegado tras desarrollar la solución. Se incluirán también los futuros desarrollos que mejorarían la aplicación.
 
 
-Finalmente, adjuntamos como apéndice un manual de usuario en el que documentamos como usar tanto la aplicación móvil, el entorno de administración web y el panel de monitorización remota.
+Finalmente, adjuntamos como apéndice un manual de usuario en el que documentamos como usar tanto la aplicación móvil, como el entorno de administración web y el panel de monitorización remota.
