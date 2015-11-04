@@ -12,7 +12,7 @@ Cuando sea necesario **crear o editar una pizarra**, habrá que entrar en el ent
 Una vez creado el panel, darle **acceso a los supervisores** es muy sencillo, basta con pulsar el icono de configuración que se ve arriba a la izquierda en la Figura A.6 y seleccionar la opción "Preferences for this dashboard", una vez hecho esto aparecerá el popup que podemos ver en la Figura 6.2.2. Esta pantalla nos permite crear enlaces protegidos con password para cada supervisor que necesite visualizar el panel. Si se deseara bloquear el acceso para un supervisor, bastaría con seleccionar la opción 'Delete'.
 
 ![](./imagenes/ducksboard_configurar_supervisores.png)
-##### *Figura 6.2.2: Configurar supervisores en Ducksboard*
+##### *Figura A.7: Configurar supervisores en Ducksboard*
 
 Para añadir basta con pulsar el ícono de añadir que se encuentra en la botonera situada arriba a la izquierda del panel que se ve en la Figura A.6. Una vez añadido, para configurarlo para que reciba los datos de un determinado sensor, pulsaremos sobre el widget y seleccionaremos la sección 'Data & API' que se ve en la Figura 6.2.3. Ahí podremos editar el valor del widgetID y seleccionar el identificador que estimemos oportuno.
 
