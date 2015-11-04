@@ -1,4 +1,4 @@
-# Análisis del modelo de datos
+# 4.3. Análisis del modelo de datos
 
 Tras analizar los requerimientos que tenemos de la aplicación llegamos a la conclusión de que principalmente el modelo se compondrá de las clases donde guardaremos los valores que nos devuelven los sensores. Por lo tanto, cada uno de estos valores estará asociado a un sensor, que a su vez estará asociado a un terminal. 
 
