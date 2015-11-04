@@ -12,4 +12,4 @@ Considero que este proyecto tiene largo recorrido y que se pueden seguir realiza
 - **Creación de informes personalizados **visualmente atractivos.
 
 
-Las posibilidades de mejora son innumerables, tantas como uno imagine. Poco a poco se irán añadiendo funcionalidades con el fin de sacar una solución más completa.
+Las posibilidades de mejora son innumerables, tantas como uno imagine. Poco a poco se irán añadiendo funcionalidades de forma iterativa con el fin de sacar una solución más completa.
