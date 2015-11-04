@@ -18,5 +18,7 @@ Considero que este proyecto tiene largo recorrido y que se pueden seguir realiza
 
 - **Creación de informes personalizados **visualmente atractivos.
 
+- Sustitución de pizarras de Ducksboard por las de otro proveedor, ya que como comentamos anteriormente, este servicio dejrá de funcionar en 2016
+
 
 Las posibilidades de mejora son innumerables, tantas como uno imagine. Poco a poco se irán añadiendo funcionalidades de forma iterativa con el fin de obtener una solución más completa.
