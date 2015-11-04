@@ -24,7 +24,7 @@ En el mercado existen multitud de fabricantes e incontables modelos de *smarthph
 
 ## 3.1.3. Windows Phone
 - Sistema operativo creado por *Microsoft* que fue lanzado en Noviembre de 2010.
-- Programación en C# y Visual Basic.NET.
+- Programación en *C#* y *Visual Basic.NET*.
 - El código fuente es propietario.
 - Disponible en terminales de multitud de marcas como Microsoft/Nokia, Acer, ASUS, Dell, HP, Lenovo, Toshiba etc.
 - Soporte de Bluetooth Low Energy a partir de Windows Phone 8.1.
