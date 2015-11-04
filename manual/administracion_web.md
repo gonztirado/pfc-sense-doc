@@ -14,7 +14,7 @@ Una vez creado el panel, darle **acceso a los supervisores** es muy sencillo, ba
 ![](./imagenes/ducksboard_configurar_supervisores.png)
 ##### *Figura 6.2.2: Configurar supervisores en Ducksboard*
 
-Para añadir basta con pulsar el ícono de añadir que se encuentra en la botonera situada arriba a la izquierda del panel que se ve en la Figura 6.2.1. Una vez añadido, para configurarlo para que reciba los datos de un determinado sensor, pulsaremos sobre el widget y seleccionaremos la sección 'Data & API' que se ve en la Figura 6.2.3. Ahí podremos editar el valor del widgetID y seleccionar el identificador que estimemos oportuno.
+Para añadir basta con pulsar el ícono de añadir que se encuentra en la botonera situada arriba a la izquierda del panel que se ve en la Figura A.6. Una vez añadido, para configurarlo para que reciba los datos de un determinado sensor, pulsaremos sobre el widget y seleccionaremos la sección 'Data & API' que se ve en la Figura 6.2.3. Ahí podremos editar el valor del widgetID y seleccionar el identificador que estimemos oportuno.
 
 ![](./imagenes/ducksboard_configurar_widget.png)
 ##### *Figura 6.2.3: Configurar widget en Ducksboard*
