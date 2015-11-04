@@ -14,7 +14,7 @@ Tras la fase de análisis quedan identificados tres tipos de actores que van a h
 - **Administrador**: Se encarga de configurar el entorno de configuración remota, configuración de alertas y realizará las tareas de exportación de datos y *backup* cuando sea necesario.
 
 
-## Requisitos funcionales
+## 4.1.2. Requisitos funcionales
 
 - **Consultar listado de sensores**: Los técnicos podrán consultar el listado de sensores disponibles desde la aplicación móvil y elegir a cual se quieren conectar.
 - **Monitorizar los valores de las temperaturaslos in situ**: Los técnicos tras conectarse a un sensor podrán monitorizar la temperatura de los mismos desde la aplicación móvil.
