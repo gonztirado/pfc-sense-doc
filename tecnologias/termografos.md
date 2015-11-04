@@ -82,7 +82,7 @@ Una vez tomada la decisión de usar *Bluetooth LE* para la comunicación con los
  - Precio: 45€
 
 ![](./imagenes/wimoto.jpg)
-###### *Figura 4: Wimoto*
+###### *Figura 3.2.4: Wimoto*
 
 ### Parrot Flower Power
  - Tamaño mediano, 1.15x20x2 cm
