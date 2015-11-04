@@ -8,3 +8,4 @@ Cuando me propuse la realización de este proyecto tuve siempre en mente no sól
 
 **Me he quedado impresionado con las posibilidades que brinda Parse** para el desarrollo rápido de aplicaciones con presencia en Internet. Las posibilidades que brinda su SDK que no sólo está presente en Android, sino en la mayoría de sistemas operativos móviles, plataformas de desarrollo web e incluso para dispositivos embebidos hace que sea un servicio muy interesante. Además, para este desarrollo se ha utilizado una mínima parte de las funcionalidades de las que dispone. Por lo que seguramente seguiré realizando proyectos que hagan uso de este servicio para afianzar los conocimientos adquiridos.
 
+
