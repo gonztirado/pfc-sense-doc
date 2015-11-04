@@ -4,7 +4,7 @@ En el mercado existen multitud de fabricantes e incontables modelos de *smarthph
 
 ## 3.1.1. iOS
 - Sistema operativo creado por *Apple* que fue lanzado en Junio de 2007 con el primer *iPhone*.
-- Programación en Objetive C y Swift.
+- Programación en *Objetive C* y *Swift*.
 - Código fuente propietario.
 - Sólo disponible en dispositivos de Apple: iPhone, iPad y iPod Touch.
 - Soporte de Bluetooth Low Energy para dispositivos iOS 5 en adelante.
