@@ -127,7 +127,7 @@ Una vez tomada la decisión de usar *Bluetooth LE* para la comunicación con los
 | **Flower Power** | Si    | No       | No        | Si  | Si      | IP52          | No           | 49€   |
 | **nBlue**        | Si    | No       | No        | Si  | No      | IP52          | No           | 39€   |
 | **Node Clima**   | Si    | No       | Si        | Si  | Si      | --            | Si           | 199€  |
-###### *Tabla 2: Comparativa de sensores de temperatura*       
+###### *Tabla 3.2.2: Comparativa de sensores de temperatura*       
 
 Analizados los diferentes sensores encontrados, y valorando sobre todo el número de servicios de los que dispone y el menor coste posible **decidimos optar por el sensor SensorTag de Texas Instruments**. Además dispone de documentación técnica y de ejemplos de uso con aplicaciones Android.
 
