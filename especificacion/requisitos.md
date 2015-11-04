@@ -1,4 +1,4 @@
-# Requisitos
+# 4.1. Requisitos
 
 Como explicamos anteriormente, el objetivo del proyecto consiste en monitorizar los datos de temperatura de diferentes sensores tanto desde el terminal como de forma remota. 
 
