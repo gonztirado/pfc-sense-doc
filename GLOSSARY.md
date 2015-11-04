@@ -20,10 +20,14 @@
 
 (JavaScript Object Notation): Se trata de un formato ligero para el intercambio de datos basado en notación Javascript.
 
+## REST
+
+(Representational State Transfer)  es un estilo de arquitectura software para sistemas hipermedia distribuidos como la World Wide Web. En la actualidad se usa para describir cualquier interfaz entre sistemas que utilice directamente HTTP para obtener datos o indicar la ejecución de operaciones sobre los datos, en cualquier formato (XML, JSON, etc)
+
 ## SDK
 
 (Software Development Kit): Es generalmente un conjunto de herramientas de desarrollo de software que le permite al programador crear aplicaciones para un sistema concreto.
 
-## REST
+## IDE
 
-(Representational State Transfer)  es un estilo de arquitectura software para sistemas hipermedia distribuidos como la World Wide Web. En la actualidad se usa para describir cualquier interfaz entre sistemas que utilice directamente HTTP para obtener datos o indicar la ejecución de operaciones sobre los datos, en cualquier formato (XML, JSON, etc)
+(Integrated Development Environment): Es una aplicación informática que proporciona servicios integrales para facilitarle al programador el desarrollo de software.
