@@ -1,4 +1,4 @@
-# Especificación y análisis
+# 4. Especificación y análisis
 
 Una vez elegidas las tecnologías y las herramientas que se van a utilizar quedaría analizar qué es lo que va a hacer falta en la aplicación y definir los requisitios funcionales y no funcionales que queremos que disponga la solución propuesta.
 
