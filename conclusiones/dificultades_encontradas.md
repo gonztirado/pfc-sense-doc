@@ -4,8 +4,6 @@ Uno de los primeros obstáculos con los que topé fue la **escasa documentación
 
 Otra de las dificultades que encontré fue **depurar correctamente las conexiones Bluetooth**, Android Studio tiene unas herramientas magnificas para hacer depuración, pero algunos de los errores producidos se debieron a que era dificultoso depurar con el dispositivo real en lugar de con el simulador, ya que el entorno se ralentiza bastante más y resulta tedioso encontrar el origen de los fallos.
 
-Otro de los escollos que he tenido ha sido **la redacción de esta memoria**. Suelo documentar el código que escribo y hacerlo lo más entendible posible para que sea autoexplicativo y tener que evitar hacer documentación técnica de este nivel.  
-
-escritura de la memoria y documentaci´n
+Otro de los escollos que he tenido ha sido **la redacción de esta memoria**. Suelo documentar el código que escribo y hacerlo lo más entendible posible para que sea autoexplicativo y así evitar hacer documentación técnica de este nivel. Aunque, he de reconocer, que, una vez terminada, tener un documento de este tipo mantenida correctamente con las modificaciones que se van haciendo en los proyectos resulta muy útil. Sobre todo si es a otra persona a la que le toca hacer el mantenimiento del proyecto
 
 Pero la principal dificultad para el desarrollo de este proyecto ha sido, sin duda alguna, **encontrar el tiempo y la motivación para realizarlo**. Al estar trabajando, el tiempo libre con el que he dispuesto me ha resultado un poco escaso, y el ponerse a programar en el tiempo libre después de haber estado realizándolo durante mi jornada es lo que más trabajo me ha costado. Me gusta programar, de hecho me encanta, pero también me gusta disfrutar de tiempo con mi familia y amigos.
