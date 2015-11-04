@@ -92,8 +92,8 @@ Una vez tomada la decisión de usar *Bluetooth LE* para la comunicación con los
  - Grado de protección IP52 (protección contra polvo y goteo de agua).
  - Precio: 49€
 
-![Figura 5](./imagenes/parrot_flower_power.jpg)
-###### *Figura 5: Flower Power*
+![](./imagenes/parrot_flower_power.jpg)
+###### *Figura 3.25: Flower Power*
 
 ### Blue Radios nBlue
  - Tamaño muy pequeño, 3.3cm de diámetro y 1cm de alto.
