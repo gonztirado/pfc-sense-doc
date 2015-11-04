@@ -1,4 +1,4 @@
-# Mejoras futuras
+# 8.3. Mejoras futuras
 
 - Mejoras opcionales:
     - Alertas programables cuando se alcancen umbrales críticos
