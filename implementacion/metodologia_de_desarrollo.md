@@ -1,6 +1,6 @@
 # 5.1. Metodología de desarrollo
 
-Antes de decidir que metodología vamos a utilizar, vamos a realizar una introducción sobre los dos tipos diferentes tipos de metodologías que más se usan.
+Antes de decidir que metodología vamos a utilizar, vamos a realizar una introducción sobre los dos tipos diferentes tipos de metodologías que más se usan, el desarollo en cascada y las metodologías ágiles.
 
 ## 5.2. Desarrollo en cascada
 
