@@ -34,7 +34,7 @@ El entorno de administración que proporciona Parse resulta muy intuitivo para t
 
 Para realizar copias de seguridad es necesario seleccionar el icono de 'Export' habiendo seleccionado previamente el filtro adecuado, aunque, también se puede realizar una exportación de la tabla completa. Una vez terminada la exportación, se enviará la copia de seguridad al correo del administrador en formato JSON.
 
-A su vez, realizar un importación de datos no entabla ningún problema, sólo es necesario pulsar el botón 'Import' y cargar el archivo JSON previamente generado como se ve en la Figura 6.2.6.
+A su vez, realizar un importación de datos no entabla ningún problema, sólo es necesario pulsar el botón 'Import' y cargar el archivo JSON previamente generado como se ve en la Figura A.11.
 
 ![](./imagenes/parse_importar_datos.jpg)
 ##### *Figura A.11: Importación de datos en Parse*
