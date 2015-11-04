@@ -6,7 +6,7 @@
 
 ## BLE
 
-(Bluetooth Low Energy): También llamado Bluetooth LE o Bluetooth Smart. Es la nueva especificación del protocolo Bluetooth para un menor consumo energético.
+(Bluetooth Low Energy): Es la nueva especificación del protocolo Bluetooth para un menor consumo energético. También llamado Bluetooth LE o Bluetooth Smart.
 
 ## CRUD
 
