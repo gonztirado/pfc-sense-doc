@@ -8,6 +8,8 @@ Considero que este proyecto tiene largo recorrido y que se pueden seguir realiza
 - **Exportación a diferentes formatos**, ya es posible exportar a JSON desde Parse. Pero estaría bien poder exportar también a Excel, CSV, y XML, por ejemplo.
 - **Experimentar con otros sensores** de otros fabricantes como el sensor de control de plantas de Parrot.
 - **Integración con otro tipo de dispositivos Bluetooth**, como las balizas de localización, monitores de ritmo cardiaco o de control de glucosa en sangre.
+- **Creación de entorno de backoffice propio** para una gestión más centralizada de las tareas de administración
+- **Creación de informes personalizados **visualmente atractivos.
 
 
- 
+ Las posibilidades de mejora son innumerables, tantas como uno imagine. Poco a poco se irá añadiendo 
