@@ -24,7 +24,7 @@ Tras la fase de análisis quedan identificados tres tipos de actores que van a h
 
 - **Monitorización remota de los valores de los sensores**: Los supervisores podrán monitorizar desde un panel web los datos en tiempo real de los diferentes sensores configurados.
 
-- **Configuración de dashboard de monitorización**: Los administradores tendrán acceso a la configuración de los difentes *dashboards* y cambiar los valores de refresco de las gráficas y configurar alarmas sobre los valores críticos si así lo estimaran necesario.
+- **Configuración de dashboard de monitorización**: Los administradores tendrán acceso a la configuración de los difentes *dashboards* y podrán cambiar los valores de refresco de las gráficas y configurar alarmas sobre los valores críticos si así lo estimaran necesario.
 
 - **Consulta y exportación de datos históricos**: Los administradores tendrán acceso a los datos enviados por los terminales por si hiciera falta analizarlos, exportarlos o realizar copias de seguridad de los mismos.
     
