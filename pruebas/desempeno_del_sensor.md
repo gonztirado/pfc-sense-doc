@@ -4,5 +4,5 @@ Se han realizado varias pruebas para determinar el correcto funcionamiento de lo
 
 | Imágen | Modelo del Sensor | Rango sin obstaculos | Rango con obstáculos | Error de temperatura |
 | -- | -- | -- | -- | -- |
-| ![](./imagenes/sensortag_clasico.png)| SensorTag | 2:2 | 3:2 | 4:2 |
-| ![](./imagenes/sensortag_nuevo.png) | SensorTag CC2650 | 2:3 | 3:3 | 4:3 |
+| ![](./imagenes/sensortag_clasico.png)| SensorTag | 10m | 4m | +- 2º |
+| ![](./imagenes/sensortag_nuevo.png) | SensorTag CC2650 | 15m | 5m | +-5º |
