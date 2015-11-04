@@ -12,7 +12,7 @@ Puede ocurrir que el despositivo no permita instalar aplicaciones que provengan 
 ##### Figura A.1: Instalación de aplicaciones desde orígenes desconocidos
 
 
-## 6.1.2. Sincronización de sensores
+## Sincronización de sensores
 
 Nada más arrancar, el técnico tiene acceso a la pantalla de sincronización de sensores que se observa en la Figura 6.1.2. Para visualizar los sensores disponibles para su conexión deberá darle al botón 'Escanear', una vez que termina el escaneado podrá seleccionar el sensor al que desea sincronizarse.
 
