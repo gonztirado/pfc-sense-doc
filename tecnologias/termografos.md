@@ -114,7 +114,7 @@ Una vez tomada la decisión de usar *Bluetooth LE* para la comunicación con los
  - Precio: 199€
 
 ![](./imagenes/variable_node_clima.jpg)
-###### *Figura 7: BlueRadios nBlue*
+###### *Figura 3.2.7: BlueRadios nBlue*
 
  
  
