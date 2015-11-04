@@ -1,9 +1,11 @@
 # 8.2. Dificultades encontradas
 
-La principal dificultad para el desarrollo de este proyecto ha sido encontrar el tiempo y la motivación para realizarlo. Al estar trabajando, el tiempo libre con el que he dispuesto me ha resultado un poco escaso, y el ponerse a programar en el tiempo libre después de haber estado realizandolo durante mi jornada es lo que más trabajo me ha costado. Me gusta programar, de hecho me encanta, pero también me gusta disfrutar de tiempo con mi familia y amigos.
+Uno de los primeros obstáculos con los que topé fue la excasa documentación técnica que me encontraba por parte de los fabricantes de los sensores, poco a poco, rebuscando por internet, escribiendole correos a algunos, o con código y ejemplos de la comunidad fui nutriéndome de 
 
 documentacion de sensores
 
 dificultad para depurar con bluetooth
 
 escritura de la memoria y documentaci´n
+
+Pero la principal dificultad para el desarrollo de este proyecto ha sido, sin duda alguna, **encontrar el tiempo y la motivación para realizarlo**. Al estar trabajando, el tiempo libre con el que he dispuesto me ha resultado un poco escaso, y el ponerse a programar en el tiempo libre después de haber estado realizándolo durante mi jornada es lo que más trabajo me ha costado. Me gusta programar, de hecho me encanta, pero también me gusta disfrutar de tiempo con mi familia y amigos.
