@@ -4,7 +4,7 @@ Esta será la herramienta que use el usuario que tome el rol de administrador, c
 
 ## Configuración de pizarras de monitorización
 
-Cuando sea necesario **crear o editar una pizarra**, habrá que entrar en el entorno de Ducksboard y autenticarse con su usuario y password de administración. Una vez dentro de la plataforma, si se selecciona el menú de selección de panel de la derecha que se ve en la Figura 6.2.1 puede seleccionarse la opción 'Add a new dashboard'.
+Cuando sea necesario **crear o editar una pizarra**, habrá que entrar en el entorno de Ducksboard y autenticarse con su usuario y password de administración. Una vez dentro de la plataforma, si se selecciona el menú de selección de panel de la derecha que se ve en la Figura A.6 puede seleccionarse la opción 'Add a new dashboard'.
 
 ![](./imagenes/ducksboard_crear_dashboard.png)
 ##### *Figura 6.2.1: Crear nuevo dashboard en Ducksboard*
