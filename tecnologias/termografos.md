@@ -46,8 +46,8 @@ Una vez tomada la decisión de usar *Bluetooth LE* para la comunicación con los
  - Diseñado para que la batería dure varios años, usa una pila tamaño botón.
  - Sensor multiprotocolo que soporta Bluetooth/6LowPan/Zigbee
  - Tiene incluidos sensores de temperatura, temperatura por infrarojos, barómetro, altímetro, luz ambiental, humedad, magnetómetro, giroscopio.
- - Además dispone de micrófono, vibración, modo iBeacon y chip de memoria para almacenamiento de datos
- - Dispone de código de ejemplo de aplicaciones Android y iPhone.
+ - Además dispone de micrófono, vibración, modo *iBeacon* y chip de memoria para almacenamiento de datos
+ - Dispone de código de ejemplo de aplicaciones *Android* y *iPhone*.
  - Precio: 30€
  
  ![](./imagenes/texas_instruments_sensortag.jpg)
