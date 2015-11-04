@@ -13,7 +13,7 @@ En el mercado existen multitud de fabricantes e incontables modelos de *smarthph
 
 
 ## 3.1.2 Android
-- Sistema Operativo con kernel de Linux creado por Google que fue lanzado en Septiembre de 2008.
+- Sistema operativo con kernel de Linux creado por Google que fue lanzado en Septiembre de 2008.
 - Programación en Java.
 - El código fuente es libre.
 - Disponible en terminales de multitud de marcas como Samsung, Sony, HTC, LG, Motorola, ASUS, etc.
