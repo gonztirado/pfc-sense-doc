@@ -1,6 +1,8 @@
 # 4.1. Requisitos
 
-Como explicamos anteriormente, el objetivo del proyecto consiste en monitorizar los datos de temperatura de diferentes sensores tanto desde el terminal como de forma remota. Quedaría por identificar los diferentes actores que tienen que interacturar con la solución y los requisitos tanto funcionales como no funcionales.
+Como explicamos anteriormente, el objetivo del proyecto consiste en monitorizar los datos de temperatura de diferentes sensores tanto desde el terminal como de forma remota. 
+
+Quedaría por identificar los diferentes actores que tienen que interacturar con la solución y los requisitos tanto funcionales como no funcionales.
 
 
 ## 4.1.1. Actores
