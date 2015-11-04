@@ -33,7 +33,7 @@ El primer paso consiste en determinar que tecnología inalámbrica vamos a utili
 | **Wifi**         | No           | Si          | No                 | Si                       |
 | **Zigbee**       | Si           | Si*         | Si                 | No                       |
 | **Bluetooth LE** | Si           | Si          | No                 | Si                       | 
-###### *Tabla 1: Comparativa de protocolos de comunicación inalámbrica*
+###### *Tabla 3.2.1: Comparativa de protocolos de comunicación inalámbrica*
 
 Analizadas las diferentes tecnologías inalámbricas disponibles llegamos a la conclusión de que vamos a utilizar **Bluetooth Low Energy** ya que cumple las características que buscamos: bajo consumo, bajo coste y ya disponible en la mayoría de terminales del mercado sacados al mercado en el último año. Aunque no dispone de forma nativa de topología en malla para la comunicación entre sí de diferentes sensores, existen soluciones de fabricantes que ya lo proporcionan. De todas formas esta característica inicialmente no nos va a ser necesaria para el desarrollo de la solución.
 
