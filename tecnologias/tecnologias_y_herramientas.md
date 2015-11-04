@@ -1,4 +1,4 @@
-# Tecnologías y herramientas
+# 3.1. Tecnologías y herramientas
 
 Para el desarrollo del proyecto es necesario realizar una aplicación para smartphone que se sincronice con unos sensores de temperatura inalámbricos. Por lo tanto la primera busqueda consistirá en **analizar las diferentes plataformas de desarrollo móvil**, su curva de aprendizaje, su capacidad de comunicación inalámbrica, su cuota de mercado actual y los costes de sus terminales.
 
