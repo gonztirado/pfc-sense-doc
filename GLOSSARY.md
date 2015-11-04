@@ -19,3 +19,7 @@ Generic Attribute Profile. Es una especificación general para el envío y la re
 ## JSON
 
 JSON es el acrónimo de JavaScript Object Notation, se trata de un formato ligero para el intercambio de datos.
+
+## SDK
+
+(Software Development Kit): Es generalmente un conjunto de herramientas de desarrollo de software que le permite al programador crear aplicaciones para un sistema concreto.
