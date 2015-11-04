@@ -41,7 +41,7 @@
    * [Mejoras futuras](conclusiones/mejoras_futuras.md)
 * [Agradecimientos](agradecimientos/agradecimientos.md)
 * [Bibliografía](bibliografia/bibliografia.md)
-* [Manual de usuario](manual/manual_de_usuario.md)
+* [Apendice A: Manual de usuario](manual/manual_de_usuario.md)
    * [Aplicación móvil](manual/aplicacion_movil.md)
    * [Administración web](manual/administracion_web.md)
    * [Monitorización remota](manual/monitorizacion_remota.md)
