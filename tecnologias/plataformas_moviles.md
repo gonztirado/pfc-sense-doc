@@ -6,7 +6,7 @@ En el mercado existen multitud de fabricantes e incontables modelos de *smarthph
 - Sistema operativo creado por *Apple* que fue lanzado en Junio de 2007 con el primer *iPhone*.
 - Programación en *Objetive C* y *Swift*.
 - Código fuente propietario.
-- Sólo disponible en dispositivos de *Apple*: iPhone, iPad y iPod Touch.
+- Sólo disponible en dispositivos de *Apple*: *iPhone*, *iPad* y *iPod Touch*.
 - Soporte de Bluetooth Low Energy para dispositivos iOS 5 en adelante.
 - Cuota de mercado en 2015 del 18.3%.
 - Curva de aprendizaje personal alta, ya que desconozco por completo el desarrollo en esta plataforma y además es necesario un Mac.
