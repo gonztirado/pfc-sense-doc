@@ -14,7 +14,7 @@ Puede ocurrir que el despositivo no permita instalar aplicaciones que provengan 
 
 ## Sincronización de sensores
 
-Nada más arrancar, el técnico tiene acceso a la pantalla de sincronización de sensores que se observa en la Figura 6.1.2. Para visualizar los sensores disponibles para su conexión deberá darle al botón 'Escanear', una vez que termina el escaneado podrá seleccionar el sensor al que desea sincronizarse.
+Nada más arrancar, el técnico tiene acceso a la pantalla de sincronización de sensores que se observa en la Figura A.2. Para visualizar los sensores disponibles para su conexión deberá darle al botón 'Escanear', una vez que termina el escaneado podrá seleccionar el sensor al que desea sincronizarse.
 
 ![](./imagenes/pantalla_sincronizacion_sensores.png)
 ##### Figura A.2: Pantalla de sincronización de sensores
