@@ -1,3 +1,3 @@
 # 7.1. Depuración y busqueda de errores
 
-Para verificar el funcionamiento de la aplicación, se ha hecho uso del depurador de Android Studio 
+Para verificar el funcionamiento de la aplicación, se ha hecho uso del depurador de Android Studio conectado con el terminal ya que no nos era posible hacer las pruebas directamente con el simulador porque necesitabamos de la conectividad Bluetooth
