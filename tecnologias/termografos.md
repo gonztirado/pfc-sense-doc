@@ -129,7 +129,7 @@ Una vez tomada la decisión de usar *Bluetooth LE* para la comunicación con los
 | **Node Clima**   | Si    | No       | Si        | Si  | Si      | --            | Si           | 199€  |
 ###### *Tabla 3.2.2: Comparativa de sensores de temperatura*       
 
-Analizados los diferentes sensores encontrados, y valorando sobre todo el número de servicios de los que dispone y el menor coste posible **decidimos optar por el sensor SensorTag de Texas Instruments**. Además dispone de documentación técnica y de ejemplos de uso con aplicaciones Android.
+Analizados los diferentes sensores encontrados, y valorando sobre todo el número de servicios de los que dispone y el menor coste posible **decidimos optar por el sensor SensorTag de Texas Instruments**. Además dispone de documentación técnica y de ejemplos de uso con aplicaciones Android tal y como muestra la Tabla 3.2.2.
 
 Sin embargo, otros sensores analizados tienen características atractivas dependiendo de para que tipo de uso se le va a dar a la aplicación. Sensores con protección IP67 resistentes al agua y al polvo como Tempo Disc pueden resultar interesantes para recuperar la información dentro de cámaras frigoríficas. Por otra parte, sensores capaces de leer el nivel de fertilizante del suelo como Flower Power pueden ser interesantes para el control de cultivos y para el cuidado de plantas. 
 
