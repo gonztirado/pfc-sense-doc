@@ -1,2 +1,2 @@
-# Dificultades encontradas
+# 8.2. Dificultades encontradas
 
