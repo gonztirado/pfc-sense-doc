@@ -52,10 +52,9 @@ En el mercado existen multitud de fabricantes e incontables modelos de *smarthph
 - Curva de aprendizaje personal media. Estoy familiarizado con el desarrollo web pero no he realizado una aplicación móvil completa con un *framework* *HTML 5*.
  
 
-
-
-
 ## 3.1.6. Conclusión
+
+Vamos a comparar todas las plataformas para elegir de la forma más objetiva posible la plataforma por la que nos decantaremos. En la Tabla 3.1.1 podemos observar los parámetros tenidos en cuenta para la elección.
 
 | Plataforma        | Lenguaje nativo           | Bluetooh LE   | Cuota 2015 | Curva de aprendizaje |
 | ----------------- | ------------------------- | ------------- | ---------- | -------------------- |
