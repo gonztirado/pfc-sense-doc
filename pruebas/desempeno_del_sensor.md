@@ -5,4 +5,4 @@ Se han realizado varias pruebas para determinar el correcto funcionamiento de lo
 | Imágen | Modelo del Sensor | 2:0 | 3:0 | 4:0 |
 | -- | -- | -- | -- | -- |
 | ![](./imagenes/sensortag_clasico.png)| SensorTag | 2:2 | 3:2 | 4:2 |
-| ![](./imagenes/sensortag_nuevo.png) | SensorTag | 2:3 | 3:3 | 4:3 |
+| ![](./imagenes/sensortag_nuevo.png) | SensorTag CC2650 | 2:3 | 3:3 | 4:3 |
