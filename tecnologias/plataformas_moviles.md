@@ -49,7 +49,7 @@ En el mercado existen multitud de fabricantes e incontables modelos de *smarthph
 - Disponible para todas las plataformas anteriores.
 - Soporte de *Bluetooth Low Energy* no nativo y dependiente de extensiones de terceros mantenidas por la comunidad. 
 - Cuota de mercado en sistemas operativos en 2015 inferior al 0.1% pero portable a todas las plataformas.
-- Curva de aprendizaje personal media. Estoy familiarizado con el desarrollo web pero no he realizado una aplicación móvil completa con un framework html5.
+- Curva de aprendizaje personal media. Estoy familiarizado con el desarrollo web pero no he realizado una aplicación móvil completa con un *framework* *HTML 5*.
  
 
 
