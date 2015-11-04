@@ -13,7 +13,7 @@ El servicio elegido para la parte de almacen de datos será **Parse** y para mos
 - Gestión de usuarios y permisos de accesos.
 - Servicio de mensajería push.
 - Acceso a los datos a través de api REST.
-- Hosting de aplicaciones web
+- *Hosting* de aplicaciones web
 - Capa de análisis de la aplicación.
 - Gestión y reportes de error.
 - SDK para para smartphones Android, iPhone y Windows Phone.
