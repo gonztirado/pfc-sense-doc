@@ -1,6 +1,6 @@
 # 8.2. Dificultades encontradas
 
-Uno de los primeros obstáculos con los que topé fue la excasa documentación técnica que me encontraba por parte de los fabricantes de los sensores, poco a poco, rebuscando por internet, escribiendole correos a algunos, o con código y ejemplos de la comunidad de software libre fui nutriéndome de la información que necesitaba 
+Uno de los primeros obstáculos con los que topé fue la excasa documentación técnica que me encontraba por parte de los fabricantes de los sensores, poco a poco, rebuscando por internet, escribiendole correos a algunos, o con código y ejemplos de la comunidad de software libre fui nutriéndome de la información que necesitaba.
 
 documentacion de sensores
 
