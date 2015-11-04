@@ -5,7 +5,7 @@ Como explicamos anteriormente, el objetivo del proyecto consiste en monitorizar 
 Quedaría por identificar los diferentes actores que tienen que interacturar con la solución y los requisitos tanto funcionales como no funcionales.
 
 
-## Actores
+## 4.1.1. Actores
 
 Tras la fase de análisis quedan identificados tres tipos de actores que van a hacer uso de la solución
 
