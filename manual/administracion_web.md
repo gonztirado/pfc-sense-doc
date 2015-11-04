@@ -19,7 +19,7 @@ Para añadir basta con pulsar el ícono de añadir que se encuentra en la botone
 ![](./imagenes/ducksboard_configurar_widget.png)
 ##### *Figura A.8: Configurar widget en Ducksboard*
 
-Una vez seleccionado el widgetID necesitaremos asignarselo a un determinado sensor, para ello haremos uso de nuestro entorno de administración en Parse tal y como vemos en la Figura 6.2.4.
+Una vez seleccionado el widgetID necesitaremos asignarselo a un determinado sensor, para ello haremos uso de nuestro entorno de administración en Parse tal y como vemos en la Figura A.9.
 
 ![](./imagenes/parse_configuracion_widget.PNG)
 ##### *Figura A.9: Configuración de widget en Parse*
