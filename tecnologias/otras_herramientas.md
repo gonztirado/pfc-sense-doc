@@ -31,7 +31,7 @@ Se trata de un cliente de escritorio para la gestión de repositorios *Git*. Hac
 
 
 ### Gitbook
-Gitbook es una plataforma web para la creación y distribución de libros electrónicos. Con un sencillo editor y haciendo uso del lenguaje de wiki Markdown permite crear libros, documentación y artículos de investigación de manera sencilla y exportables a diferentes formatos. También permite la utilización de formeateado Latex para la inclusión de fórmulas matemáticas. Entre los formatos de exportación se incluye HTML, pdf y formatos de libros electrónicos como epub y mobi. Se usará para llevar escribir la memoria del proyecto de manera ágil y tener un control de versiones de la misma.
+*Gitbook* es una plataforma web para la creación y distribución de libros electrónicos. Con un sencillo editor y haciendo uso del lenguaje de wiki *Markdown* permite crear libros, documentación y artículos de investigación de manera sencilla y exportables a diferentes formatos. También permite la utilización de formeateado *Latex* para la inclusión de fórmulas matemáticas. Entre los formatos de exportación se incluye *HTML*, *pdf* y formatos de libros electrónicos como *epub* y *mobi*. Se usará para llevar escribir la memoria del proyecto de manera ágil y tener un control de versiones de la misma.
 
 
 
