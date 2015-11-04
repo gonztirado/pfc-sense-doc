@@ -10,7 +10,7 @@
 
 ## CRUD
 
-CRUD es el acrónimo de Crear, Obtener, Actualizar y Borrar (del original en inglés: Create, Read, Update and Delete). Se usa para referirse a las funciones básicas en bases de datos o la capa de persistencia en un software.
+(Create, Read, Update and Delete) : Se usa para referirse a las funciones básicas en bases de datos o la capa de persistencia en un software (Crear, Obtener, Actualizar y Borrar).
 
 ## GATT
 
