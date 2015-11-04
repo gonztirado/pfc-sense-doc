@@ -22,7 +22,7 @@ En el mercado existen multitud de fabricantes e incontables modelos de smarthpho
 - Curva de aprendizaje personal baja, ya que he desarrollado con anterioridad en Java y he realizado varias aplicaciones sencillas ya en esta plataforma.
 
 
-## Windows Phone
+## 3.1.3. Windows Phone
 - Sistema Operativo creado por Microsoft que fue lanzado en Noviembre de 2010.
 - Programación en C# y Visual Basic.NET.
 - El código fuente es propietario.
