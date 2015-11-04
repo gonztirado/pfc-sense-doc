@@ -93,7 +93,7 @@ Una vez tomada la decisión de usar *Bluetooth LE* para la comunicación con los
  - Precio: 49€
 
 ![](./imagenes/parrot_flower_power.jpg)
-###### *Figura 3.25: Flower Power*
+###### *Figura 3.2.5: Flower Power*
 
 ### Blue Radios nBlue
  - Tamaño muy pequeño, 3.3cm de diámetro y 1cm de alto.
