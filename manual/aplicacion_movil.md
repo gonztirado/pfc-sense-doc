@@ -9,7 +9,7 @@ El primer paso para poder usar la aplicación para Android es instalarla conveni
 Puede ocurrir que el despositivo no permita instalar aplicaciones que provengan de la tienda oficial de aplicaciones Android *Google Play*. En ese caso, tendremos que activar la opción de instalación de aplicaciones desde orígines desconocidos tal y como se observa en la Figura 6.1.1. Esta se encuentra en el menú de configuración del dispositivo en la sección 'Seguridad'.
 
 ![](./imagenes/configuracion_origenes_desconocidos.png)
-##### Figura 6.1.1: Instalación de aplicaciones desde orígenes desconocidos
+##### Figura A.1: Instalación de aplicaciones desde orígenes desconocidos
 
 
 ## 6.1.2. Sincronización de sensores
