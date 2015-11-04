@@ -5,6 +5,4 @@ Para verificar el funcionamiento de la aplicación, se ha hecho uso del depurado
 ![](./imagenes/android_studio_depuracion.png)
 ##### *Figura 7.1.1: Depuración con Android Studio* 
 
-
-
 Además, hemos añadido trazas de log, para verificar el funcionamiento de la aplicación en un entorno en el que no teníamos capacidad de tener conectado el smartphone con el PC.
