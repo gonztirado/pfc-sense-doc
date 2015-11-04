@@ -11,7 +11,7 @@ El servicio elegido para la parte de almacen de datos será **Parse** y para mos
 - Tiene capa de acceso y persistencia en base de datos.
 - Almacenamiento de ficheros.
 - Gestión de usuarios y permisos de accesos.
-- Servicio de mensajería push.
+- Servicio de mensajería *push*.
 - Acceso a los datos a través de api REST.
 - *Hosting* de aplicaciones web
 - Capa de análisis de la aplicación.
