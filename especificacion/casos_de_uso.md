@@ -64,7 +64,7 @@ A continuación veremos un listado detallado de los casos de uso:
 ###### *Tabla 4.2.4: Caso de uso - Configuración de dashboard de monitorización*
 
 
-## Monitorización remota de los sensores
+## 4.2.5. Monitorización remota de los sensores
 
 | Caso de uso | Monitorización remota de los sensores |
 | -- | -- |
@@ -75,4 +75,4 @@ A continuación veremos un listado detallado de los casos de uso:
 | **Flujo** | Acceso mediante una url de monitorización web previamente proporcionada |
 | **Información adicional** | Las gráficas deben proporcionar los valores en tiempo real sin necesidad de refresco |
 
-###### *Tabla 5: Caso de uso: Monitorización remota de los sensores*
+###### *Tabla 4.2.5: Caso de uso - Monitorización remota de los sensores*
