@@ -60,10 +60,9 @@ Una vez tomada la decisión de usar *Bluetooth LE* para la comunicación con los
 - Tiene incluidos sensores de temperatura, barómetro y humedad.
 - Grado de protección IP52 (protección contra polvo y goteo de agua).
 - Precio: 59€
- 
 
-![Figura 2](./imagenes/bluemaestro_tempo.jpg)
-###### *Figura 2: BlueMaestro Tempo*
+![](./imagenes/bluemaestro_tempo.jpg)
+###### *Figura 3.2.2: BlueMaestro Tempo*
 
 ### BlueMaestro Tempo Disc
  - Tamaño muy pequeño, 3.3cm de diámetro y 0.37cm de alto.
