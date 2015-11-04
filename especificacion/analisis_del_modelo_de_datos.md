@@ -9,4 +9,4 @@ Como los datos de sensores son de diferente tipo y queremos persistirlos en tabl
 
 
 ![Figura 2](./imagenes/diagrama_clase_sensordata.jpg)
-###### *Figura 4.3.22: Diagramas de clase de SensorData y sus clases hijas*
+###### *Figura 4.3.2: Diagramas de clase de SensorData y sus clases hijas*
