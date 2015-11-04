@@ -1,4 +1,4 @@
-# A.1. Aplicación móvil
+# Aplicación móvil
 
 La aplicación móvil es la que usaran los técnicos de campo para sincronizar los sensores y monitorizar la temperatura de los mismos. Se ha creado una interfaz simple e intuitiva para que la curva de aprendizaje sea lo más pequeña posible. De todas formas, se explicara como instalar la aplicación, como sincronizar los sensores y como configurarlos convenientemente.
 
