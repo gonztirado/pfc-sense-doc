@@ -4,7 +4,7 @@ Uno de los primeros obstáculos con los que topé fue la **escasa documentación
 
 Otra de las dificultades que encontré fue **depurar correctamente las conexiones Bluetooth**, Android Studio tiene unas herramientas magnificas para hacer depuración, pero algunos de los errores producidos se debieron a que era dificultoso depurar con el dispositivo real en lugar de con el simulador, ya que el entorno se ralentiza bastante más y resulta tedioso encontrar el origen de los fallos.
 
-dificultad para depurar con bluetooth
+Otro de los escollos que he tenido ha sido **la redacción de esta memoria**. Suelo documentar el código que escribo y hacerlo lo más entendible posible para que sea autoexplicativo y tener que evitar hacer documentación técnica de este nivel.  
 
 escritura de la memoria y documentaci´n
 
