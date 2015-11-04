@@ -1,4 +1,4 @@
-## Objetivo
+## 1.1. Objetivo
 
 Una vez establecido la necesidad de solventar los impedimentos anteriormente descritos, algunos ingenieros han creado modelos de termógrafos inalámbricos que no requieren instalación y que la recogida de datos y programación del mismo se realiza sin necesidad de cableado. Esto unido al uso de baterías y de protocolos de comunicación de bajo consumo como puede ser “ZigBee” (IEEE 802.15.4) o "Bluetooth LE" hacen que la autonomía de este tipo de dispositivos no sea un impedimento a la hora de crear una infraestructura para utilizarse en un entorno de producción real.
 
