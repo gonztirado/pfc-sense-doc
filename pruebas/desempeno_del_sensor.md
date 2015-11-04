@@ -1,2 +1,2 @@
-# Desempeño del sensor
+# 7.2. Desempeño del sensor
 
