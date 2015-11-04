@@ -9,7 +9,7 @@ Análisis de la historia y evolución del proyecto a través de los años, las t
 Realizamos un estudio de las tecnologías y herramientas existentes, comparándolas para determinar cuales de ellas vamos a usar en el desarrollo del proyecto.
 
 * **Capítulo 4.	Especificación y análisis**:
-Concretamos la toma de requisitos, funcionales y no funcionales, detallando los casos de usos detectados. También analizamos el modelo, los controladores y la interfaz de usuario de la solución propuesta.
+Concretamos la toma de requisitos, funcionales y no funcionales, detallando los casos de usos detectados. También analizamos el modelo, los controladores y la interfaz de usuario de las diferentes partes del proyecto.
 
 * **Capítulo 5.	Implementación y desarrollo**:
 En este capítulo se  explicará la metodología de trabajo aplicada y detallaremos cada una de las iteraciones realizadas para desarrollar la solución propuesta.
