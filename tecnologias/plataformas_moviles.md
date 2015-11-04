@@ -53,6 +53,10 @@ En el mercado existen multitud de fabricantes e incontables modelos de *smarthph
  
 
 
+
+
+## 3.1.6. Conclusión
+
 | Plataforma        | Lenguaje nativo           | Bluetooh LE   | Cuota 2015 | Curva de aprendizaje |
 | ----------------- | ------------------------- | ------------- | ---------- | -------------------- |
 | **iOS**           |  Objetive C, Swift        | Si (OS 5+)    | 18.30%     | Alta                 |
@@ -61,7 +65,6 @@ En el mercado existen multitud de fabricantes e incontables modelos de *smarthph
 | **BlackBerry 10** |  C/C++, Qt/Cascades       | Si (OS 10.0+) | 0.30%      | Baja                 |
 | **Híbrido HTML5** |  HTML5, CSS3 y Javascript | con plugins   | 100%       | Media                |
 ###### *Tabla 3.1.1: Comparativa de plataformas móviles*
-
 
 Una vez analizados las diferentes plataformas disponibles llegamos a la conclusión de que vamos a **desarrollar la aplicación en Android** ya que, aunque no es la plataforma en la que estoy más familiarizado, el aprendizaje de la misma no me va a resultar muy dificultoso ya que me manejo bien con Java. Por otra parte, también tiene soporte para conectarse con dispositivos Bluetooth Low Energy y es la plataforma lider en cuanto a ventas de terminales. Además, como BlackBerry 10 tiene soporte para aplicaciones Android, también debería funcionar la aplicación en esta plataforma.
 
