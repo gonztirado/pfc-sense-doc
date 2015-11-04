@@ -16,10 +16,10 @@ Está basado en el software *IntelliJ IDEA* de *JetBrains*, y es publicado de fo
 ### Bitbucket
 *Bitbucket* es un servicio de alojamiento web para los proyectos que utilizan el sistema de control de revisiones *Git*. Es similar a *Github* con la ventaja de que *Bitbucket* ofrece con un número ilimitado de repositorios privados. Y los planes de precios van en función del tamaño del equipo de trabajo en lugar de por el número de repositorios privados, por lo tanto para pequeños equipos o para programadores en solitario es mejor opción que *Github*. Otras funcionalidades que incluyen son:
 
-- Editor visual para pull request.
+- Editor visual para *pull request*.
 - Comentarios en lineas código.
 - Permisos a nivel de ramas.
-- Integración con JIRA.
+- Integración con *JIRA*.
 
 
 ### Sourcetree
