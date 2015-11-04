@@ -102,8 +102,8 @@ Una vez tomada la decisión de usar *Bluetooth LE* para la comunicación con los
  - Grado de protección IP52 (protección contra polvo y goteo de agua).
  - Precio: 39€
 
-![Figura 6](./imagenes/blueradios_nblue.jpg)
-###### *Figura 6: BlueRadios nBlue*
+![](./imagenes/blueradios_nblue.jpg)
+###### *Figura 3.2.6: BlueRadios nBlue*
 
 ### Variable Node Clima
  - Tamaño mediano, 3.26cm de diámetro y 8.27cm de largo.
