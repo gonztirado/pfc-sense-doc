@@ -5,7 +5,7 @@ Ya teniendo el diseño de como va a ser el modelo de datos, el siguiente paso es
 ![](./imagenes/diagrama_sensordata_controller.JPG)
 ###### *Figura 4.4.1: Diagramas de clase del controlador de tratamiento de valores de los sensores*
 
+La Figura 4.4.2 muestra el diseño de diagramas de clase de los controladores que se encargan de la configuración de Parse y del envío de datos al panel de Ducksboard.
 
-
-![Figura 2](./imagenes/diagrama_parse_ducksboard_controller.JPG)
-###### *Figura 2: Diagramas de clase de los controladores que se encargan de la configuración de Parse y del envío de datos al panel de Ducksboard*
+![](./imagenes/diagrama_parse_ducksboard_controller.JPG)
+###### *Figura 4.4.2: Diagramas de clase de los controladores de Parse y Ducksboard*
