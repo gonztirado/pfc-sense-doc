@@ -26,7 +26,7 @@ En el mercado existen multitud de fabricantes e incontables modelos de *smarthph
 - Sistema operativo creado por *Microsoft* que fue lanzado en Noviembre de 2010.
 - Programación en *C#* y *Visual Basic.NET*.
 - El código fuente es propietario.
-- Disponible en terminales de multitud de marcas como Microsoft/Nokia, Acer, ASUS, Dell, HP, Lenovo, Toshiba etc.
+- Disponible en terminales de multitud de marcas como *Microsoft/Nokia*, *Acer*, *ASUS*, *Dell*, *HP*, *Lenovo*, *Toshiba*, etc.
 - Soporte de Bluetooth Low Energy a partir de Windows Phone 8.1.
 - Cuota de mercado en 2015 del 2.7%.
 - Curva de aprendizaje personal media, no he desarrollado ninguna aplicación para Windows Phone con anterioridad pero si he utilizado Visual Studio.
