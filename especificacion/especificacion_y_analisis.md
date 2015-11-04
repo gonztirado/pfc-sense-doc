@@ -4,4 +4,4 @@ Una vez elegidas las tecnologías y las herramientas que se van a utilizar queda
 
 Además, definiremos los casos de uso de la aplicación para los diferentes actores que van a ser participes de la solución.
 
-Por último, haremos un análisis de las diferentes partes que componen la aplicación: módelo, controladores y vista; y desglosaremos el diseño propuesto para cada una de ellas.
+Por último, haremos un análisis de las diferentes partes que componen la aplicación: modelo, controladores y vista; y desglosaremos el diseño propuesto para cada una de ellas.
