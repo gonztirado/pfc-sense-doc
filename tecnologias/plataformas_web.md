@@ -24,7 +24,7 @@ El servicio elegido para la parte de almacen de datos será **Parse** y para mos
 - Se trata de un *dashboard as a service*.
 - Da la posibilidad de mostrar gráficas de servicios de terceros.
 - Permite crear gráficas personalizadas con datos propios.
-- API REST para push de datos a las diferentes gráficas.
+- API REST para *push* de datos a las diferentes gráficas.
 - Gráficas animadas y visualmente atractivas.
 - Modo TV para mostrar las gráficas en pantalla completa.
 - Buena documentación de los servicios.
