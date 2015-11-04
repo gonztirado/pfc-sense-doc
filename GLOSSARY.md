@@ -18,7 +18,7 @@
 
 ## JSON
 
-JSON es el acrónimo de JavaScript Object Notation, se trata de un formato ligero para el intercambio de datos.
+(JavaScript Object Notation): Se trata de un formato ligero para el intercambio de datos basado en notación Javascript.
 
 ## SDK
 
