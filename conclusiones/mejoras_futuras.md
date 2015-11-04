@@ -5,7 +5,7 @@ Considero que este proyecto tiene largo recorrido y que se pueden seguir realiza
 - Programación de alertas en el dispositivo cuando los sensores alcancen ciertos umbrales críticos.
 - Captura de posición GPS para adjuntar en la toma de temperaturas. Esto permitiría crear informes sobre mapas con rutas geoposicionadas para, por ejemplo, monitorizar rutas de camiones refrigerados.
 - Búsqueda de sensores perdidos aprovechando la capacidad que tienen los mismos de usarse como balizas de localización.
-- Exportación a diferentes formatos, ya es posible exportar a JSON desde Parse. Pero estaría bien poder exportar también a Excel, CVS, y XML, por ejemplo.
+- Exportación a diferentes formatos, ya es posible exportar a JSON desde Parse. Pero estaría bien poder exportar también a Excel, CSV, y XML, por ejemplo.
 
 - Mejoras opcionales:
     - Alertas programables cuando se alcancen umbrales críticos
