@@ -1,4 +1,4 @@
-# Historia
+# 2. Historia
 
 Este proyecto se empezó a realizar con propósito empresarial hace ya unos años y ha pasado por varias fases antes de llegar al momento actual de desarrollo. Conforme han pasado los años, los medios tecnológicos han evolucionado de forma notable y algunas consideraciones que se tomaron para la puesta en marcha de los primeros prototipos se han descargado o han cambiado con el paso del tiempo.
 
