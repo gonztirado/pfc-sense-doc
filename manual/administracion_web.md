@@ -37,4 +37,4 @@ Para realizar copias de seguridad es necesario seleccionar el icono de 'Export' 
 A su vez, realizar un importación de datos no entabla ningún problema, sólo es necesario pulsar el botón 'Import' y cargar el archivo JSON previamente generado como se ve en la Figura 6.2.6.
 
 ![](./imagenes/parse_importar_datos.jpg)
-##### *Figura 6.2.64: Importación de datos en Parse*
+##### *Figura A.11: Importación de datos en Parse*
