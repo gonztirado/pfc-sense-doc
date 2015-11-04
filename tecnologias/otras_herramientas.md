@@ -23,11 +23,11 @@ Está basado en el software *IntelliJ IDEA* de *JetBrains*, y es publicado de fo
 
 
 ### Sourcetree
-Se trata de un cliente de escritorio para la gestión de repositorios Git. Hace que el control de versiones del código sea más cómodo y evitar tener que hacer uso de las lineas de comando. Además, permite realizar Git-flow de manera más sencilla.
+Se trata de un cliente de escritorio para la gestión de repositorios *Git*. Hace que el control de versiones del código sea más cómodo y evitar tener que hacer uso de las lineas de comando. Además, permite realizar Git-flow de manera más sencilla.
 
 
 ### JIRA
-JIRA es una aplicación basada en web para el seguimiento de errores, de incidentes y para la gestión operativa de proyectos. Se usará para llevar una correcta gestión y organización de tareas. Además incluye soporte para la gestión ágil de proyectos, permitiendo utilizar pizarras virtuales de Scrum y Kanban.
+*JIRA* es una aplicación basada en web para el seguimiento de errores, de incidentes y para la gestión operativa de proyectos. Se usará para llevar una correcta gestión y organización de tareas. Además incluye soporte para la gestión ágil de proyectos, permitiendo utilizar pizarras virtuales de *Scrum* y *Kanban*.
 
 
 ### Gitbook
