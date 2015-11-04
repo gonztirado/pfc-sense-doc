@@ -50,7 +50,7 @@ Una vez tomada la decisión de usar *Bluetooth LE* para la comunicación con los
  - Dispone de código de ejemplo de aplicaciones Android y iPhone.
  - Precio: 30€
  
- ![Figura 1](./imagenes/texas_instruments_sensortag.jpg)
+ ![](./imagenes/texas_instruments_sensortag.jpg)
 ###### *Figura 1: Texas Instruments SensorTag*
 
 ### BlueMaestro Tempo
