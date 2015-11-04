@@ -7,7 +7,8 @@ Con los requisitos y actores correctamente definidos, procederemos a identificar
 
 A continuación veremos un listado detallado de los casos de uso:
 
-## Consulta de listado de sensores
+
+## 4.2.1. Consulta de listado de sensores
 
 | Caso de uso | Consulta de listado de sensores |
 | -- | -- |
@@ -19,10 +20,10 @@ A continuación veremos un listado detallado de los casos de uso:
 | **Flujo Alternativo** | Si el usuario vuelve de la pantalla de monitorización debe mostrarse de nuevo el listado |
 | **Información adicional** | Se debe información descriptiva sobre el sensor para poder seleccionarlo convenientemente como puede ser su nombre, su dirección mac, una imagen identificativa, etc |
 
-###### *Tabla 1: Caso de uso: Consulta de listado de sensores*
+###### *Tabla 4.2.1: Caso de uso - Consulta de listado de sensores*
 
 
-## 4.2.1. Monitorización de temperaturas in situ
+## 4.2.2. Monitorización de temperaturas in situ
 
 | Caso de uso | Monitorización de temperaturas in situ |
 | -- | -- |
@@ -33,10 +34,10 @@ A continuación veremos un listado detallado de los casos de uso:
 | **Flujo** | El selecciona un sensor de la lista y arranca la conexión al mismo y la monitorización de los valores que devuelve |
 | **Información adicional** | Se debe información descriptiva sobre el servicio a los que se está conectado, su valor actual y una gráfica con el histórico de valores |
 
-###### *Tabla 2: Caso de uso: Monitorización de temperaturas in situ*
+###### *Tabla 4.2.2: Caso de uso - Monitorización de temperaturas in situ*
 
 
-## Consulta y exportación de datos históricos
+## 4.2.3. Consulta y exportación de datos históricos
 
 | Caso de uso | Consulta y exportación de datos históricos |
 | -- | -- |
@@ -47,10 +48,10 @@ A continuación veremos un listado detallado de los casos de uso:
 | **Flujo** | Después de acceder al entorno mediante clave de usuario se mostrarán los datos enviados por los diferentes sensores |
 | **Información adicional** | El entorno de visualización de datos traerá además una gestión de tuplas CRUD y la posibilidad de exportar e importar datos con el fin de integración con otras plataformas y la creación de copias de seguridad |
 
-###### *Tabla 3: Caso de uso: Consulta y exportación de datos históricos*
+###### *Tabla 4.2.3: Caso de uso - Consulta y exportación de datos históricos*
 
 
-## Configuración de dashboard de monitorización
+## 4.2.4. Configuración de dashboard de monitorización
 
 | Caso de uso | Configuración de dashboard de monitorización |
 | -- | -- |
@@ -60,7 +61,7 @@ A continuación veremos un listado detallado de los casos de uso:
 | **Postcondiciones** | Se podrán crear nuevos paneles de monitorización y editar los ya existentes |
 | **Flujo** | Después de acceder al entorno mediante clave de usuario se accederá al entorno de configuración de los paneles de monitorización |
 
-###### *Tabla 4: Caso de uso: Configuración de dashboard de monitorización*
+###### *Tabla 4.2.4: Caso de uso - Configuración de dashboard de monitorización*
 
 
 ## Monitorización remota de los sensores
