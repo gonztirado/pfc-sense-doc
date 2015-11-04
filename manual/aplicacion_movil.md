@@ -26,7 +26,7 @@ Si no aparece el sensor al que se quiere conectar en la lista de dispositivos di
 
 ## Configuración de sensores
 
-Una vez seleccionado un sensor de la lista, se procederá a la conexión con el mismo. Tras la conexión, se mostrará la pantalla de monitorización de los servicios disponibles por el sensor. Si se pulsa sobre uno de los servicios listados, aparecerá el bloque de configuración del mismo. Esta configuración permite habilitar/deshabilitar el sensor y cambiar el tiempo de refresco de sus valores como puede observarse en la Figura 6.1.4.
+Una vez seleccionado un sensor de la lista, se procederá a la conexión con el mismo. Tras la conexión, se mostrará la pantalla de monitorización de los servicios disponibles por el sensor. Si se pulsa sobre uno de los servicios listados, aparecerá el bloque de configuración del mismo. Esta configuración permite habilitar/deshabilitar el sensor y cambiar el tiempo de refresco de sus valores como puede observarse en la Figura A.4.
 
 ![](./imagenes/configuracion_servicio_sensor.png)
 ##### Figura 6.1.4: Configuración de un servicio del sensor
