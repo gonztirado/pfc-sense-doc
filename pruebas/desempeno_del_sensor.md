@@ -6,3 +6,4 @@ Se han realizado varias pruebas para determinar el correcto funcionamiento de lo
 | -- | -- | -- | -- | -- |
 | ![](./imagenes/sensortag_clasico.png)| SensorTag | 10 metros | 4 metros | +- 2º C |
 | ![](./imagenes/sensortag_nuevo.png) | SensorTag CC2650 | 15 metros | 5 metros | +-5º C |
+##### *Figura 7.1.1: Desempeño de los sensores* 
