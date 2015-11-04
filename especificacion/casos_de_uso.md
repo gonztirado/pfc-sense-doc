@@ -22,7 +22,7 @@ A continuación veremos un listado detallado de los casos de uso:
 ###### *Tabla 1: Caso de uso: Consulta de listado de sensores*
 
 
-## Monitorización de temperaturas in situ
+## 4.2.1. Monitorización de temperaturas in situ
 
 | Caso de uso | Monitorización de temperaturas in situ |
 | -- | -- |
