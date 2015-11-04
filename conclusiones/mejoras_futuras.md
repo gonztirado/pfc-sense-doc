@@ -1,4 +1,4 @@
-# 8.3. Mejoras futuras
+# 7.3. Mejoras futuras
 
 Considero que este proyecto tiene largo recorrido y que se pueden seguir realizando mejoras en el mismo. El mundo de los dispositivos Bluetooth está en auge y cada vez hay más variedad y con nuevas capacidades, así que se puede seguir investigando para añadir sacar más casos de uso que puedan llegar a ser útiles. También han quedado algunas funcionalidades en el tintero que más adelante se pueden ir incorporando, algunas de ellas son:
 
