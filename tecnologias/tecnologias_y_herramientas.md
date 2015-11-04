@@ -2,7 +2,7 @@
 
 Para el desarrollo del proyecto es necesario realizar una aplicación para *smartphone* que se sincronice con unos sensores de temperatura inalámbricos. Por lo tanto, la primera búsqueda consistirá en **analizar las diferentes plataformas de desarrollo móvil**, su curva de aprendizaje, su capacidad de comunicación inalámbrica, su cuota de mercado actual y los costes de sus terminales.
 
-También será necesario hacer una **investigación sobre los diferentes sensores de temperatura del mercado** para ver cual de ellos son los que se adecua más a las necesidades del proyecto. Para ellos los parámetros que tendremos en cuenta para la elección serán los protocolos de comunicación que implementan, los SDKs que tienen para diferentes plataformas, si tienen documentación y ejemplos de uso y el coste de los mismos.
+También será necesario hacer una **investigación sobre los diferentes sensores de temperatura del mercado** para ver cual de ellos son los que se adecua más a las necesidades del proyecto. Para ello, los parámetros que tendremos en cuenta para la elección serán los protocolos de comunicación que implementan, los SDKs que tienen para diferentes plataformas, si tienen documentación y ejemplos de uso y el coste de los mismos.
 
 Por otra parte, es necesario monitorizar los sensores de forma remota. Por ello, tendremos que realizar una **busqueda por las diferentes opciones existentes para realizar un backend web** para almacenar los datos de los sensores y la monitorización de valores actuales de cada sensor.
 
