@@ -1,4 +1,4 @@
-# 8.2. Dificultades encontradas
+# 7.2. Dificultades encontradas
 
 Uno de los primeros obstáculos con los que topé fue la **escasa documentación técnica que me encontraba por parte de los fabricantes de los sensores**, poco a poco, rebuscando por internet, escribiéndole correos a algunos, o con código y ejemplos de la comunidad de software libre fui nutriéndome de la información que necesitaba. Pienso que algo de lo que deberían tener en cuenta los fabricantes de este tipo de dispositivos es mejorar esta faceta, ya que, a fin de cuentas, sus dispositivos sin aplicaciones que le saquen partido resultan del todo inútiles. Al final, uno de los principales factores por los que me decanté por los sensores de *Texas Instrument*s fué porque son los que facilitaban más ejemplos y mejor documentación.
 
