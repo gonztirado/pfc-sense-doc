@@ -44,7 +44,7 @@ Una vez tomada la decisión de usar *Bluetooth LE* para la comunicación con los
 ### Texas Instruments SensorTag
  - Pequeño tamaño, 5x6.7x1.4 cm
  - Diseñado para que la batería dure varios años, usa una pila tamaño botón.
- - Sensor multiprotocolo que soporta Bluetooth/6LowPan/Zigbee
+ - Sensor multiprotocolo que soporta *Bluetooth*/*6LowPan*/*Zigbee*
  - Tiene incluidos sensores de temperatura, temperatura por infrarojos, barómetro, altímetro, luz ambiental, humedad, magnetómetro, giroscopio.
  - Además dispone de micrófono, vibración, modo *iBeacon* y chip de memoria para almacenamiento de datos
  - Dispone de código de ejemplo de aplicaciones *Android* y *iPhone*.
