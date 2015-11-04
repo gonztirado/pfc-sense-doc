@@ -1,7 +1,5 @@
 # Agradecimientos
 
-La elaboración de este proyecto ha requerido un gran sacrificio personal y mucho esfuerzo, pero he de recocer que he contado con gran ayuda y apoyo en el camino. Quiero agradecer de forma especial a todas aquellas personas que me han motivado, me han enseñado y me han prestado su ayuda.
-
 **A mi abuela**, especialmente a ella, por enseñarme que para hacer una carrera o aprender un oficio se necesita tener buena fe, constancia y tenerle cariño a aquello que se quiere aprender.
 
 **A mis padres**, por su amor incondicional, por proporcionarme la educación que tengo, por apoyarme siempre en todo lo que me he propuesto e impulsarme para que siguiera siempre hacia adelante.
