@@ -42,7 +42,7 @@ En el mercado existen multitud de fabricantes e incontables modelos de smarthpho
 - Curva de aprendizaje personal baja. Estoy muy familiarizado con la plataforma y he realizado ya multiples aplicaciones, de hecho mi terminal personal actualmente es una BlackBerry Z10.
 
 
-## Desarrollo Hibrido HTML5 
+## 3.1.5. Desarrollo Hibrido HTML5 
 - Existen varios sistemas operativos con desarrollos en HTML 5 como Firefox OS, Sailfish OS. Pero también se puede desarrollar en las plataformas anteriores con frameworks híbridos como IONIC, Mobile Angular UI, Intel XDK, Appcelerator Titanium, Sencha Touch, Kendo UI, PhoneGap y Apache Cordova
 - Programación en HTML5, CSS3 y Javascript
 - El código fuente es libre.
