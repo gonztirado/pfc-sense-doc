@@ -34,8 +34,8 @@ En el mercado existen multitud de fabricantes e incontables modelos de *smarthph
 
 ## 3.1.4. BlackBerry 10
 - Sistema operativo creado por *BlackBerry* que fue lanzado en Enero de 2013.
-- Programación nativa en *C++* con *Qt/Cascades*, pero también es compatible con aplicaciones Android realizadas en Java.
-- El código fuente del sistema operativo es propietario pero de Qt es libre.
+- Programación nativa en *C++* con *Qt/Cascades*, pero también es compatible con aplicaciones *Android* realizadas en *Java*.
+- El código fuente del sistema operativo es propietario pero el de *Qt* es libre.
 - Sólo disponible en terminales fabricados por BlackBerry.
 - Soporte de Bluetooth Low Energy a partir de la versión 10.0.
 - Cuota de mercado en 2015 del 0.3%.
