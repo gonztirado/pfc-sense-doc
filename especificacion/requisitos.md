@@ -32,10 +32,17 @@ Tras la fase de análisis quedan identificados tres tipos de actores que van a h
 ## 4.1.3. Requisitos no funcionales
 
 - **Usabilidad**: La aplicación ha de ser intuitiva para los usuarios, eliminando pasos innecesarios y minimizando las acciones necesarias para realizar las distintas operaciones.
+
 - **Aspecto**: La interfaz de usuario debe tener un aspecto atractivo e intuitivo que facilite la labor a los usuarios.
+
 - **Mantenimiento**: El código ha de estar bien estructurado y seguir un patrón de sangrado y comentado, además de tener una buena documentación, que faciliten su futuro mantenimiento.
+
 - **Robustez**: La aplicación tiene que ser robusta ante posibles fallos. Los posibles fallos que pudieran ocurrir se trataran correctamente y se informará al usuario en caso de error.
+
 - **Rendimiento**: La aplicación tiene que ir fluida y funcionar correctamente aunque hubiera conexiones lentas a acceso a datos móviles.
+
 - **Integración**: La solución tiene que ser capaz de dotar de una capa de integración con servicios de terceros para ampliar las funcionalidades de la misma.
+
 - **Persistencia**: La información de tratada en la aplicación debe ser persistida de modo que pueda recuperarse y analizarse a posteriori si fuera necesario.
+
 - **Documentación**: Se incluirá un manual de usuario comprensible por cualquier usuario básico y un manual de instalación de la aplicación.
