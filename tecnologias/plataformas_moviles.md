@@ -39,7 +39,7 @@ En el mercado existen multitud de fabricantes e incontables modelos de *smarthph
 - Sólo disponible en terminales fabricados por *BlackBerry*.
 - Soporte de *Bluetooth Low Energy* a partir de la versión 10.0.
 - Cuota de mercado en 2015 del 0.3%.
-- Curva de aprendizaje personal baja. Estoy muy familiarizado con la plataforma y he realizado ya multiples aplicaciones, de hecho mi terminal personal actualmente es una BlackBerry Z10.
+- Curva de aprendizaje personal baja. Estoy muy familiarizado con la plataforma y he realizado ya múltiples aplicaciones, de hecho mi terminal personal actualmente es una BlackBerry Z10.
 
 
 ## 3.1.5. Desarrollo Hibrido HTML5 
