@@ -57,7 +57,7 @@ La programación extrema se diferencia de las metodologías tradicionales princi
 
 ## 5.1.3. Metodología de trabajo elegida
 
-Aun habiendo ya definidos ya los requisitos y el diseño iniciales para la aplicación propios del desarrollo en cascada, **se va a optar por realizar un plan de desarrollo ágil e iterativo**, donde todo lo considerado previamente se revisará y modificará si estima necesario.
+Aun habiendo ya definidos ya los requisitos y el diseño iniciales para la aplicación propios del desarrollo en cascada, **se va a optar por realizar un plan de desarrollo ágil e iterativo**, donde todo lo considerado previamente se revisará y modificará si se estima necesario.
 
 Todas las metodologías ágiles están basadas en el trabajo en equipo y no de forma individual como es el caso de este proyecto. Sin embargo, muchos de sus principios son perfectamente validos aún trabajando sólo.
 
