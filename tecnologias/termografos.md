@@ -1,4 +1,4 @@
-# Termógrafos
+# 3.2. Termógrafos
 
 El siguiente paso en la investigación de tecnologías a utilizar consiste en encontrar un sensor apropiado para consultar la temperatura. 
 
