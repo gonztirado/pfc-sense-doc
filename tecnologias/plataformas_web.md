@@ -4,7 +4,7 @@ Una vez elegida la plataforma móvil y el termógrafo apropiado nos quedaría po
 
 Existen una inmensidad de tecnologías y maneras para desarrollar una aplicación web para monitorizar los datos de temperatura. Se estuvieron barajando varias posibilidades incluida la de hacer la aplicación web desde cero, pero la verdad, que este tipo de aplicación con gestión de tablas CRUD creo que no suponía el verdadero reto de este proyecto y se decidió por usar varios servicios que ya gestionan esta parte de forma genérica y adaptarlo para el propósito de esta aplicación.
 
-El servicio elegido para la parte de almacen de datos será **Parse** y para mostrar la monitorización en tiempo real será **Ducksboard**. A continuación se explicará brevemente las caracteristicas de ambas plataformas.
+El servicio elegido para la parte de almacen de datos será **Parse** y para mostrar la monitorización en tiempo real será **Ducksboard**. A continuación se explicará brevemente las características de ambas plataformas.
 
 ### Parse
 - Se trata de un *backend as a service*.
