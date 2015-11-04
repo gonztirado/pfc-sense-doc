@@ -27,7 +27,7 @@ Una vez seleccionado el widgetID necesitaremos asignarselo a un determinado sens
 
 ## Administración de datos
 
-El entorno de administración que proporciona Parse resulta muy intuitivo para todo aquel que ha interaccionado alguna vez con un *backoffice* con edición *CRUD*. Para hacer la tarea de consulta y filtrado de datos basta con acceder a la sección 'Data', seleccionar la tabla que queremos consultar y aplicar el filtro superior que se considere oportuno tal y como se muestra en la Figura 6.2.5.
+El entorno de administración que proporciona Parse resulta muy intuitivo para todo aquel que ha interaccionado alguna vez con un *backoffice* con edición *CRUD*. Para hacer la tarea de consulta y filtrado de datos basta con acceder a la sección 'Data', seleccionar la tabla que queremos consultar y aplicar el filtro superior que se considere oportuno tal y como se muestra en la Figura A.10.
 
 ![](./imagenes/parse_consulta_datos.jpg)
 ##### *Figura 6.2.5: Consulta y filtrado de datos en Parse*
