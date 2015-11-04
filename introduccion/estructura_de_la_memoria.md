@@ -1,4 +1,4 @@
-# Estructura de la memoria
+# 1.2. Estructura de la memoria
 
 Después de esta pequeña introducción al proyecto haremos una breve descripción de los siguientes capítulos de los que va a constar esta memoria:
 
