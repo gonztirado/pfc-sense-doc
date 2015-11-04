@@ -51,7 +51,7 @@ Una vez tomada la decisión de usar *Bluetooth LE* para la comunicación con los
  - Precio: 30€
  
  ![](./imagenes/texas_instruments_sensortag.jpg)
-###### *Figura 1: Texas Instruments SensorTag*
+###### *Figura 3.2.1: Texas Instruments SensorTag*
 
 ### BlueMaestro Tempo
 - tamaño mediano, 9x9x3 cm
