@@ -2,8 +2,8 @@
 
 Con los requisitos y actores correctamente definidos, procederemos a identificar los distintos casos de uso que podemos ver de forma general en el diagrama que muestra la Figura 4.2.1.
 
-![Figura 1](./imagenes/casos_de_uso.jpg)
-###### *Figura 1: Casos de uso*
+![](./imagenes/casos_de_uso.jpg)
+###### *Figura 4.2.1: Casos de uso*
 
 A continuación veremos un listado detallado de los casos de uso:
 
