@@ -6,6 +6,7 @@ Considero que este proyecto tiene largo recorrido y que se pueden seguir realiza
 - Captura de posición GPS para adjuntar en la toma de temperaturas. Esto permitiría crear informes sobre mapas con rutas geoposicionadas para, por ejemplo, monitorizar rutas de camiones refrigerados.
 - Búsqueda de sensores perdidos aprovechando la capacidad que tienen los mismos de usarse como balizas de localización.
 - Exportación a diferentes formatos, ya es posible exportar a JSON desde Parse. Pero estaría bien poder exportar también a Excel, CSV, y XML, por ejemplo.
+- Experimentar con otros sensores de otros fabricantes como el sensor de control de plantas de Parrot.
 
 - Mejoras opcionales:
     - Alertas programables cuando se alcancen umbrales críticos
