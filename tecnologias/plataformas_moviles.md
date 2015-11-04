@@ -2,7 +2,7 @@
 
 En el mercado existen multitud de fabricantes e incontables modelos de smarthphone disponibles para el consumidor, pero no tanta diversidad de plataformas móviles para el desarrollo. Vamos a a realizar una introducción sobre las diferentes alternativas existentes y ver las características de cada una.
 
-## 3.1.2. iOS
+## 3.1.1. iOS
 - Sistema Operativo creado por Apple que fue lanzado en Junio de 2007 con el primer iPhone.
 - Programación en Objetive C y Swift.
 - Código fuente propietario.
@@ -12,7 +12,7 @@ En el mercado existen multitud de fabricantes e incontables modelos de smarthpho
 - Curva de aprendizaje personal alta, ya que desconozco por completo el desarrollo en esta plataforma y además es necesario un Mac.
 
 
-## Android
+## 3.1.2 Android
 - Sistema Operativo con kernel de Linux creado por Google que fue lanzado en Septiembre de 2008.
 - Programación en Java.
 - El código fuente es libre.
